@@ -1,0 +1,5562 @@
+<UNK> 1.0	SPN
+trở 1.0	tr ow
+nên 1.0	n ee nz
+thụ 1.0	th u
+động 1.0	dd oo ngz
+cũng 1.0	k u ngz
+khiến 1.0	kh ie nz
+cho 1.0	ch o
+họ 1.0	h o
+dè 1.0	d e
+dặt 1.0	d aw tc
+chị 1.0	ch i
+gặn 1.0	g aw nz
+hỏi 1.0	h o iz
+anh 1.0	a ngz
+thề 1.0	th ee
+sống 1.0	s oo ngz
+chết 1.0	ch ee tc
+là 1.0	l a
+không 1.0	kh oo ngz
+có 1.0	k o
+điện 1.0	dd ie nz
+thoại 1.0	th w a iz
+reng 1.0	r e ngz
+nhưng 1.0	nh uw ngz
+ta 1.0	t a
+phải 1.0	ph a iz
+nhấc 1.0	nh aa kc
+máy 1.0	m a iz
+đúng 1.0	dd u ngz
+thuộc 1.0	th uo kc
+loại 1.0	l w a iz
+dày 1.0	d a iz
+đặc 1.0	dd aw kc
+nhất 1.0	nh aa tc
+trong 1.0	tr o ngz
+hệ 1.0	h ee
+mặt 1.0	m aw tc
+trời 1.0	tr ow iz
+các 1.0	k a kc
+vụ 1.0	v u
+tham 1.0	th a mz
+nhũng 1.0	nh u ngz
+và 1.0	v a
+bê 1.0	b ee
+bối 1.0	b oo iz
+kinh 1.0	k i ngz
+tế 1.0	t ee
+chúng 1.0	ch u ngz
+cứ 1.0	k uw
+cố 1.0	k oo
+lùi 1.0	l u iz
+lại 1.0	l a iz
+mặc 1.0	m aw kc
+dù 1.0	d u
+vướng 1.0	v wa ngz
+víu 1.0	v i uz
+gông 1.0	g oo ngz
+xiềng 1.0	s ie ngz
+bọn 1.0	b o nz
+buôn 1.0	b uo nz
+dự 1.0	d uw
+án 1.0	a nz
+chạy 1.0	ch a iz
+chọt 1.0	ch o tc
+bày 1.0	b a iz
+ra 1.0	r a
+để 1.0	dd ee
+kiếm 1.0	k ie mz
+chác 1.0	ch a kc
+tất 1.0	t aa tc
+cả 1.0	k a
+mọi 1.0	m o iz
+thứ 1.0	th uw
+đều 1.0	dd ee uz
+kỳ 1.0	k i
+lạ 1.0	l a
+một 1.0	m oo tc
+cách 1.0	k a kc
+phi 1.0	ph i
+thường 1.0	th wa ngz
+chương 1.0	ch wa ngz
+trình 1.0	tr i ngz
+ca 1.0	k a
+nhạc 1.0	nh a kc
+phần 1.0	ph aa nz
+lớn 1.0	l ow nz
+đột 1.0	dd oo tc
+phá 1.0	ph a
+rồi 1.0	r oo iz
+sang 1.0	s a ngz
+gõ 1.0	g o
+cửa 1.0	k wa
+phòng 1.0	ph o ngz
+ba 1.0	b a
+le 1.0	l e
+hai 1.0	h a iz
+dấm 1.0	d aa mz
+dúi 1.0	d u iz
+trả 1.0	tr a
+đại 1.0	dd a iz
+dương 1.0	d wa ngz
+nàng 1.0	n a ngz
+đôi 1.0	dd oo iz
+mắt 1.0	m aw tc
+to 1.0	t o
+sâu 1.0	s aa uz
+vầng 1.0	v aa ngz
+trán 1.0	tr a nz
+rộng 1.0	r oo ngz
+mênh 1.0	m ee ngz
+mông 1.0	m oo ngz
+tôi 1.0	t oo iz
+tự 1.0	t uw
+chăng 1.0	ch aw ngz
+đó 1.0	dd o
+do 1.0	d o
+dan 1.0	d a nz
+còn 1.0	k o nz
+quá 1.0	k w a
+trẻ 1.0	tr e
+ủy 1.0	w i
+ban 1.0	b a nz
+châu 1.0	ch aa uz
+âu 1.0	aa uz
+kêu 1.0	k ee uz
+gọi 1.0	g o iz
+những 1.0	nh uw ngz
+quốc 1.0	k w oo kc
+gia 1.0	d a
+phát 1.0	ph a tc
+triển 1.0	tr ie nz
+khi 1.0	kh i
+sao 1.0	s a uz
+nhãng 1.0	nh a ngz
+công 1.0	k oo ngz
+việc 1.0	v ie kc
+của 1.0	k w a
+mình 1.0	m i ngz
+thể 1.0	th ee
+lành 1.0	l a ngz
+lặn 1.0	l aw nz
+mà 1.0	m a
+vết 1.0	v ee tc
+sẹo 1.0	s e uz
+muốn 1.0	m uo nz
+đẹp 1.0	dd e pc
+ghè 1.0	g e
+làm 1.0	l a mz
+bó 1.0	b o
+cơ 1.0	k ow
+chân 1.0	ch aa nz
+nổi 1.0	n oo iz
+bật 1.0	b aa tc
+lên 1.0	l ee nz
+y 1.0	i
+bình 1.0	b i ngz
+hưng 1.0	h uw ngz
+hòa 1.0	h w a
+bị 1.0	b i
+hư 1.0	h uw
+hỏng 1.0	h o ngz
+cô 1.0	k oo
+nhè 1.0	nh e
+ngay 1.0	ng a iz
+cái 1.0	k a iz
+nọng 1.0	n o ngz
+cá 1.0	k a
+trê 1.0	tr ee
+nếu 1.0	n ee uz
+tưởng 1.0	t wa ngz
+tượng 1.0	t wa ngz
+bảy 1.0	b a iz
+tám 1.0	t a mz
+năm 1.0	n aw mz
+nữa 1.0	n wa
+ông 1.0	oo ngz
+chủ 1.0	ch u
+tịch 1.0	t i kc
+tuyên 1.0	t w ie nz
+bố 1.0	b oo
+như 1.0	nh uw
+thế 1.0	th ee
+nào 1.0	n a uz
+cha 1.0	ch a
+con 1.0	k o nz
+cậu 1.0	k aa uz
+mỗi 1.0	m oo iz
+xe 1.0	s e
+rác 1.0	r a kc
+đi 1.0	dd i
+ngang 1.0	ng a ngz
+qua 1.0	k w a
+đánh 1.0	dd a ngz
+kẻng 1.0	k e ngz
+mới 1.0	m ow iz
+đem 1.0	dd e mz
+đổ 1.0	dd oo
+thay 1.0	th a iz
+vì 1.0	v i
+bốn 1.0	b oo nz
+giờ 1.0	d ow
+trước 1.0	tr wa kc
+đây 1.0	dd aa iz
+hầu 1.0	h aa uz
+hết 1.0	h ee tc
+nang 1.0	n a ngz
+này 1.0	n a iz
+nguồn 1.0	ng uo nz
+gốc 1.0	g oo kc
+từ 1.0	t uw
+gân 1.0	g aa nz
+ngỗng 1.0	ng oo ngz
+tiếng 1.0	t ie ngz
+mã 1.0	m a
+tấu 1.0	t aa uz
+sắc 1.0	s aw kc
+lạnh 1.0	l a ngz
+chạm 1.0	ch a mz
+nhau 1.0	nh a uz
+rên 1.0	r ee nz
+rỉ 1.0	r i
+hẳn 1.0	h aw nz
+loạt 1.0	l w a tc
+bài 1.0	b a iz
+viết 1.0	v ie tc
+chuyên 1.0	ch w ie nz
+đề 1.0	dd ee
+về 1.0	v ee
+quản 1.0	k w a nz
+trị 1.0	tr i
+thương 1.0	th wa ngz
+hiệu 1.0	h ie uz
+hợp 1.0	h ow pc
+với 1.0	v ow iz
+hương 1.0	h wa ngz
+vị 1.0	v i
+đầu 1.0	dd aa uz
+xuân 1.0	s w aa nz
+ổng 1.0	oo ngz
+nói 1.0	n o iz
+ở 1.0	ow
+sài 1.0	s a iz
+gòn 1.0	g o nz
+đã 1.0	dd a
+hội 1.0	h oo iz
+đồng 1.0	dd oo ngz
+bà 1.0	b a
+quảng 1.0	k w a ngz
+vẫn 1.0	v aa nz
+đang 1.0	dd a ngz
+bận 1.0	b aa nz
+rộn 1.0	r oo nz
+mày 1.0	m a iz
+dám 1.0	d a mz
+chơi 1.0	ch ow iz
+vợ 1.0	v ow
+tao 1.0	t a uz
+giết 1.0	g ie tc
+tống 1.0	t oo ngz
+cổ 1.0	k oo
+hắn 1.0	h aw nz
+được 1.0	dd wa kc
+vào 1.0	v a uz
+thì 1.0	th i
+tháng 1.0	th a ngz
+chồng 1.0	ch oo ngz
+mấy 1.0	m aa iz
+ngày 1.0	ng a iz
+nằm 1.0	n aw mz
+ngủ 1.0	ng u
+thấy 1.0	th aa iz
+ấm 1.0	aa mz
+khủng 1.0	kh u ngz
+em 1.0	e mz
+góp 1.0	g o pc
+viên 1.0	v ie nz
+gạch 1.0	g a kc
+kiểm 1.0	k ie mz
+tra 1.0	tr a
+bác 1.0	b a kc
+sĩ 1.0	s i
+khuyên 1.0	kh w ie nz
+mổ 1.0	m oo
+nội 1.0	n oo iz
+soi 1.0	s o iz
+hôm 1.0	h oo mz
+nay 1.0	n a iz
+tới 1.0	t ow iz
+khách 1.0	kh a kc
+đẩy 1.0	dd aa iz
+hà 1.0	h a
+phù 1.0	ph u
+cân 1.0	k aa nz
+nặng 1.0	n aw ngz
+âm 1.0	aa mz
+thầm 1.0	th aa mz
+chắt 1.0	ch aw tc
+chiu 1.0	ch i uz
+nuôi 1.0	n uo iz
+khôn 1.0	kh oo nz
+bạn 1.0	b a nz
+lảy 1.0	l a iz
+cò 1.0	k o
+từng 1.0	t uw ngz
+vai 1.0	v a iz
+trò 1.0	tr o
+chế 1.0	ch ee
+độ 1.0	dd oo
+dinh 1.0	d i ngz
+dưỡng 1.0	d wa ngz
+hiểu 1.0	h ie uz
+phụ 1.0	ph u
+huynh 1.0	h w i ngz
+nhầm 1.0	nh aa mz
+cơn 1.0	k ow nz
+gió 1.0	d o
+đến 1.0	dd ee nz
+bón 1.0	b o nz
+đỡ 1.0	dd ow
+yếu 1.0	ie uz
+đau 1.0	dd a uz
+còi 1.0	k o iz
+cọc 1.0	k o kc
+tư 1.0	t uw
+ngựa 1.0	ng wa
+chồm 1.0	ch oo mz
+đầy 1.0	dd aa iz
+thanh 1.0	th a ngz
+khiết 1.0	kh ie tc
+chập 1.0	ch aa pc
+ngọn 1.0	ng o nz
+lửa 1.0	l wa
+bùng 1.0	b u ngz
+chòm 1.0	ch o mz
+xóm 1.0	s o mz
+mức 1.0	m uw kc
+lãi 1.0	l a iz
+suất 1.0	s w aa tc
+thấp 1.0	th aa pc
+phiên 1.0	ph ie nz
+đấu 1.0	dd aa uz
+thầu 1.0	th aa uz
+dọc 1.0	d o kc
+bên 1.0	b ee nz
+sông 1.0	s oo ngz
+ngàn 1.0	ng a nz
+oái 1.0	w a iz
+ăm 1.0	aw mz
+sau 1.0	s a uz
+cải 1.0	k a iz
+kế 1.0	k ee
+hoạch 1.0	h w a kc
+tương 1.0	t wa ngz
+áp 1.0	a pc
+dụng 1.0	d u ngz
+cỡi 1.0	k ow iz
+thi 1.0	th i
+ôi 1.0	oo iz
+dào 1.0	d a uz
+chiếc 1.0	ch ie kc
+mon 1.0	m o nz
+men 1.0	m e nz
+khắp 1.0	kh aw pc
+nơi 1.0	n ow iz
+tìm 1.0	t i mz
+thầy 1.0	th aa iz
+chữa 1.0	ch wa
+bệnh 1.0	b ee ngz
+trái 1.0	tr a iz
+vả 1.0	v a
+bổ 1.0	b oo
+sẽ 1.0	s e
+rỗng 1.0	r oo ngz
+chứ 1.0	ch uw
+sung 1.0	s u ngz
+mố 1.0	m oo
+cầu 1.0	k aa uz
+sụp 1.0	s u pc
+đất 1.0	dd aa tc
+lối 1.0	l oo iz
+bộ 1.0	b oo
+nguy 1.0	ng w i
+hiểm 1.0	h ie mz
+luôn 1.0	l uo nz
+ổn 1.0	oo nz
+định 1.0	dd i ngz
+trấu 1.0	tr aa uz
+khá 1.0	kh a
+vạch 1.0	v a kc
+tóc 1.0	t o kc
+chính 1.0	ch i ngz
+sách 1.0	s a kc
+đối 1.0	dd oo iz
+quy 1.0	k w i
+mô 1.0	m oo
+thị 1.0	th i
+trường 1.0	tr wa ngz
+sương 1.0	s wa ngz
+mù 1.0	m u
+đọng 1.0	dd o ngz
+thành 1.0	th a ngz
+hạt 1.0	h a tc
+giá 1.0	d a
+băng 1.0	b aw ngz
+tài 1.0	t a iz
+năng 1.0	n aw ngz
+thiên 1.0	th ie nz
+bẩm 1.0	b aa mz
+trống 1.0	tr oo ngz
+lân 1.0	l aa nz
+tùng 1.0	t u ngz
+xèng 1.0	s e ngz
+vui 1.0	v u iz
+tai 1.0	t a iz
+chuyến 1.0	ch w ie nz
+du 1.0	d u
+lịch 1.0	l i kc
+dã 1.0	d a
+ngoại 1.0	ng w a iz
+tại 1.0	t a iz
+bò 1.0	b o
+cạp 1.0	k a pc
+vàng 1.0	v a ngz
+ghép 1.0	g e pc
+cành 1.0	k a ngz
+mai 1.0	m a iz
+giảo 1.0	d a uz
+thân 1.0	th aa nz
+hoa 1.0	h w a
+cánh 1.0	k a ngz
+chọn 1.0	ch o nz
+in 1.0	i nz
+chưa 1.0	ch wa
+tiền 1.0	t ie nz
+nhé 1.0	nh e
+họp 1.0	h o pc
+cướp 1.0	k wa pc
+đường 1.0	dd wa ngz
+an 1.0	a nz
+chỉ 1.0	ch i
+lo 1.0	l o
+hạch 1.0	h a kc
+mẹ 1.0	m e
+ơi 1.0	ow iz
+mua 1.0	m uo
+đồ 1.0	dd oo
+chó 1.0	ch o
+lủi 1.0	l u iz
+thủi 1.0	th u iz
+theo 1.0	th e uz
+nó 1.0	n o
+phim 1.0	ph i mz
+nhiều 1.0	nh ie uz
+cảnh 1.0	k a ngz
+chém 1.0	ch e mz
+diễn 1.0	d ie nz
+đứng 1.0	dd uw ngz
+khúc 1.0	kh u kc
+gỗ 1.0	g oo
+suy 1.0	s w i
+nghĩ 1.0	ng i
+gì 1.0	g i
+trẫm 1.0	tr aa mz
+khỏi 1.0	kh o iz
+quyển 1.0	k w ie nz
+tiểu 1.0	t ie uz
+thuyết 1.0	th w ie tc
+mạnh 1.0	m a ngz
+mưa 1.0	m wa
+đóng 1.0	dd o ngz
+gây 1.0	g aa iz
+trơn 1.0	tr ow nz
+trợt 1.0	tr ow tc
+não 1.0	n a uz
+rung 1.0	r u ngz
+yêu 1.0	ie uz
+trừ 1.0	tr uw
+biết 1.0	b ie tc
+tôn 1.0	t oo nz
+trọng 1.0	tr o ngz
+bản 1.0	b a nz
+ngắn 1.0	ng aw nz
+ngủn 1.0	ng u nz
+nhát 1.0	nh a tc
+cắt 1.0	k aw tc
+hiện 1.0	h ie nz
+tận 1.0	t aa nz
+phía 1.0	ph ie
+xa 1.0	s a
+xin 1.0	s i nz
+khuân 1.0	kh w aa nz
+vác 1.0	v a kc
+tiến 1.0	t ie nz
+gần 1.0	g aa nz
+vịnh 1.0	v i ngz
+biển 1.0	b ie nz
+rạn 1.0	r a nz
+vỡ 1.0	v ow
+giặt 1.0	d aw tc
+thuê 1.0	th w ee
+bàn 1.0	b a nz
+tay 1.0	t a iz
+mềm 1.0	m ee mz
+mại 1.0	m a iz
+nõn 1.0	n o nz
+nà 1.0	n a
+tây 1.0	t aa iz
+giang 1.0	d a ngz
+khắc 1.0	kh aw kc
+khoải 1.0	kh w a iz
+xã 1.0	s a
+a 1.0	a
+nông 1.0	n oo ngz
+cần 1.0	k aa nz
+biến 1.0	b ie nz
+thực 1.0	th uw kc
+tàu 1.0	t a uz
+cưỡi 1.0	k wa iz
+chổi 1.0	ch oo iz
+sơn 1.0	s ow nz
+bằng 1.0	b aw ngz
+bông 1.0	b oo ngz
+rất 1.0	r aa tc
+phổ 1.0	ph oo
+thật 1.0	th aa tc
+sự 1.0	s uw
+bởi 1.0	b ow iz
+lòng 1.0	l o ngz
+hận 1.0	h aa nz
+thù 1.0	th u
+tội 1.0	t oo iz
+nổ 1.0	n oo
+di 1.0	d i
+tích 1.0	t i kc
+phỗng 1.0	ph oo ngz
+mít 1.0	m i tc
+chú 1.0	ch u
+thoải 1.0	th w a iz
+mái 1.0	m a iz
+phóng 1.0	ph o ngz
+uế 1.0	w ee
+giữa 1.0	d wa
+chốn 1.0	ch oo nz
+đông 1.0	dd oo ngz
+người 1.0	ng wa iz
+sợ 1.0	s ow
+cạch 1.0	k a kc
+khựng 1.0	kh uw ngz
+khớp 1.0	kh ow pc
+sắt 1.0	s aw tc
+ủng 1.0	u ngz
+hộ 1.0	h oo
+kiến 1.0	k ie nz
+nghị 1.0	ng i
+phú 1.0	ph u
+bú 1.0	b u
+sữa 1.0	s wa
+lần 1.0	l aa nz
+bạo 1.0	b a uz
+trung 1.0	tr u ngz
+lộ 1.0	l oo
+sáng 1.0	s a ngz
+tạo 1.0	t a uz
+giấc 1.0	d aa kc
+chờn 1.0	ch ow nz
+giám 1.0	d a mz
+đốc 1.0	dd oo kc
+sở 1.0	s ow
+giáo 1.0	d a uz
+dục 1.0	d u kc
+đào 1.0	dd a uz
+ninh 1.0	n i ngz
+thuận 1.0	th w aa nz
+đèn 1.0	dd e nz
+trưởng 1.0	tr wa ngz
+can 1.0	k a nz
+ngăn 1.0	ng aw nz
+tuyến 1.0	t w ie nz
+tiếp 1.0	t ie pc
+nghe 1.0	ng e
+điều 1.0	dd ie uz
+ngát 1.0	ng a tc
+rân 1.0	r aa nz
+rấn 1.0	r aa nz
+nước 1.0	n wa kc
+văn 1.0	v aw nz
+tỉnh 1.0	t i ngz
+tum 1.0	t u mz
+xây 1.0	s aa iz
+dựng 1.0	d uw ngz
+khẩu 1.0	kh aa uz
+tình 1.0	t i ngz
+nồng 1.0	n oo ngz
+nàn 1.0	n a nz
+say 1.0	s a iz
+đắm 1.0	dd aw mz
+buổi 1.0	b uo iz
+phủ 1.0	ph u
+mỹ 1.0	m i
+hành 1.0	h a ngz
+việt 1.0	v ie tc
+nam 1.0	n a mz
+phê 1.0	ph ee
+duyệt 1.0	d w ie tc
+thích 1.0	th i kc
+xem 1.0	s e mz
+truyện 1.0	tr w ie nz
+chắc 1.0	ch aw kc
+sắp 1.0	s aw pc
+thu 1.0	th u
+xếp 1.0	s ee pc
+thôi 1.0	th oo iz
+trốn 1.0	tr oo nz
+mất 1.0	m aa tc
+tiêu 1.0	t ie uz
+đâu 1.0	dd aa uz
+thằng 1.0	th aw ngz
+miệng 1.0	m ie ngz
+đàn 1.0	dd a nz
+nhỏ 1.0	nh o
+mở 1.0	m ow
+túi 1.0	t u iz
+gút 1.0	g u tc
+đeo 1.0	dd e uz
+trên 1.0	tr ee nz
+chẳng 1.0	ch aw ngz
+xúng 1.0	s u ngz
+xính 1.0	s i ngz
+quần 1.0	k w aa nz
+áo 1.0	a uz
+chướng 1.0	ch wa ngz
+ngại 1.0	ng a iz
+vật 1.0	v aa tc
+nỡ 1.0	n ow
+bé 1.0	b e
+thất 1.0	th aa tc
+vọng 1.0	v o ngz
+gửi 1.0	g uw iz
+gắm 1.0	g aw mz
+thảo 1.0	th a uz
+luận 1.0	l w aa nz
+xuất 1.0	s w aa tc
+nghĩa 1.0	ng ie
+kém 1.0	k e mz
+cỏi 1.0	k o iz
+tính 1.0	t i ngz
+hay 1.0	h a iz
+gái 1.0	g a iz
+váy 1.0	v a iz
+cũn 1.0	k u nz
+cỡn 1.0	k ow nz
+trông 1.0	tr oo ngz
+gầy 1.0	g aa iz
+trang 1.0	tr a ngz
+phục 1.0	ph u kc
+màu 1.0	m a uz
+lưới 1.0	l wa iz
+nhặt 1.0	nh aw tc
+bóng 1.0	b o ngz
+hoặc 1.0	h w aw kc
+biểu 1.0	b ie uz
+rối 1.0	r oo iz
+loạn 1.0	l w a nz
+co 1.0	k o
+bóp 1.0	b o pc
+nhằm 1.0	nh aw mz
+hấp 1.0	h aa pc
+dẫn 1.0	d aa nz
+cảm 1.0	k a mz
+nhận 1.0	nh aa nz
+thính 1.0	th i ngz
+giác 1.0	d a kc
+nỗi 1.0	n oo iz
+đơn 1.0	dd ow nz
+bỏ 1.0	b o
+quên 1.0	k w ee nz
+nung 1.0	n u ngz
+nấu 1.0	n aa uz
+niềm 1.0	n ie mz
+đam 1.0	dd a mz
+mê 1.0	m ee
+lực 1.0	l uw kc
+thúc 1.0	th u kc
+nhóm 1.0	nh o mz
+sinh 1.0	s i ngz
+cùng 1.0	k u ngz
+ăn 1.0	aw nz
+tết 1.0	t ee tc
+chung 1.0	ch u ngz
+tối 1.0	t oo iz
+rạch 1.0	r a kc
+bàu 1.0	b a uz
+mớp 1.0	m ow pc
+gí 1.0	g i
+hòn 1.0	h o nz
+than 1.0	th a nz
+rơm 1.0	r ow mz
+cháu 1.0	ch a uz
+sốt 1.0	s oo tc
+rẹo 1.0	r e uz
+rọc 1.0	r o kc
+suốt 1.0	s uo tc
+đêm 1.0	dd ee mz
+vạn 1.0	v a nz
+thọ 1.0	th o
+ươm 1.0	wa mz
+kia 1.0	k ie
+xách 1.0	s a kc
+gióng 1.0	d o ngz
+mang 1.0	m a ngz
+vịm 1.0	v i mz
+nệm 1.0	n ee mz
+vắng 1.0	v aw ngz
+thừ 1.0	th uw
+ngợi 1.0	ng ow iz
+bao 1.0	b a uz
+vây 1.0	v aa iz
+ráo 1.0	r a uz
+riết 1.0	r ie tc
+trơ 1.0	tr ow
+trọi 1.0	tr o iz
+nhìn 1.0	nh i nz
+ngoài 1.0	ng w a iz
+kẻ 1.0	k e
+gặp 1.0	g aw pc
+phò 1.0	ph o
+sai 1.0	s a iz
+lầm 1.0	l aa mz
+sạn 1.0	s a nz
+tác 1.0	t a kc
+thơ 1.0	th ow
+tuần 1.0	t w aa nz
+bảo 1.0	b a uz
+cam 1.0	k a mz
+sành 1.0	s a ngz
+lột 1.0	l oo tc
+vỏ 1.0	v o
+chua 1.0	ch uo
+khen 1.0	kh e nz
+chê 1.0	ch ee
+già 1.0	d a
+tin 1.0	t i nz
+gấp 1.0	g aa pc
+giỏi 1.0	d o iz
+bốc 1.0	b oo kc
+phét 1.0	ph e tc
+nhắn 1.0	nh aw nz
+hãy 1.0	h a iz
+rằng 1.0	r aw ngz
+ty 1.0	t i
+hùng 1.0	h u ngz
+nguyên 1.0	ng w ie nz
+dâu 1.0	d aa uz
+bắt 1.0	b aw tc
+tử 1.0	t uw
+hình 1.0	h i ngz
+cáo 1.0	k a uz
+xứng 1.0	s uw ngz
+tha 1.0	th a
+thẩn 1.0	th aa nz
+nhà 1.0	nh a
+ngõ 1.0	ng o
+gian 1.0	d a nz
+nhuốm 1.0	nh uo mz
+tro 1.0	tr o
+bếp 1.0	b ee pc
+giô 1.0	d oo
+hiền 1.0	h ie nz
+lưng 1.0	l uw ngz
+còm 1.0	k o mz
+doanh 1.0	d w a ngz
+nghiệp 1.0	ng ie pc
+tuyển 1.0	t w ie nz
+lao 1.0	l a uz
+thời 1.0	th ow iz
+hạn 1.0	h a nz
+sử 1.0	s uw
+sản 1.0	s a nz
+phẩm 1.0	ph aa mz
+bột 1.0	b oo tc
+te 1.0	t e
+hoạnh 1.0	h w a ngz
+họe 1.0	h w e
+mùi 1.0	m u iz
+hôi 1.0	h oo iz
+xộc 1.0	s oo kc
+óc 1.0	o kc
+ngừng 1.0	ng uw ngz
+nghỉ 1.0	ng i
+hút 1.0	h u tc
+loài 1.0	l w a iz
+chim 1.0	ch i mz
+lễ 1.0	l ee
+khai 1.0	kh a iz
+mạc 1.0	m a kc
+im 1.0	i mz
+lặng 1.0	l aw ngz
+đưa 1.0	dd wa
+cào 1.0	k a uz
+bùn 1.0	b u nz
+khô 1.0	kh oo
+tớ 1.0	t ow
+ngồi 1.0	ng oo iz
+mét 1.0	m e tc
+nửa 1.0	n wa
+vòng 1.0	v o ngz
+hơn 1.0	h ow nz
+chậm 1.0	ch aa mz
+nắm 1.0	n aw mz
+xu 1.0	s u
+hướng 1.0	h wa ngz
+nghệ 1.0	ng ee
+mường 1.0	m wa ngz
+số 1.0	s oo
+phận 1.0	ph aa nz
+à 1.0	a
+lữa 1.0	l wa
+mãi 1.0	m a iz
+dây 1.0	d aa iz
+nối 1.0	n oo iz
+mảnh 1.0	m a ngz
+đời 1.0	dd ow iz
+quán 1.0	k w a nz
+tán 1.0	t a nz
+rôm 1.0	r oo mz
+rả 1.0	r a
+chuyện 1.0	ch w ie nz
+tức 1.0	t uw kc
+ập 1.0	aa pc
+kéo 1.0	k e uz
+hoang 1.0	h w a ngz
+sơ 1.0	s ow
+tên 1.0	t ee nz
+địa 1.0	dd ie
+phương 1.0	ph wa ngz
+trắc 1.0	tr aw kc
+thối 1.0	th oo iz
+phèng 1.0	ph e ngz
+la 1.0	l a
+cú 1.0	k u
+ngoặt 1.0	ng w aw tc
+xác 1.0	s a kc
+vương 1.0	v wa ngz
+ả 1.0	a
+rập 1.0	r aa pc
+thống 1.0	th oo ngz
+cộng 1.0	k oo ngz
+toán 1.0	t w a nz
+học 1.0	h o kc
+toàn 1.0	t w a nz
+giới 1.0	d ow iz
+thủ 1.0	th u
+tướng 1.0	t wa ngz
+né 1.0	n e
+tránh 1.0	tr a ngz
+bất 1.0	b aa tc
+câu 1.0	k aa uz
+lậu 1.0	l aa uz
+ma 1.0	m a
+túy 1.0	t w i
+vũ 1.0	v u
+khí 1.0	kh i
+quay 1.0	k w a iz
+tập 1.0	t aa pc
+báo 1.0	b a uz
+vu 1.0	v u
+vơ 1.0	v ow
+xình 1.0	s i ngz
+xịch 1.0	s i kc
+đoán 1.0	dd w a nz
+trúng 1.0	tr u ngz
+phóc 1.0	ph o kc
+hầm 1.0	h aa mz
+rục 1.0	r u kc
+rịch 1.0	r i kc
+phôi 1.0	ph oo iz
+thép 1.0	th e pc
+cao 1.0	k a uz
+dần 1.0	d aa nz
+thiết 1.0	th ie tc
+giản 1.0	d a nz
+gẫu 1.0	g aa uz
+chui 1.0	ch u iz
+nhủi 1.0	nh u iz
+râu 1.0	r aa uz
+ria 1.0	r ie
+cạo 1.0	k a uz
+lính 1.0	l i ngz
+cứu 1.0	k uw uz
+hỏa 1.0	h w a
+khó 1.0	kh o
+cận 1.0	k aa nz
+ghe 1.0	g e
+nhắm 1.0	nh aw mz
+thẳng 1.0	th aw ngz
+đừng 1.0	dd uw ngz
+buồn 1.0	b uo nz
+giằn 1.0	d aw nz
+vặt 1.0	v aw tc
+hít 1.0	h i tc
+mũi 1.0	m u iz
+chất 1.0	ch aa tc
+loãng 1.0	l w a ngz
+đoàn 1.0	dd w a nz
+phân 1.0	ph aa nz
+phối 1.0	ph oo iz
+đa 1.0	dd a
+đậu 1.0	dd aa uz
+sức 1.0	s uw kc
+long 1.0	l o ngz
+nhắc 1.0	nh aw kc
+cuộc 1.0	k uo kc
+tấn 1.0	t aa nz
+thái 1.0	th a iz
+khề 1.0	kh ee
+khà 1.0	kh a
+chuột 1.0	ch uo tc
+lớp 1.0	l ow pc
+đình 1.0	dd i ngz
+khảo 1.0	kh a uz
+chát 1.0	ch a tc
+đắng 1.0	dd aw ngz
+ngắt 1.0	ng aw tc
+cà 1.0	k a
+đò 1.0	dd o
+rọ 1.0	r o
+rạy 1.0	r a iz
+thức 1.0	th uw kc
+trắng 1.0	tr aw ngz
+giải 1.0	d a iz
+quyết 1.0	k w ie tc
+khối 1.0	kh oo iz
+ung 1.0	u ngz
+nhọt 1.0	nh o tc
+phẫu 1.0	ph aa uz
+nghiêm 1.0	ng ie mz
+túc 1.0	t u kc
+thậm 1.0	th aa mz
+chí 1.0	ch i
+càng 1.0	k a ngz
+giống 1.0	d oo ngz
+quí 1.0	k w i
+mốt 1.0	m oo tc
+khang 1.0	kh a ngz
+hi 1.0	h i
+điển 1.0	dd ie nz
+môi 1.0	m oo iz
+phai 1.0	ph a iz
+son 1.0	s o nz
+mấp 1.0	m aa pc
+lời 1.0	l ow iz
+hoải 1.0	h w a iz
+khác 1.0	kh a kc
+ác 1.0	a kc
+tâm 1.0	t aa mz
+vậy 1.0	v aa iz
+khung 1.0	kh u ngz
+đấy 1.0	dd aa iz
+trạng 1.0	tr a ngz
+chán 1.0	ch a nz
+ngán 1.0	ng a nz
+vô 1.0	v oo
+mươi 1.0	m wa iz
+sáu 1.0	s a uz
+chín 1.0	ch i nz
+trăm 1.0	tr aw mz
+bước 1.0	b wa kc
+bụng 1.0	b u ngz
+kết 1.0	k ee tc
+quả 1.0	k w a
+tệ 1.0	t ee
+đoạn 1.0	dd w a nz
+trách 1.0	tr a kc
+nhiệm 1.0	nh ie mz
+hữu 1.0	h uw uz
+uống 1.0	uo ngz
+phí 1.0	ph i
+chuyển 1.0	ch w ie nz
+giao 1.0	d a uz
+chục 1.0	ch u kc
+lương 1.0	l wa ngz
+ai 1.0	a iz
+ấy 1.0	aa iz
+chén 1.0	ch e nz
+hằng 1.0	h aw ngz
+thải 1.0	th a iz
+hàng 1.0	h a ngz
+tỉ 1.0	t i
+nhược 1.0	nh wa kc
+điểm 1.0	dd ie mz
+thông 1.0	th oo ngz
+thốc 1.0	th oo kc
+thổi 1.0	th oo iz
+quan 1.0	k w a nz
+môn 1.0	m oo nz
+tổ 1.0	t oo
+chức 1.0	ch uw kc
+độc 1.0	dd oo kc
+lập 1.0	l aa pc
+vại 1.0	v a iz
+muối 1.0	m uo iz
+lợn 1.0	l ow nz
+chụm 1.0	ch u mz
+ngón 1.0	ng o nz
+chỗ 1.0	ch oo
+liền 1.0	l ie nz
+thóp 1.0	th o pc
+bỗng 1.0	b oo ngz
+oác 1.0	w a kc
+vạt 1.0	v a tc
+rừng 1.0	r uw ngz
+mùa 1.0	m w a
+sát 1.0	s a tc
+sạt 1.0	s a tc
+trận 1.0	tr aa nz
+chiến 1.0	ch ie nz
+xích 1.0	s i kc
+bích 1.0	b i kc
+cũ 1.0	k u
+hót 1.0	h o tc
+hệt 1.0	h ee tc
+nhồng 1.0	nh oo ngz
+lưỡi 1.0	l wa iz
+áng 1.0	a ngz
+chừng 1.0	ch uw ngz
+cực 1.0	k uw kc
+giảng 1.0	d a ngz
+dạy 1.0	d a iz
+lượng 1.0	l wa ngz
+món 1.0	m o nz
+quà 1.0	k w a
+kiên 1.0	k ie nz
+trớt 1.0	tr ow tc
+quớt 1.0	k w ow tc
+rô 1.0	r oo
+bót 1.0	b o tc
+minh 1.0	m i ngz
+tiên 1.0	t ie nz
+vã 1.0	v a
+lúc 1.0	l u kc
+nhân 1.0	nh aa nz
+nếm 1.0	n ee mz
+giò 1.0	d o
+hoàn 1.0	h w a nz
+heo 1.0	h e uz
+hoài 1.0	h w a iz
+nghi 1.0	ng i
+giữ 1.0	d uw
+treo 1.0	tr e uz
+lủng 1.0	l u ngz
+lẳng 1.0	l aw ngz
+chíu 1.0	ch i uz
+chít 1.0	ch i tc
+gợi 1.0	g ow iz
+sum 1.0	s u mz
+gấu 1.0	g aa uz
+trụ 1.0	tr u
+đá 1.0	dd a
+nghiêng 1.0	ng ie ngz
+ngả 1.0	ng a
+nát 1.0	n a tc
+huống 1.0	h uo ngz
+hại 1.0	h a iz
+dùng 1.0	d u ngz
+lợi 1.0	l ow iz
+nhuận 1.0	nh w aa nz
+lăm 1.0	l aw mz
+phố 1.0	ph oo
+ô 1.0	oo
+nhiễm 1.0	nh ie mz
+trưa 1.0	tr wa
+nóng 1.0	n o ngz
+giận 1.0	d aa nz
+lăng 1.0	l aw ngz
+mạ 1.0	m a
+tục 1.0	t u kc
+chi 1.0	ch i
+cây 1.0	k aa iz
+chợt 1.0	ch ow tc
+tật 1.0	t aa tc
+quật 1.0	k w aa tc
+ngã 1.0	ng a
+trót 1.0	tr o tc
+lộn 1.0	l oo nz
+xộn 1.0	s oo nz
+màn 1.0	m a nz
+nền 1.0	n ee nz
+đạo 1.0	dd a uz
+ngẫm 1.0	ng aa mz
+nghề 1.0	ng ee
+lật 1.0	l aa tc
+đật 1.0	dd aa tc
+đạp 1.0	dd a pc
+tàng 1.0	t a ngz
+nóc 1.0	n o kc
+khăn 1.0	kh aw nz
+đuổi 1.0	dd uo iz
+tín 1.0	t i nz
+truyền 1.0	tr w ie nz
+trực 1.0	tr uw kc
+cáp 1.0	k a pc
+quang 1.0	k w a ngz
+đảm 1.0	dd a mz
+sạch 1.0	s a kc
+lẽ 1.0	l e
+hồ 1.0	h oo
+gụ 1.0	g u
+loáng 1.0	l w a ngz
+ép 1.0	e pc
+dẻo 1.0	d e uz
+vải 1.0	v a iz
+cói 1.0	k o iz
+chài 1.0	ch a iz
+biên 1.0	b ie nz
+ứng 1.0	uw ngz
+tốt 1.0	t oo tc
+khán 1.0	kh a nz
+giả 1.0	d a
+nhí 1.0	nh i
+dịch 1.0	d i kc
+khỏe 1.0	kh w e
+ý 1.0	i
+sàn 1.0	s a nz
+ồ 1.0	oo
+ạt 1.0	a tc
+vỏn 1.0	v o nz
+vẹn 1.0	v e nz
+dệt 1.0	d ee tc
+giàu 1.0	d a uz
+ánh 1.0	a ngz
+trăng 1.0	tr aw ngz
+đổi 1.0	dd oo iz
+mạng 1.0	m a ngz
+toa 1.0	t w a
+tốc 1.0	t oo kc
+rờm 1.0	r ow mz
+rợp 1.0	r ow pc
+mây 1.0	m aa iz
+lau 1.0	l a uz
+lách 1.0	l a kc
+phất 1.0	ph aa tc
+phơ 1.0	ph ow
+trứng 1.0	tr uw ngz
+mực 1.0	m uw kc
+quyến 1.0	k w ie nz
+rũ 1.0	r u
+ngư 1.0	ng uw
+dân 1.0	d aa nz
+khiển 1.0	kh ie nz
+lái 1.0	l a iz
+thoáng 1.0	th w a ngz
+trăn 1.0	tr aw nz
+trà 1.0	tr a
+khiêu 1.0	kh ie uz
+quạt 1.0	k w a tc
+cối 1.0	k oo iz
+xay 1.0	s a iz
+đỏ 1.0	dd o
+thịt 1.0	th i tc
+ngọt 1.0	ng o tc
+lừ 1.0	l uw
+trùng 1.0	tr u ngz
+sán 1.0	s a nz
+tỏi 1.0	t o iz
+căn 1.0	k aw nz
+bậc 1.0	b aa kc
+kỷ 1.0	k i
+rạ 1.0	r a
+ngẳng 1.0	ng aw ngz
+vận 1.0	v aa nz
+tung 1.0	t u ngz
+chảy 1.0	ch a iz
+hờn 1.0	h ow nz
+lý 1.0	l i
+chìm 1.0	ch i mz
+lỉm 1.0	l i mz
+ngậm 1.0	ng aa mz
+bầu 1.0	b aa uz
+vú 1.0	v u
+quắt 1.0	k w aw tc
+queo 1.0	k w e uz
+khiếm 1.0	kh ie mz
+nhã 1.0	nh a
+dỡ 1.0	d ow
+cưỡng 1.0	k wa ngz
+dõi 1.0	d o iz
+gián 1.0	d a nz
+điệp 1.0	dd ie pc
+chăn 1.0	ch aw nz
+đội 1.0	dd oo iz
+sấm 1.0	s aa mz
+sét 1.0	s e tc
+đùng 1.0	dd u ngz
+đoàng 1.0	dd w a ngz
+núi 1.0	n u iz
+lấy 1.0	l aa iz
+sụn 1.0	s u nz
+chịu 1.0	ch i uz
+hoạt 1.0	h w a tc
+thí 1.0	th i
+vênh 1.0	v ee ngz
+gắng 1.0	g aw ngz
+vằng 1.0	v aw ngz
+vặc 1.0	v aw kc
+đặng 1.0	dd aw ngz
+mười 1.0	m wa iz
+đằng 1.0	dd aw ngz
+thú 1.0	th u
+tui 1.0	t u iz
+châm 1.0	ch aa mz
+tru 1.0	tr u
+diệt 1.0	d ie tc
+hảo 1.0	h a uz
+thộp 1.0	th oo pc
+khẩn 1.0	kh aa nz
+cấp 1.0	k aa pc
+đọc 1.0	dd o kc
+nga 1.0	ng a
+thìn 1.0	th i nz
+nết 1.0	n ee tc
+na 1.0	n a
+vá 1.0	v a
+lỗi 1.0	l oo iz
+cụ 1.0	k u
+quét 1.0	k w e tc
+lay 1.0	l a iz
+phay 1.0	ph a iz
+rắc 1.0	r aw kc
+tinh 1.0	t i ngz
+đủ 1.0	dd u
+hài 1.0	h a iz
+giúp 1.0	d u pc
+ưu 1.0	uw uz
+phiền 1.0	ph ie nz
+dung 1.0	d u ngz
+dăng 1.0	d aw ngz
+cầm 1.0	k aa mz
+ghẻ 1.0	g e
+răng 1.0	r aw ngz
+hàm 1.0	h a mz
+khum 1.0	kh u mz
+ân 1.0	aa nz
+đả 1.0	dd a
+nữ 1.0	n uw
+chấm 1.0	ch aa mz
+dứt 1.0	d uw tc
+nạn 1.0	n a nz
+sá 1.0	s a
+ngập 1.0	ng aa pc
+xắp 1.0	s aw pc
+quanh 1.0	k w a ngz
+vừa 1.0	v wa
+trao 1.0	tr a uz
+tặng 1.0	t aw ngz
+thưởng 1.0	th wa ngz
+lĩnh 1.0	l i ngz
+vực 1.0	v uw kc
+ngồng 1.0	ng oo ngz
+chàng 1.0	ch a ngz
+trai 1.0	tr a iz
+lồm 1.0	l oo mz
+cồm 1.0	k oo mz
+dậy 1.0	d aa iz
+xanh 1.0	s a ngz
+lét 1.0	l e tc
+lá 1.0	l a
+chuối 1.0	ch uo iz
+thêm 1.0	th ee mz
+cục 1.0	k u kc
+xúc 1.0	s u kc
+dầu 1.0	d aa uz
+cọ 1.0	k o
+hượm 1.0	h wa mz
+chỉnh 1.0	ch i ngz
+đám 1.0	dd a mz
+ven 1.0	v e nz
+nha 1.0	nh a
+chanh 1.0	ch a ngz
+hơi 1.0	h ow iz
+nhiêu 1.0	nh ie uz
+thua 1.0	th uo
+tiệm 1.0	t ie mz
+tạp 1.0	t a pc
+hoá 1.0	h w a
+xuống 1.0	s uo ngz
+đứa 1.0	dd wa
+chăm 1.0	ch aw mz
+sóc 1.0	s o kc
+xinh 1.0	s i ngz
+phạm 1.0	ph a mz
+giảm 1.0	d a mz
+ói 1.0	o iz
+ọc 1.0	o kc
+che 1.0	ch e
+chái 1.0	ch a iz
+tạm 1.0	t a mz
+hông 1.0	h oo ngz
+ruột 1.0	r uo tc
+căm 1.0	k aw mz
+óng 1.0	o ngz
+ghệt 1.0	g ee tc
+ngự 1.0	ng uw
+lâm 1.0	l aa mz
+quân 1.0	k w aa nz
+dãi 1.0	d a iz
+nắng 1.0	n aw ngz
+dưới 1.0	d wa iz
+quái 1.0	k w a iz
+rồng 1.0	r oo ngz
+nét 1.0	n e tc
+ngời 1.0	ng ow iz
+hạnh 1.0	h a ngz
+phúc 1.0	ph u kc
+vay 1.0	v a iz
+vốn 1.0	v oo nz
+xẻ 1.0	s e
+nắp 1.0	n aw pc
+leo 1.0	l e uz
+nhừ 1.0	nh uw
+phép 1.0	ph e pc
+sà 1.0	s a
+lan 1.0	l a nz
+họa 1.0	h w a
+gắn 1.0	g aw nz
+lông 1.0	l oo ngz
+hột 1.0	h oo tc
+lóng 1.0	l o ngz
+lánh 1.0	l a ngz
+bèo 1.0	b e uz
+dún 1.0	d u nz
+tùa 1.0	t w a
+lua 1.0	l uo
+ngụ 1.0	ng u
+ấp 1.0	aa pc
+ít 1.0	i tc
+phẩy 1.0	ph aa iz
+tả 1.0	t a
+ngon 1.0	ng o nz
+lơ 1.0	l ow
+lửng 1.0	l uw ngz
+bẫy 1.0	b aa iz
+bây 1.0	b aa iz
+hung 1.0	h u ngz
+hiếp 1.0	h ie pc
+dâm 1.0	d aa mz
+bọt 1.0	b o tc
+xảy 1.0	s a iz
+phạt 1.0	ph a tc
+thẻ 1.0	th e
+kiểu 1.0	k ie uz
+phó 1.0	ph o
+chuẩn 1.0	ch w aa nz
+trương 1.0	tr wa ngz
+dư 1.0	d uw
+thừa 1.0	th wa
+luồng 1.0	l uo ngz
+chứng 1.0	ch uw ngz
+tỏ 1.0	t o
+trồng 1.0	tr oo ngz
+thiếu 1.0	th ie uz
+chợ 1.0	ch ow
+coi 1.0	k o iz
+hồi 1.0	h oo iz
+ký 1.0	k i
+chuộc 1.0	ch uo kc
+tuổi 1.0	t uo iz
+quý 1.0	k w i
+ngọ 1.0	ng o
+chút 1.0	ch u tc
+trầy 1.0	tr aa iz
+trụa 1.0	tr w a
+đền 1.0	dd ee nz
+đặt 1.0	dd aw tc
+hộp 1.0	h oo pc
+đựng 1.0	dd uw ngz
+bọc 1.0	b o kc
+da 1.0	d a
+hắc 1.0	h aw kc
+bạch 1.0	b a kc
+tranh 1.0	tr a ngz
+trọ 1.0	tr o
+cỏ 1.0	k o
+mượt 1.0	m wa tc
+lây 1.0	l aa iz
+è 1.0	e
+xá 1.0	s a
+mờ 1.0	m ow
+ảo 1.0	a uz
+phiếu 1.0	ph ie uz
+vấn 1.0	v aa nz
+ịch 1.0	i kc
+gã 1.0	g a
+béo 1.0	b e uz
+ục 1.0	u kc
+rách 1.0	r a kc
+lươm 1.0	l wa mz
+bươm 1.0	b wa mz
+phản 1.0	ph a nz
+biệt 1.0	b ie tc
+hiến 1.0	h ie nz
+máu 1.0	m a uz
+hét 1.0	h e tc
+tờ 1.0	t ow
+xởi 1.0	s ow iz
+lởi 1.0	l ow iz
+kể 1.0	k ee
+rang 1.0	r a ngz
+trí 1.0	tr i
+đón 1.0	dd o nz
+tăng 1.0	t aw ngz
+dịp 1.0	d i pc
+ngành 1.0	ng a ngz
+nhọn 1.0	nh o nz
+ngược 1.0	ng wa kc
+đãi 1.0	dd a iz
+làng 1.0	l a ngz
+nguyễn 1.0	ng w ie nz
+tường 1.0	t wa ngz
+phỏng 1.0	ph o ngz
+ảnh 1.0	a ngz
+giai 1.0	d a iz
+tiết 1.0	t ie tc
+nhiệt 1.0	nh ie tc
+điếu 1.0	dd ie uz
+thuốc 1.0	th uo kc
+đốt 1.0	dd oo tc
+cháy 1.0	ch a iz
+vài 1.0	v a iz
+sô 1.0	s oo
+pha 1.0	ph a
+tắt 1.0	t aw tc
+thao 1.0	th a uz
+cuối 1.0	k uo iz
+vãi 1.0	v a iz
+lồng 1.0	l oo ngz
+hồn 1.0	h oo nz
+ngọc 1.0	ng o kc
+quyền 1.0	k w ie nz
+cãi 1.0	k a iz
+nhì 1.0	nh i
+khuyến 1.0	kh w ie nz
+khích 1.0	kh i kc
+nề 1.0	n ee
+hiếm 1.0	h ie mz
+lê 1.0	l ee
+choáng 1.0	ch w a ngz
+váng 1.0	v a ngz
+nhóc 1.0	nh o kc
+tía 1.0	t ie
+chia 1.0	ch ie
+sẻ 1.0	s e
+lắm 1.0	l aw mz
+quầy 1.0	k w aa iz
+khát 1.0	kh a tc
+cốc 1.0	k oo kc
+ví 1.0	v i
+phong 1.0	ph o ngz
+bì 1.0	b i
+nghèo 1.0	ng e uz
+tuyệt 1.0	t w ie tc
+hóa 1.0	h w a
+ngần 1.0	ng aa nz
+chiều 1.0	ch ie uz
+thả 1.0	th a
+rà 1.0	r a
+soát 1.0	s w a tc
+nản 1.0	n a nz
+pháp 1.0	ph a pc
+khổ 1.0	kh oo
+mục 1.0	m u kc
+phấn 1.0	ph aa nz
+quê 1.0	k w ee
+rực 1.0	r uw kc
+lào 1.0	l a uz
+lụp 1.0	l u pc
+xụp 1.0	s u pc
+phun 1.0	ph u nz
+bay 1.0	b a iz
+khu 1.0	kh u
+trú 1.0	tr u
+khống 1.0	kh oo ngz
+hồng 1.0	h oo ngz
+tĩnh 1.0	t i ngz
+dắt 1.0	d aw tc
+hối 1.0	h oo iz
+tuy 1.0	t w i
+câm 1.0	k aa mz
+phen 1.0	ph e nz
+òa 1.0	w a
+khóc 1.0	kh o kc
+đùa 1.0	dd w a
+xét 1.0	s e tc
+tổng 1.0	t oo ngz
+dành 1.0	d a ngz
+riêng 1.0	r ie ngz
+lì 1.0	l i
+xứ 1.0	s uw
+tố 1.0	t oo
+đợi 1.0	dd ow iz
+huy 1.0	h w i
+góc 1.0	g o kc
+vinh 1.0	v i ngz
+giấy 1.0	d aa iz
+đắt 1.0	dd aw tc
+cường 1.0	k wa ngz
+vời 1.0	v ow iz
+thỉnh 1.0	th i ngz
+thoảng 1.0	th w a ngz
+dừng 1.0	d uw ngz
+gũi 1.0	g u iz
+ngừ 1.0	ng uw
+mòi 1.0	m o iz
+rau 1.0	r a uz
+trộn 1.0	tr oo nz
+thạc 1.0	th a kc
+nhật 1.0	nh aa tc
+sưu 1.0	s uw uz
+tầm 1.0	t aa mz
+đợt 1.0	dd ow tc
+khắt 1.0	kh aw tc
+khe 1.0	kh e
+khoảng 1.0	kh w a ngz
+duyên 1.0	d w ie nz
+rượu 1.0	r wa uz
+cưới 1.0	k wa iz
+đức 1.0	dd uw kc
+xử 1.0	s uw
+bồi 1.0	b oo iz
+mía 1.0	m ie
+nâng 1.0	n aa ngz
+xưa 1.0	s wa
+bìa 1.0	b ie
+hoạ 1.0	h w a
+cuốn 1.0	k uo nz
+liệt 1.0	l ie tc
+tuồn 1.0	t uo nz
+thiệu 1.0	th ie uz
+miền 1.0	m ie nz
+nghiên 1.0	ng ie nz
+nhiên 1.0	nh ie nz
+vĩ 1.0	v i
+mong 1.0	m o ngz
+tiệc 1.0	t ie kc
+phở 1.0	ph ow
+khổng 1.0	kh oo ngz
+lồ 1.0	l oo
+đô 1.0	dd oo
+bắc 1.0	b aw kc
+khứ 1.0	kh uw
+kì 1.0	k i
+chay 1.0	ch a iz
+mặn 1.0	m aw nz
+vi 1.0	v i
+khiếu 1.0	kh ie uz
+nại 1.0	n a iz
+sư 1.0	s uw
+rụi 1.0	r u iz
+cơm 1.0	k ow mz
+lắng 1.0	l aw ngz
+kẽm 1.0	k e mz
+gan 1.0	g a nz
+sò 1.0	s o
+thư 1.0	th uw
+huyết 1.0	h w ie tc
+hào 1.0	h a uz
+i 1.0	i
+trải 1.0	tr a iz
+dài 1.0	d a iz
+gọn 1.0	g o nz
+thản 1.0	th a nz
+đua 1.0	dd uo
+bánh 1.0	b a ngz
+hát 1.0	h a tc
+đập 1.0	dd aa pc
+tan 1.0	t a nz
+tành 1.0	t a ngz
+khoái 1.0	kh w a iz
+mâm 1.0	m aa mz
+đạm 1.0	dd a mz
+tủ 1.0	t u
+luật 1.0	l w aa tc
+răn 1.0	r aw nz
+đe 1.0	dd e
+giường 1.0	d wa ngz
+nhảm 1.0	nh a mz
+phèo 1.0	ph e uz
+ờ 1.0	ow
+linh 1.0	l i ngz
+thung 1.0	th u ngz
+nai 1.0	n a iz
+mến 1.0	m ee nz
+mộc 1.0	m oo kc
+thúy 1.0	th w i
+nhờ 1.0	nh ow
+kim 1.0	k i mz
+cấu 1.0	k aa uz
+trúc 1.0	tr u kc
+khoa 1.0	kh w a
+nhập 1.0	nh aa pc
+đăng 1.0	dd aw ngz
+nhánh 1.0	nh a ngz
+thắng 1.0	th aw ngz
+thúng 1.0	th u ngz
+làn 1.0	l a nz
+mưu 1.0	m uw uz
+dòng 1.0	d o ngz
+thuật 1.0	th w aa tc
+bán 1.0	b a nz
+nhớ 1.0	nh ow
+vội 1.0	v oo iz
+ôn 1.0	oo nz
+hiếu 1.0	h ie uz
+hải 1.0	h a iz
+thưa 1.0	th wa
+vĩnh 1.0	v i ngz
+táng 1.0	t a ngz
+mộ 1.0	m oo
+cạnh 1.0	k a ngz
+ghét 1.0	g e tc
+viện 1.0	v ie nz
+khẽ 1.0	kh e
+chớp 1.0	ch ow pc
+nguyện 1.0	ng w ie nz
+chúa 1.0	ch w a
+phức 1.0	ph uw kc
+sướng 1.0	s wa ngz
+sót 1.0	s o tc
+ngạc 1.0	ng a kc
+ôm 1.0	oo mz
+cặp 1.0	k aw pc
+hẹn 1.0	h e nz
+ước 1.0	wa kc
+thụy 1.0	th w i
+đảo 1.0	dd a uz
+trầm 1.0	tr aa mz
+chiếu 1.0	ch ie uz
+báu 1.0	b a uz
+ngột 1.0	ng oo tc
+hủy 1.0	h w i
+phật 1.0	ph aa tc
+hưởng 1.0	h wa ngz
+xen 1.0	s e nz
+kẽ 1.0	k e
+phút 1.0	ph u tc
+xúm 1.0	s u mz
+tê 1.0	t ee
+ế 1.0	ee
+gánh 1.0	g a ngz
+chè 1.0	ch e
+trĩu 1.0	tr i uz
+xung 1.0	s u ngz
+kệ 1.0	k ee
+bẩn 1.0	b aa nz
+lênh 1.0	l ee ngz
+láng 1.0	l a ngz
+rẽ 1.0	r e
+dối 1.0	d oo iz
+sớm 1.0	s ow mz
+bữa 1.0	b wa
+sửa 1.0	s wa
+ngớ 1.0	ng ow
+ngẩn 1.0	ng aa nz
+đè 1.0	dd e
+dập 1.0	d aa pc
+sọ 1.0	s o
+nở 1.0	n ow
+nụ 1.0	n u
+cười 1.0	k wa iz
+sóng 1.0	s o ngz
+vùng 1.0	v u ngz
+bão 1.0	b a uz
+căng 1.0	k aw ngz
+mệt 1.0	m ee tc
+đáng 1.0	dd a ngz
+hả 1.0	h a
+cổng 1.0	k oo ngz
+đà 1.0	dd a
+lạt 1.0	l a tc
+nậu 1.0	n aa uz
+trùm 1.0	tr u mz
+rẻ 1.0	r e
+mạt 1.0	m a tc
+khám 1.0	kh a mz
+khan 1.0	kh a nz
+bổng 1.0	b oo ngz
+dát 1.0	d a tc
+hàn 1.0	h a nz
+chiếm 1.0	ch ie mz
+so 1.0	s o
+táo 1.0	t a uz
+lai 1.0	l a iz
+bạt 1.0	b a tc
+chắn 1.0	ch aw nz
+đụng 1.0	dd u ngz
+suýt 1.0	s w i tc
+chúi 1.0	ch u iz
+thuyền 1.0	th w ie nz
+tộc 1.0	t oo kc
+thiểu 1.0	th ie uz
+chấp 1.0	ch aa pc
+hãnh 1.0	h a ngz
+diện 1.0	d ie nz
+tuấn 1.0	t w aa nz
+tù 1.0	t u
+bệ 1.0	b ee
+thờ 1.0	th ow
+sen 1.0	s e nz
+huệ 1.0	h w ee
+thơm 1.0	th ow mz
+nức 1.0	n uw kc
+cử 1.0	k uw
+dễ 1.0	d ee
+ố 1.0	oo
+nhiếp 1.0	nh ie pc
+séc 1.0	s e kc
+xót 1.0	s o tc
+thác 1.0	th a kc
+kính 1.0	k i ngz
+lãm 1.0	l a mz
+mài 1.0	m a iz
+dựa 1.0	d wa
+luyện 1.0	l w ie nz
+kèm 1.0	k e mz
+khoản 1.0	kh w a nz
+chúc 1.0	ch u kc
+giãn 1.0	d a nz
+đen 1.0	dd e nz
+xếch 1.0	s ee kc
+lẫn 1.0	l aa nz
+nỗ 1.0	n oo
+kem 1.0	k e mz
+lót 1.0	l o tc
+thình 1.0	th i ngz
+lình 1.0	l i ngz
+khuya 1.0	kh w ie
+khoắt 1.0	kh w aw tc
+gà 1.0	g a
+nâu 1.0	n aa uz
+cai 1.0	k a iz
+tấm 1.0	t aa mz
+hiển 1.0	h ie nz
+lềnh 1.0	l ee ngz
+khênh 1.0	kh ee ngz
+tụ 1.0	t u
+mời 1.0	m ow iz
+thách 1.0	th a kc
+má 1.0	m a
+đếm 1.0	dd ee mz
+giọt 1.0	d o tc
+rơi 1.0	r ow iz
+tải 1.0	t a iz
+cắp 1.0	k aw pc
+nhơn 1.0	nh ow nz
+ngực 1.0	ng uw kc
+mỡ 1.0	m ow
+yến 1.0	ie nz
+trinh 1.0	tr i ngz
+ngoạn 1.0	ng w a nz
+ham 1.0	h a mz
+phượng 1.0	ph wa ngz
+ve 1.0	v e
+xao 1.0	s a uz
+nguôi 1.0	ng uo iz
+sa 1.0	s a
+nghịch 1.0	ng i kc
+tiếc 1.0	t ie kc
+khía 1.0	kh ie
+chuồng 1.0	ch uo ngz
+địch 1.0	dd i kc
+dạng 1.0	d a ngz
+rõ 1.0	r o
+cương 1.0	k wa ngz
+đẻ 1.0	dd e
+đắp 1.0	dd aw pc
+ruộng 1.0	r uo ngz
+vườn 1.0	v wa nz
+trù 1.0	tr u
+tắc 1.0	t aw kc
+mâu 1.0	m aa uz
+thuẫn 1.0	th w aa nz
+lui 1.0	l u iz
+chóng 1.0	ch o ngz
+nhịp 1.0	nh i pc
+tim 1.0	t i mz
+cỗ 1.0	k oo
+niên 1.0	n ie nz
+á 1.0	a
+níu 1.0	n i uz
+khuyết 1.0	kh w ie tc
+phán 1.0	ph a nz
+tu 1.0	t u
+qui 1.0	k w i
+lén 1.0	l e nz
+nhanh 1.0	nh a ngz
+đỗ 1.0	dd oo
+thuần 1.0	th w aa nz
+kênh 1.0	k ee ngz
+chụp 1.0	ch u pc
+ly 1.0	l i
+thiếp 1.0	th ie pc
+kẹt 1.0	k e tc
+lỡ 1.0	l ow
+liên 1.0	l ie nz
+kiều 1.0	k ie uz
+bào 1.0	b a uz
+khao 1.0	kh a uz
+luân 1.0	l w aa nz
+nảy 1.0	n a iz
+cu 1.0	k u
+ngừa 1.0	ng wa
+thai 1.0	th a iz
+nợ 1.0	n ow
+chống 1.0	ch oo ngz
+đáp 1.0	dd a pc
+lải 1.0	l a iz
+nhải 1.0	nh a iz
+dông 1.0	d oo ngz
+nhu 1.0	nh u
+hoảng 1.0	h w a ngz
+chặn 1.0	ch aw nz
+ấn 1.0	aa nz
+sào 1.0	s a uz
+đành 1.0	dd a ngz
+mọc 1.0	m o kc
+nọc 1.0	n o kc
+rượt 1.0	r wa tc
+chì 1.0	ch i
+chiết 1.0	ch ie tc
+bơi 1.0	b ow iz
+cờ 1.0	k ow
+líp 1.0	l i pc
+vỗ 1.0	v oo
+nghiện 1.0	ng ie nz
+ngói 1.0	ng o iz
+càu 1.0	k a uz
+cạu 1.0	k a uz
+ửng 1.0	uw ngz
+ổ 1.0	oo
+xuyên 1.0	s w ie nz
+khóa 1.0	kh w a
+chặt 1.0	ch aw tc
+phái 1.0	ph a iz
+đích 1.0	dd i kc
+xoèn 1.0	s w e nz
+xoẹt 1.0	s w e tc
+khởi 1.0	kh ow iz
+lọc 1.0	l o kc
+dùi 1.0	d u iz
+đục 1.0	dd u kc
+thợ 1.0	th ow
+nháy 1.0	nh a iz
+ngụp 1.0	ng u pc
+len 1.0	l e nz
+ngượng 1.0	ng wa ngz
+hun 1.0	h u nz
+đúc 1.0	dd u kc
+thần 1.0	th aa nz
+tháp 1.0	th a pc
+thử 1.0	th uw
+bức 1.0	b uw kc
+phàm 1.0	ph a mz
+đạt 1.0	dd a tc
+dấu 1.0	d aa uz
+duy 1.0	d w i
+kho 1.0	kh o
+lúa 1.0	l w a
+dường 1.0	d wa ngz
+tẹp 1.0	t e pc
+nhẹp 1.0	nh e pc
+đuốc 1.0	dd uo kc
+giãy 1.0	d a iz
+giụa 1.0	d w a
+nghêu 1.0	ng ee uz
+ngao 1.0	ng a uz
+đáy 1.0	dd a iz
+sợi 1.0	s ow iz
+bún 1.0	b u nz
+cuộn 1.0	k uo nz
+chão 1.0	ch a uz
+khoanh 1.0	kh w a ngz
+tròn 1.0	tr o nz
+đìu 1.0	dd i uz
+hiu 1.0	h i uz
+thớt 1.0	th ow tc
+nghiệm 1.0	ng ie mz
+khả 1.0	kh a
+ghi 1.0	g i
+điệu 1.0	dd ie uz
+tràng 1.0	tr a ngz
+pháo 1.0	ph a uz
+trồ 1.0	tr oo
+ngớt 1.0	ng ow tc
+lướt 1.0	l wa tc
+nhẹ 1.0	nh e
+guộc 1.0	g uo kc
+chữ 1.0	ch uw
+dao 1.0	d a uz
+hí 1.0	h i
+húi 1.0	h u iz
+tí 1.0	t i
+xíu 1.0	s i uz
+nhão 1.0	nh a uz
+xẵng 1.0	s aw ngz
+giọng 1.0	d o ngz
+dác 1.0	d a kc
+dáo 1.0	d a uz
+bút 1.0	b u tc
+dằng 1.0	d aw ngz
+dặc 1.0	d aw kc
+suối 1.0	s uo iz
+sàng 1.0	s a ngz
+sảy 1.0	s a iz
+thóc 1.0	th o kc
+bá 1.0	b a
+đồi 1.0	dd oo iz
+trụy 1.0	tr w i
+cạm 1.0	k a mz
+hoại 1.0	h w a iz
+huấn 1.0	h w aa nz
+nhổn 1.0	nh oo nz
+sác 1.0	s a kc
+đầm 1.0	dd aa mz
+lầy 1.0	l aa iz
+tròng 1.0	tr o ngz
+trành 1.0	tr a ngz
+nhào 1.0	nh a uz
+thìa 1.0	th ie
+muỗng 1.0	m uo ngz
+giây 1.0	d aa iz
+tráng 1.0	tr a ngz
+nhựa 1.0	nh wa
+cậy 1.0	k aa iz
+uy 1.0	w i
+lò 1.0	l o
+chông 1.0	ch oo ngz
+chênh 1.0	ch ee ngz
+sườn 1.0	s wa nz
+quạnh 1.0	k w a ngz
+ben 1.0	b e nz
+niêu 1.0	n ie uz
+tú 1.0	t u
+xương 1.0	s wa ngz
+kích 1.0	k i kc
+mọt 1.0	m o tc
+sút 1.0	s u tc
+đuôi 1.0	dd uo iz
+chớ 1.0	ch ow
+nhăng 1.0	nh aw ngz
+nhít 1.0	nh i tc
+que 1.0	k w e
+cời 1.0	k ow iz
+còng 1.0	k o ngz
+ngài 1.0	ng a iz
+săn 1.0	s aw nz
+nũng 1.0	n u ngz
+nịu 1.0	n i uz
+dãy 1.0	d a iz
+bầy 1.0	b aa iz
+rình 1.0	r i ngz
+chắm 1.0	ch aw mz
+lùng 1.0	l u ngz
+sục 1.0	s u kc
+chở 1.0	ch ow
+xẩy 1.0	s aa iz
+bụi 1.0	b u iz
+giật 1.0	d aa tc
+đâm 1.0	dd aa mz
+quậy 1.0	k w aa iz
+huỳnh 1.0	h w i ngz
+phường 1.0	ph wa ngz
+lếu 1.0	l ee uz
+huề 1.0	h w ee
+lỗ 1.0	l oo
+mãng 1.0	m a ngz
+chầm 1.0	ch aa mz
+hoàng 1.0	h w a ngz
+hạc 1.0	h a kc
+lâu 1.0	l aa uz
+mệ 1.0	m ee
+lặp 1.0	l aw pc
+trưng 1.0	tr uw ngz
+ích 1.0	i kc
+hiên 1.0	h ie nz
+tạ 1.0	t a
+ngoái 1.0	ng w a iz
+sễ 1.0	s ee
+lẻ 1.0	l e
+liệu 1.0	l ie uz
+nành 1.0	n a ngz
+hậu 1.0	h aa uz
+sên 1.0	s ee nz
+ẩn 1.0	aa nz
+ồn 1.0	oo nz
+ào 1.0	a uz
+tụi 1.0	t u iz
+loằng 1.0	l w aw ngz
+ngoằng 1.0	ng w aw ngz
+vang 1.0	v a ngz
+dội 1.0	d oo iz
+nhõn 1.0	nh o nz
+ương 1.0	wa ngz
+đảng 1.0	dd a ngz
+dang 1.0	d a ngz
+hang 1.0	h a ngz
+ngoằn 1.0	ng w aw nz
+ngoèo 1.0	ng w e uz
+hãng 1.0	h a ngz
+hừng 1.0	h uw ngz
+hực 1.0	h uw kc
+vẽ 1.0	v e
+phác 1.0	ph a kc
+cuồng 1.0	k uo ngz
+rờ 1.0	r ow
+tua 1.0	t uo
+huyễn 1.0	h w ie nz
+ngôi 1.0	ng oo iz
+toanh 1.0	t w a ngz
+tắm 1.0	t aw mz
+hũm 1.0	h u mz
+cạn 1.0	k a nz
+dáng 1.0	d a ngz
+khỉ 1.0	kh i
+nguội 1.0	ng uo iz
+gớm 1.0	g ow mz
+dai 1.0	d a iz
+ngoách 1.0	ng w a kc
+xạo 1.0	s a uz
+thâm 1.0	th aa mz
+tím 1.0	t i mz
+cung 1.0	k u ngz
+manh 1.0	m a ngz
+mối 1.0	m oo iz
+sánh 1.0	s a ngz
+chà 1.0	ch a
+gồng 1.0	g oo ngz
+dính 1.0	d i ngz
+dĩa 1.0	d ie
+vân 1.0	v aa nz
+điên 1.0	dd ie nz
+rớt 1.0	r ow tc
+bùi 1.0	b u iz
+nhùi 1.0	nh u iz
+kịp 1.0	k i pc
+lịnh 1.0	l i ngz
+quạch 1.0	k w a kc
+dược 1.0	d wa kc
+vượng 1.0	v wa ngz
+đo 1.0	dd o
+thắt 1.0	th aw tc
+siết 1.0	s ie tc
+ngất 1.0	ng aa tc
+xỉu 1.0	s i uz
+ốm 1.0	oo mz
+chào 1.0	ch a uz
+hô 1.0	h oo
+hố 1.0	h oo
+nhay 1.0	nh a iz
+dì 1.0	d i
+ngáy 1.0	ng a iz
+ghẽ 1.0	g e
+thọt 1.0	th o tc
+lé 1.0	l e
+trảo 1.0	tr a uz
+râm 1.0	r aa mz
+ran 1.0	r a nz
+khéo 1.0	kh e uz
+lằng 1.0	l aw ngz
+nhằng 1.0	nh aw ngz
+kệnh 1.0	k ee ngz
+lờn 1.0	l ow nz
+lòa 1.0	l w a
+giảnh 1.0	d a ngz
+cấy 1.0	k aa iz
+mơ 1.0	m ow
+đài 1.0	dd a iz
+phết 1.0	ph ee tc
+nhỉ 1.0	nh i
+kiềm 1.0	k ie mz
+cua 1.0	k uo
+rước 1.0	r wa kc
+lựa 1.0	l wa
+nhoáng 1.0	nh w a ngz
+gìn 1.0	d nz
+vóc 1.0	v o kc
+móp 1.0	m o pc
+nhậu 1.0	nh aa uz
+mẩy 1.0	m aa iz
+đớn 1.0	dd ow nz
+dĩ 1.0	d i
+mơn 1.0	m ow nz
+mởn 1.0	m ow nz
+vó 1.0	v o
+bè 1.0	b e
+rủi 1.0	r u iz
+ro 1.0	r o
+trại 1.0	tr a iz
+giam 1.0	d a mz
+đờn 1.0	dd ow nz
+trịnh 1.0	tr i ngz
+chuông 1.0	ch uo ngz
+reo 1.0	r e uz
+đòn 1.0	dd o nz
+chùi 1.0	ch u iz
+kĩ 1.0	k i
+lưỡng 1.0	l wa ngz
+dốc 1.0	d oo kc
+ngờ 1.0	ng ow
+ngợ 1.0	ng ow
+tị 1.0	t i
+nạnh 1.0	n a ngz
+trớn 1.0	tr ow nz
+ủ 1.0	u
+ê 1.0	ee
+đũa 1.0	dd w a
+vỉa 1.0	v ie
+hè 1.0	h e
+huếch 1.0	h w ee kc
+hoác 1.0	h w a kc
+rút 1.0	r u tc
+rỉa 1.0	r ie
+lưu 1.0	l uw uz
+tệp 1.0	t ee pc
+cứng 1.0	k uw ngz
+rắn 1.0	r aw nz
+bề 1.0	b ee
+nhạy 1.0	nh a iz
+khôi 1.0	kh oo iz
+vệ 1.0	v ee
+chả 1.0	ch a
+bảnh 1.0	b a ngz
+phách 1.0	ph a kc
+đạn 1.0	dd a nz
+hy 1.0	h i
+gỡ 1.0	g ow
+buộc 1.0	b uo kc
+sì 1.0	s i
+quánh 1.0	k w a ngz
+lũ 1.0	l u
+quẳng 1.0	k w aw ngz
+thềm 1.0	th ee mz
+xom 1.0	s o mz
+mùn 1.0	m u nz
+ơn 1.0	ow nz
+củi 1.0	k u iz
+ném 1.0	n e mz
+nhen 1.0	nh e nz
+sưởi 1.0	s wa iz
+min 1.0	m i nz
+viễn 1.0	v ie nz
+thọc 1.0	th o kc
+léc 1.0	l e kc
+sân 1.0	s aa nz
+khấu 1.0	kh aa uz
+huơ 1.0	h w ow
+vút 1.0	v u tc
+kiện 1.0	k ie nz
+lốc 1.0	l oo kc
+khẻ 1.0	kh e
+thước 1.0	th wa kc
+dớ 1.0	d ow
+dẩn 1.0	d aa nz
+quách 1.0	k w a kc
+nghiệt 1.0	ng ie tc
+chèn 1.0	ch e nz
+gièm 1.0	d e mz
+khinh 1.0	kh i ngz
+rì 1.0	r i
+biền 1.0	b ie nz
+niu 1.0	n i uz
+trân 1.0	tr aa nz
+thưỡn 1.0	th wa nz
+điểu 1.0	dd ie uz
+loa 1.0	l w a
+xia 1.0	s ie
+lạc 1.0	l a kc
+triệu 1.0	tr ie uz
+giũ 1.0	d u
+cong 1.0	k o ngz
+nẹp 1.0	n e pc
+màng 1.0	m a ngz
+uốn 1.0	uo nz
+lượn 1.0	l wa nz
+chùa 1.0	ch w a
+ngơi 1.0	ng ow iz
+cỡ 1.0	k ow
+trâm 1.0	tr aa mz
+sẵn 1.0	s aw nz
+luyến 1.0	l w ie nz
+láy 1.0	l a iz
+bơ 1.0	b ow
+phờ 1.0	ph ow
+ống 1.0	oo ngz
+khuỳnh 1.0	kh w i ngz
+khíu 1.0	kh i uz
+toạc 1.0	t w a kc
+dịu 1.0	d i uz
+mỏi 1.0	m o iz
+phọt 1.0	ph o tc
+cõi 1.0	k o iz
+giầy 1.0	d aa iz
+mõm 1.0	m o mz
+ngóe 1.0	ng w e
+chật 1.0	ch aa tc
+gương 1.0	g wa ngz
+đống 1.0	dd oo ngz
+tườm 1.0	t wa mz
+tượp 1.0	t wa pc
+nghiền 1.0	ng ie nz
+chang 1.0	ch a ngz
+thám 1.0	th a mz
+thiệt 1.0	th ie tc
+hỗ 1.0	h oo
+trợ 1.0	tr ow
+vong 1.0	v o ngz
+thánh 1.0	th a ngz
+ỉm 1.0	i mz
+hoành 1.0	h w a ngz
+hạo 1.0	h a uz
+đễnh 1.0	dd ee ngz
+chen 1.0	ch e nz
+bệt 1.0	b ee tc
+ních 1.0	n i kc
+nhảy 1.0	nh a iz
+phót 1.0	ph o tc
+vọt 1.0	v o tc
+trấn 1.0	tr aa nz
+lảnh 1.0	l a ngz
+ngó 1.0	ng o
+thượng 1.0	th wa ngz
+ngoáo 1.0	ng w a uz
+ộp 1.0	oo pc
+lũy 1.0	l w i
+tre 1.0	tr e
+bãi 1.0	b a iz
+cúc 1.0	k u kc
+đóa 1.0	dd w a
+chậu 1.0	ch aa uz
+sỹ 1.0	s i
+dũng 1.0	d u ngz
+vở 1.0	v ow
+kịch 1.0	k i kc
+nhoe 1.0	nh w e
+nhoét 1.0	nh w e tc
+nén 1.0	n e nz
+tém 1.0	t e mz
+mán 1.0	m a nz
+mò 1.0	m o
+cảng 1.0	k a ngz
+danh 1.0	d a ngz
+phu 1.0	ph u
+xướng 1.0	s wa ngz
+tùy 1.0	t w i
+vạc 1.0	v a kc
+kín 1.0	k i nz
+hở 1.0	h ow
+võ 1.0	v o
+tuyền 1.0	t w ie nz
+nêu 1.0	n ee uz
+lạch 1.0	l a kc
+xạch 1.0	s a kc
+liêu 1.0	l ie uz
+rái 1.0	r a iz
+hóc 1.0	h o kc
+lở 1.0	l ow
+chong 1.0	ch o ngz
+xống 1.0	s oo ngz
+ướt 1.0	wa tc
+thuyên 1.0	th w ie nz
+mạch 1.0	m a kc
+vèo 1.0	v e uz
+toan 1.0	t w a nz
+rong 1.0	r o ngz
+đong 1.0	dd o ngz
+banh 1.0	b a ngz
+cật 1.0	k aa tc
+hứng 1.0	h uw ngz
+khoán 1.0	kh w a nz
+chum 1.0	ch u mz
+lư 1.0	l uw
+mun 1.0	m u nz
+xuồng 1.0	s uo ngz
+su 1.0	s u
+khàng 1.0	kh a ngz
+buông 1.0	b uo ngz
+lát 1.0	l a tc
+ồng 1.0	oo ngz
+ộc 1.0	oo kc
+gen 1.0	g e nz
+ni 1.0	n i
+yên 1.0	ie nz
+bọ 1.0	b o
+tàn 1.0	t a nz
+may 1.0	m a iz
+đòi 1.0	dd o iz
+tô 1.0	t oo
+xắn 1.0	s aw nz
+mướn 1.0	m wa nz
+bẹo 1.0	b e uz
+bắp 1.0	b aw pc
+hướm 1.0	h wa mz
+phả 1.0	ph a
+thở 1.0	th ow
+nhớp 1.0	nh ow pc
+nhúa 1.0	nh w a
+dâng 1.0	d aa ngz
+nuốt 1.0	n uo tc
+chửng 1.0	ch uw ngz
+bí 1.0	b i
+dọn 1.0	d o nz
+bặm 1.0	b aw mz
+nhảnh 1.0	nh a ngz
+ngây 1.0	ng aa iz
+ngô 1.0	ng oo
+thận 1.0	th aa nz
+dó 1.0	d o
+cheo 1.0	ch e uz
+hùa 1.0	h w a
+thoát 1.0	th w a tc
+lệch 1.0	l ee kc
+trục 1.0	tr u kc
+trâu 1.0	tr aa uz
+bát 1.0	b a tc
+ngía 1.0	ng ie
+hùn 1.0	h u nz
+chược 1.0	ch wa kc
+cóc 1.0	k o kc
+phiêu 1.0	ph ie uz
+nhích 1.0	nh i kc
+bỉ 1.0	b i
+lười 1.0	l wa iz
+biếng 1.0	b ie ngz
+đơm 1.0	dd ow mz
+đui 1.0	dd u iz
+thang 1.0	th a ngz
+thảm 1.0	th a mz
+lùa 1.0	l w a
+tôm 1.0	t oo mz
+quèn 1.0	k w e nz
+huyện 1.0	h w ie nz
+quỳnh 1.0	k w i ngz
+giặn 1.0	d aw nz
+muồi 1.0	m uo iz
+phùng 1.0	ph u ngz
+lục 1.0	l u kc
+đạc 1.0	dd a kc
+lóm 1.0	l o mz
+canh 1.0	k a ngz
+nêm 1.0	n ee mz
+măn 1.0	m aw nz
+mẳn 1.0	m aw nz
+cát 1.0	k a tc
+đương 1.0	dd wa ngz
+cột 1.0	k oo tc
+thiện 1.0	th ie nz
+rào 1.0	r a uz
+cản 1.0	k a nz
+chờ 1.0	ch ow
+dừa 1.0	d wa
+dọa 1.0	d w a
+hề 1.0	h ee
+kẹn 1.0	k e nz
+lệ 1.0	l ee
+quỵt 1.0	k w i tc
+nhấn 1.0	nh aa nz
+tươi 1.0	t wa iz
+tắn 1.0	t aw nz
+thụng 1.0	th u ngz
+thịu 1.0	th i uz
+viêm 1.0	v ie mz
+mãn 1.0	m a nz
+lùm 1.0	l u mz
+đẫm 1.0	dd aa mz
+đìa 1.0	dd ie
+tuôn 1.0	t uo nz
+kỹ 1.0	k i
+mắng 1.0	m aw ngz
+nư 1.0	n uw
+lãng 1.0	l a ngz
+mạn 1.0	m a nz
+lỏi 1.0	l o iz
+khuôn 1.0	kh uo nz
+nua 1.0	n uo
+sạm 1.0	s a mz
+thùy 1.0	th w i
+vẻ 1.0	v e
+trừng 1.0	tr uw ngz
+biếm 1.0	b ie mz
+mắc 1.0	m aw kc
+gật 1.0	g aa tc
+gù 1.0	g u
+bám 1.0	b a mz
+nhức 1.0	nh uw kc
+nhối 1.0	nh oo iz
+móng 1.0	m o ngz
+nhẩm 1.0	nh aa mz
+rùa 1.0	r w a
+sọt 1.0	s o tc
+gác 1.0	g a kc
+bõm 1.0	b o mz
+cày 1.0	k a iz
+nghê 1.0	ng ee
+ngạt 1.0	ng a tc
+xy 1.0	s i
+huyền 1.0	h w ie nz
+thút 1.0	th u tc
+náo 1.0	n a uz
+thôn 1.0	th oo nz
+mốc 1.0	m oo kc
+thếch 1.0	th ee kc
+ẩm 1.0	aa mz
+chề 1.0	ch ee
+táp 1.0	t a pc
+chạn 1.0	ch a nz
+sủi 1.0	s u iz
+bẹp 1.0	b e pc
+xi 1.0	s i
+dàng 1.0	d a ngz
+khua 1.0	kh uo
+vợi 1.0	v ow iz
+khuy 1.0	kh w i
+bấm 1.0	b aa mz
+xòng 1.0	s o ngz
+bờ 1.0	b ow
+trật 1.0	tr aa tc
+ranh 1.0	r a ngz
+gồ 1.0	g oo
+ghề 1.0	g ee
+trã 1.0	tr a
+khuỷu 1.0	kh w i uz
+gối 1.0	g oo iz
+rao 1.0	r a uz
+hẻm 1.0	h e mz
+huế 1.0	h w ee
+xài 1.0	s a iz
+xể 1.0	s ee
+đàng 1.0	dd a ngz
+giơ 1.0	d ow
+nách 1.0	n a kc
+hẹ 1.0	h e
+gờm 1.0	g ow mz
+nhầy 1.0	nh aa iz
+nhụa 1.0	nh w a
+vũng 1.0	v u ngz
+đòm 1.0	dd o mz
+tảng 1.0	t a ngz
+no 1.0	n o
+sáo 1.0	s a uz
+mộng 1.0	m oo ngz
+tuyết 1.0	t w ie tc
+đùi 1.0	dd u iz
+nôn 1.0	n oo nz
+nao 1.0	n a uz
+mật 1.0	m aa tc
+hoạn 1.0	h w a nz
+sỗ 1.0	s oo
+thủy 1.0	th w i
+siêu 1.0	s ie uz
+quảy 1.0	k w a iz
+lô 1.0	l oo
+ngũ 1.0	ng u
+tò 1.0	t o
+ngẩm 1.0	ng aa mz
+nít 1.0	n i tc
+quấn 1.0	k w aa nz
+quít 1.0	k w i tc
+dụ 1.0	d u
+hủ 1.0	h u
+ngôn 1.0	ng oo nz
+cửu 1.0	k uw uz
+phỉ 1.0	ph i
+tứ 1.0	t uw
+phanh 1.0	ph a ngz
+thây 1.0	th aa iz
+bia 1.0	b ie
+cởi 1.0	k ow iz
+hái 1.0	h a iz
+cẩu 1.0	k aa uz
+tơ 1.0	t ow
+niệm 1.0	n ie mz
+vứt 1.0	v uw tc
+đao 1.0	dd a uz
+đia 1.0	dd ie
+cụt 1.0	k u tc
+dẫu 1.0	d aa uz
+rụng 1.0	r u ngz
+trộm 1.0	tr oo mz
+viếng 1.0	v ie ngz
+thăm 1.0	th aw mz
+nấm 1.0	n aa mz
+ghê 1.0	g ee
+cài 1.0	k a iz
+tốn 1.0	t oo nz
+kiếp 1.0	k ie pc
+phổng 1.0	ph oo ngz
+giựt 1.0	d uw tc
+bạc 1.0	b a kc
+thoái 1.0	th w a iz
+lẩu 1.0	l aa uz
+dê 1.0	d ee
+nhoài 1.0	nh w a iz
+chu 1.0	ch u
+rải 1.0	r a iz
+tia 1.0	t ie
+chan 1.0	ch a nz
+rinh 1.0	r i ngz
+chép 1.0	ch e pc
+ngò 1.0	ng o
+om 1.0	o mz
+tiễu 1.0	t ie uz
+lều 1.0	l ee uz
+bều 1.0	b ee uz
+gò 1.0	g o
+léo 1.0	l e uz
+mỏng 1.0	m o ngz
+tang 1.0	t a ngz
+thò 1.0	th o
+nô 1.0	n oo
+lăn 1.0	l aw nz
+thổ 1.0	th oo
+cẩm 1.0	k aa mz
+kheo 1.0	kh e uz
+lam 1.0	l a mz
+xửa 1.0	s wa
+ngữ 1.0	ng uw
+vụt 1.0	v u tc
+xà 1.0	s a
+gang 1.0	g a ngz
+tấc 1.0	t aa kc
+ganh 1.0	g a ngz
+nhạt 1.0	nh a tc
+xám 1.0	s a mz
+góa 1.0	g w a
+bụa 1.0	b w a
+giòn 1.0	d o nz
+nhai 1.0	nh a iz
+bong 1.0	b o ngz
+voi 1.0	v o iz
+té 1.0	t e
+nhếch 1.0	nh ee kc
+mép 1.0	m e pc
+tủm 1.0	t u mz
+tỉm 1.0	t i mz
+móc 1.0	m o kc
+sãi 1.0	s a iz
+rót 1.0	r o tc
+xuê 1.0	s w ee
+xoa 1.0	s w a
+rưng 1.0	r uw ngz
+tách 1.0	t a kc
+lắc 1.0	l aw kc
+chối 1.0	ch oo iz
+khấp 1.0	kh aa pc
+mừng 1.0	m uw ngz
+hé 1.0	h e
+dúm 1.0	d u mz
+ủa 1.0	w a
+truồng 1.0	tr uo ngz
+rạo 1.0	r a uz
+giày 1.0	d a iz
+gót 1.0	g o tc
+tiện 1.0	t ie nz
+đai 1.0	dd a iz
+mấu 1.0	m aa uz
+chốt 1.0	ch oo tc
+eo 1.0	e uz
+hẹp 1.0	h e pc
+rể 1.0	r ee
+xọp 1.0	s o pc
+đèo 1.0	dd e uz
+gấy 1.0	g aa iz
+mèo 1.0	m e uz
+bươi 1.0	b wa iz
+chuyền 1.0	ch w ie nz
+ngoéo 1.0	ng w e uz
+ưa 1.0	wa
+khù 1.0	kh u
+khờ 1.0	kh ow
+xênh 1.0	s ee ngz
+xang 1.0	s a ngz
+chệch 1.0	ch ee kc
+choạc 1.0	ch w a kc
+ắt 1.0	aw tc
+han 1.0	h a nz
+thỏ 1.0	th o
+rơn 1.0	r ow nz
+hốt 1.0	h oo tc
+diệc 1.0	d ie kc
+thỏa 1.0	th w a
+khói 1.0	kh o iz
+nằng 1.0	n aw ngz
+nặc 1.0	n aw kc
+lão 1.0	l a uz
+nây 1.0	n aa iz
+vòi 1.0	v o iz
+vôi 1.0	v oo iz
+vữa 1.0	v wa
+tróc 1.0	tr o kc
+lả 1.0	l a
+mập 1.0	m aa pc
+au 1.0	a uz
+mắm 1.0	m aw mz
+giướng 1.0	d wa ngz
+ợ 1.0	ow
+quất 1.0	k w aa tc
+roi 1.0	r o iz
+cỗi 1.0	k oo iz
+triêng 1.0	tr ie ngz
+rúm 1.0	r u mz
+ró 1.0	r o
+cừu 1.0	k uw uz
+non 1.0	n o nz
+sói 1.0	s o iz
+vé 1.0	v e
+trũng 1.0	tr u ngz
+húc 1.0	h u kc
+nhàu 1.0	nh a uz
+rom 1.0	r o mz
+cuồn 1.0	k uo nz
+át 1.0	a tc
+giáng 1.0	d a ngz
+hạ 1.0	h a
+miết 1.0	m ie tc
+dò 1.0	d o
+phề 1.0	ph ee
+phệ 1.0	ph ee
+teo 1.0	t e uz
+tóp 1.0	t o pc
+thoang 1.0	th w a ngz
+tràm 1.0	tr a mz
+bơm 1.0	b ow mz
+bíu 1.0	b i uz
+khắng 1.0	kh aw ngz
+khít 1.0	kh i tc
+thiêng 1.0	th ie ngz
+xong 1.0	s o ngz
+o 1.0	o
+sụt 1.0	s u tc
+máng 1.0	m a ngz
+tớn 1.0	t ow nz
+bợn 1.0	b ow nz
+tợ 1.0	t ow
+lợp 1.0	l ow pc
+ruồi 1.0	r uo iz
+nhặng 1.0	nh aw ngz
+quấy 1.0	k w aa iz
+nhiễu 1.0	nh ie uz
+uỷ 1.0	w i
+mải 1.0	m a iz
+mẫu 1.0	m aa uz
+bấy 1.0	b aa iz
+vén 1.0	v e nz
+dẹp 1.0	d e pc
+dữ 1.0	d uw
+sái 1.0	s a iz
+nậm 1.0	n aa mz
+nhù 1.0	nh u
+vẩn 1.0	v aa nz
+lẩn 1.0	l aa nz
+quẩn 1.0	k w aa nz
+lãnh 1.0	l a ngz
+mũm 1.0	m u mz
+mĩm 1.0	m i mz
+xoài 1.0	s w a iz
+cước 1.0	k wa kc
+nhe 1.0	nh e
+niềng 1.0	n ie ngz
+lấp 1.0	l aa pc
+thốn 1.0	th oo nz
+mát 1.0	m a tc
+cư 1.0	k uw
+sắm 1.0	s aw mz
+tỷ 1.0	t i
+tẻ 1.0	t e
+ngu 1.0	ng u
+dạo 1.0	d a uz
+bậy 1.0	b aa iz
+dàn 1.0	d a nz
+súng 1.0	s u ngz
+gãi 1.0	g a iz
+ổi 1.0	oo iz
+bần 1.0	b aa nz
+lọt 1.0	l o tc
+tháo 1.0	th a uz
+guốc 1.0	g uo kc
+ái 1.0	a iz
+rống 1.0	r oo ngz
+kí 1.0	k i
+oằn 1.0	w aw nz
+lổm 1.0	l oo mz
+nhổm 1.0	nh oo mz
+dị 1.0	d i
+xổi 1.0	s oo iz
+đỉnh 1.0	dd i ngz
+thục 1.0	th u kc
+quyên 1.0	k w ie nz
+nộp 1.0	n oo pc
+loàn 1.0	l w a nz
+hụi 1.0	h u iz
+quềnh 1.0	k w ee ngz
+vợt 1.0	v ow tc
+gạ 1.0	g a
+gẫm 1.0	g aa mz
+nạo 1.0	n a uz
+vét 1.0	v e tc
+ngổ 1.0	ng oo
+ngáo 1.0	ng a uz
+uỵch 1.0	w i kc
+chạch 1.0	ch a kc
+luộc 1.0	l uo kc
+thô 1.0	th oo
+gợn 1.0	g ow nz
+tăn 1.0	t aw nz
+xôn 1.0	s oo nz
+rớm 1.0	r ow mz
+éo 1.0	e uz
+trích 1.0	tr i kc
+dồn 1.0	d oo nz
+liu 1.0	l i uz
+hấng 1.0	h aa ngz
+ngưng 1.0	ng uw ngz
+trệ 1.0	tr ee
+tổn 1.0	t oo nz
+ngỏ 1.0	ng o
+nhõ 1.0	nh o
+ám 1.0	a mz
+trạm 1.0	tr a mz
+vượt 1.0	v wa tc
+cáy 1.0	k a iz
+ghế 1.0	g ee
+xua 1.0	s uo
+giấp 1.0	d aa pc
+si 1.0	s i
+hẩm 1.0	h aa mz
+xáo 1.0	s a uz
+trửng 1.0	tr uw ngz
+giỡn 1.0	d ow nz
+tãi 1.0	t a iz
+mau 1.0	m a uz
+nhùng 1.0	nh u ngz
+mạo 1.0	m a uz
+lã 1.0	l a
+chã 1.0	ch a
+chắp 1.0	ch aw pc
+nhĩ 1.0	nh i
+thăng 1.0	th aw ngz
+pa 1.0	p a
+nhông 1.0	nh oo ngz
+bớt 1.0	b ow tc
+bướng 1.0	b wa ngz
+bỉnh 1.0	b i ngz
+vãnh 1.0	v a ngz
+trá 1.0	tr a
+trôi 1.0	tr oo iz
+đỗi 1.0	dd oo iz
+hãi 1.0	h a iz
+thui 1.0	th u iz
+bệch 1.0	b ee kc
+tạch 1.0	t a kc
+tọc 1.0	t o kc
+tậm 1.0	t aa mz
+ngọng 1.0	ng o ngz
+khứu 1.0	kh uw uz
+hổ 1.0	h oo
+tái 1.0	t a iz
+nạp 1.0	n a pc
+tưới 1.0	t wa iz
+dốt 1.0	d oo tc
+mếch 1.0	m ee kc
+thủng 1.0	th u ngz
+bết 1.0	b ee tc
+giăm 1.0	d aw mz
+mì 1.0	m i
+kẹp 1.0	k e pc
+võng 1.0	v o ngz
+kẽo 1.0	k e uz
+phầm 1.0	ph aa mz
+nầy 1.0	n aa iz
+ã 1.0	a
+nố 1.0	n oo
+vâng 1.0	v aa ngz
+vất 1.0	v aa tc
+bệu 1.0	b ee uz
+hôn 1.0	h oo nz
+mắn 1.0	m aw nz
+sơm 1.0	s ow mz
+mịt 1.0	m i tc
+miên 1.0	m ie nz
+bập 1.0	b aa pc
+bẹ 1.0	b e
+rựa 1.0	r wa
+riu 1.0	r i uz
+ríu 1.0	r i uz
+kèn 1.0	k e nz
+rãy 1.0	r a iz
+khốc 1.0	kh oo kc
+quen 1.0	k w e nz
+mạy 1.0	m a iz
+đuối 1.0	dd uo iz
+sốc 1.0	s oo kc
+biện 1.0	b ie nz
+thếp 1.0	th ee pc
+háo 1.0	h a uz
+hức 1.0	h uw kc
+lủ 1.0	l u
+đẳng 1.0	dd aw ngz
+hộn 1.0	h oo nz
+vịt 1.0	v i tc
+xé 1.0	s e
+vụn 1.0	v u nz
+tã 1.0	t a
+kiểng 1.0	k ie ngz
+quế 1.0	k w ee
+nón 1.0	n o nz
+quát 1.0	k w a tc
+hên 1.0	h ee nz
+xui 1.0	s u iz
+trạc 1.0	tr a kc
+vùn 1.0	v u nz
+hễ 1.0	h ee
+quỹ 1.0	k w i
+loan 1.0	l w a nz
+giục 1.0	d u kc
+ngầm 1.0	ng aa mz
+lung 1.0	l u ngz
+nhồi 1.0	nh oo iz
+nhét 1.0	nh e tc
+vạ 1.0	v a
+giàn 1.0	d a nz
+bại 1.0	b a iz
+đĩa 1.0	dd ie
+tươm 1.0	t wa mz
+chọi 1.0	ch o iz
+hoi 1.0	h o iz
+lội 1.0	l oo iz
+ko 1.0	k o
+cựa 1.0	k wa
+lảm 1.0	l a mz
+sổ 1.0	s oo
+phạng 1.0	ph a ngz
+ráp 1.0	r a pc
+tọp 1.0	t o pc
+mồ 1.0	m oo
+kê 1.0	k ee
+ròng 1.0	r o ngz
+lêu 1.0	l ee uz
+lổng 1.0	l oo ngz
+trau 1.0	tr a uz
+chuốt 1.0	ch uo tc
+rảnh 1.0	r a ngz
+rỗi 1.0	r oo iz
+mủ 1.0	m u
+mỉ 1.0	m i
+vảy 1.0	v a iz
+xả 1.0	s a
+xum 1.0	s u mz
+rã 1.0	r a
+rời 1.0	r ow iz
+rữa 1.0	r wa
+khoát 1.0	kh w a tc
+rần 1.0	r aa nz
+bâng 1.0	b aa ngz
+khuâng 1.0	kh w aa ngz
+giành 1.0	d a ngz
+gục 1.0	g u kc
+sờm 1.0	s ow mz
+sỡ 1.0	s ow
+ngáp 1.0	ng a pc
+xế 1.0	s ee
+kháp 1.0	kh a pc
+dóc 1.0	d o kc
+lượt 1.0	l wa tc
+nhả 1.0	nh a
+ngắc 1.0	ng aw kc
+ngứ 1.0	ng uw
+dỗi 1.0	d oo iz
+bến 1.0	b ee nz
+nghé 1.0	ng e
+quàng 1.0	k w a ngz
+ram 1.0	r a mz
+nhãn 1.0	nh a nz
+tản 1.0	t a nz
+phích 1.0	ph i kc
+chẹp 1.0	ch e pc
+thìu 1.0	th i uz
+lựu 1.0	l uw uz
+hểnh 1.0	h ee ngz
+xàng 1.0	s a ngz
+xê 1.0	s ee
+giăng 1.0	d aw ngz
+rận 1.0	r aa nz
+tòa 1.0	t w a
+bấc 1.0	b aa kc
+ao 1.0	a uz
+li 1.0	l i
+ti 1.0	t i
+tể 1.0	t ee
+xảo 1.0	s a uz
+quyệt 1.0	k w ie tc
+lừa 1.0	l wa
+gạt 1.0	g a tc
+hạng 1.0	h a ngz
+bét 1.0	b e tc
+riệt 1.0	r ie tc
+ủn 1.0	u nz
+ỉn 1.0	i nz
+tuệ 1.0	t w ee
+ư 1.0	uw
+nồi 1.0	n oo iz
+líu 1.0	l i uz
+loảng 1.0	l w a ngz
+xoảng 1.0	s w a ngz
+mọng 1.0	m o ngz
+tem 1.0	t e mz
+gáy 1.0	g a iz
+cườm 1.0	k wa mz
+khoan 1.0	kh w a nz
+trồi 1.0	tr oo iz
+trụt 1.0	tr u tc
+chốc 1.0	ch oo kc
+sảnh 1.0	s a ngz
+xăm 1.0	s aw mz
+kiệu 1.0	k ie uz
+vươn 1.0	v wa nz
+gạo 1.0	g a uz
+nhủn 1.0	nh u nz
+cốt 1.0	k oo tc
+thèo 1.0	th e uz
+kẹo 1.0	k e uz
+lèo 1.0	l e uz
+sường 1.0	s wa ngz
+hân 1.0	h aa nz
+đấm 1.0	dd aa mz
+thùm 1.0	th u mz
+thụp 1.0	th u pc
+dẫm 1.0	d aa mz
+thiềm 1.0	th ie mz
+trần 1.0	tr aa nz
+dưa 1.0	d wa
+lụt 1.0	l u tc
+chóe 1.0	ch w e
+kiềng 1.0	k ie ngz
+thun 1.0	th u nz
+run 1.0	r u nz
+vệt 1.0	v ee tc
+bồ 1.0	b oo
+hóng 1.0	h o ngz
+cuội 1.0	k uo iz
+quýt 1.0	k w i tc
+ken 1.0	k e nz
+binh 1.0	b i ngz
+côi 1.0	k oo iz
+rấp 1.0	r aa pc
+thấm 1.0	th aa mz
+xoang 1.0	s w a ngz
+triền 1.0	tr ie nz
+bỉu 1.0	b i uz
+nia 1.0	n ie
+trụi 1.0	tr u iz
+đúm 1.0	dd u mz
+khẳm 1.0	kh aw mz
+lặm 1.0	l aw mz
+bi 1.0	b i
+húng 1.0	h u ngz
+hắng 1.0	h aw ngz
+ho 1.0	h o
+mề 1.0	m ee
+đay 1.0	dd a iz
+rốt 1.0	r oo tc
+lôi 1.0	l oo iz
+bụt 1.0	b u tc
+nghìn 1.0	ng i nz
+cám 1.0	k a mz
+kìa 1.0	k ie
+quáng 1.0	k w a ngz
+gồm 1.0	g oo mz
+ngút 1.0	ng u tc
+mệnh 1.0	m ee ngz
+nhăn 1.0	nh aw nz
+nán 1.0	n a nz
+neo 1.0	n e uz
+dượt 1.0	d wa tc
+thắn 1.0	th aw nz
+rộc 1.0	r oo kc
+xăng 1.0	s aw ngz
+vớt 1.0	v ow tc
+sứa 1.0	s wa
+củ 1.0	k u
+rốp 1.0	r oo pc
+nhan 1.0	nh a nz
+ngoan 1.0	ng w a nz
+chuộng 1.0	ch uo ngz
+rốn 1.0	r oo nz
+tiễn 1.0	t ie nz
+lươn 1.0	l wa nz
+trém 1.0	tr e mz
+bắn 1.0	b aw nz
+xì 1.0	s i
+phế 1.0	ph ee
+chòng 1.0	ch o ngz
+chọc 1.0	ch o kc
+rủng 1.0	r u ngz
+rỉnh 1.0	r i ngz
+chao 1.0	ch a uz
+đan 1.0	dd a nz
+nhuần 1.0	nh w aa nz
+nhuyễn 1.0	nh w ie nz
+oan 1.0	w a nz
+khiên 1.0	kh ie nz
+cầy 1.0	k aa iz
+hì 1.0	h i
+hục 1.0	h u kc
+rướm 1.0	r wa mz
+phồm 1.0	ph oo mz
+hổng 1.0	h oo ngz
+ràng 1.0	r a ngz
+cáng 1.0	k a ngz
+bịn 1.0	b i nz
+rịn 1.0	r i nz
+sượt 1.0	s wa tc
+thinh 1.0	th i ngz
+mách 1.0	m a kc
+khúm 1.0	kh u mz
+hàu 1.0	h a uz
+tân 1.0	t aa nz
+khánh 1.0	kh a ngz
+phím 1.0	ph i mz
+cút 1.0	k u tc
+phè 1.0	ph e
+phỡn 1.0	ph ow nz
+thưỡi 1.0	th wa iz
+hầy 1.0	h aa iz
+xục 1.0	s u kc
+thừng 1.0	th uw ngz
+xạc 1.0	s a kc
+pin 1.0	p i nz
+róc 1.0	r o kc
+kép 1.0	k e pc
+cán 1.0	k a nz
+muỗm 1.0	m uo mz
+đút 1.0	dd u tc
+xấu 1.0	s aa uz
+điếm 1.0	dd ie mz
+đậy 1.0	dd aa iz
+điệm 1.0	dd ie mz
+ha 1.0	h a
+bàng 1.0	b a ngz
+ghẹ 1.0	g e
+thòng 1.0	th o ngz
+lọng 1.0	l o ngz
+mòng 1.0	m o ngz
+pí 1.0	p i
+lù 1.0	l u
+nhòe 1.0	nh w e
+mí 1.0	m i
+vếch 1.0	v ee kc
+đáo 1.0	dd a uz
+xòa 1.0	s w a
+chù 1.0	ch u
+ụ 1.0	u
+giễu 1.0	g ie uz
+cợt 1.0	k ow tc
+trào 1.0	tr a uz
+xắc 1.0	s aw kc
+phĩnh 1.0	ph i ngz
+múp 1.0	m u pc
+míp 1.0	m i pc
+hoét 1.0	h w e tc
+nôi 1.0	n oo iz
+nhàng 1.0	nh a ngz
+quẫy 1.0	k w aa iz
+dõng 1.0	d o ngz
+dạc 1.0	d a kc
+choàng 1.0	ch w a ngz
+tòe 1.0	t w e
+lết 1.0	l ee tc
+cựu 1.0	k uw uz
+chèo 1.0	ch e uz
+lia 1.0	l ie
+thia 1.0	th ie
+khê 1.0	kh ee
+tráo 1.0	tr a uz
+bặt 1.0	b aw tc
+tăm 1.0	t aw mz
+sờ 1.0	s ow
+soạng 1.0	s w a ngz
+rợn 1.0	r ow nz
+cheng 1.0	ch e ngz
+kề 1.0	k ee
+xuôi 1.0	s uo iz
+đềnh 1.0	dd ee ngz
+bực 1.0	b uw kc
+gao 1.0	g a uz
+lin 1.0	l i nz
+nướng 1.0	n wa ngz
+thê 1.0	th ee
+đéo 1.0	dd e uz
+tiếu 1.0	t ie uz
+khốn 1.0	kh oo nz
+cẩn 1.0	k aa nz
+kẻo 1.0	k e uz
+trượt 1.0	tr wa tc
+nhựt 1.0	nh uw tc
+thuỷ 1.0	th w i
+sồn 1.0	s oo nz
+bã 1.0	b a
+đồn 1.0	dd oo nz
+nấy 1.0	n aa iz
+kèo 1.0	k e uz
+keo 1.0	k e uz
+kiệt 1.0	k ie tc
+thằn 1.0	th aw nz
+lằn 1.0	l aw nz
+cắn 1.0	k aw nz
+đứt 1.0	dd uw tc
+lường 1.0	l wa ngz
+lệnh 1.0	l ee ngz
+ngoắc 1.0	ng w aw kc
+buồng 1.0	b uo ngz
+út 1.0	u tc
+thỉ 1.0	th i
+chững 1.0	ch uw ngz
+thược 1.0	th wa kc
+phẳng 1.0	ph aw ngz
+búp 1.0	b u pc
+xơi 1.0	s ow iz
+nguồi 1.0	ng uo iz
+ếch 1.0	ee kc
+nhịn 1.0	nh i nz
+ngốc 1.0	ng oo kc
+tràn 1.0	tr a nz
+xoắn 1.0	s w aw nz
+lướng 1.0	l wa ngz
+hớt 1.0	h ow tc
+cơi 1.0	k ow iz
+nới 1.0	n ow iz
+hỏm 1.0	h o mz
+liêng 1.0	l ie ngz
+sôi 1.0	s oo iz
+xụi 1.0	s u iz
+bục 1.0	b u kc
+rức 1.0	r uw kc
+ngớn 1.0	ng ow nz
+phỉnh 1.0	ph i ngz
+lẻng 1.0	l e ngz
+rẹt 1.0	r e tc
+vầy 1.0	v aa iz
+nứt 1.0	n uw tc
+nẻ 1.0	n e
+lỡm 1.0	l ow mz
+họng 1.0	h o ngz
+gào 1.0	g a uz
+í 1.0	i
+ới 1.0	ow iz
+nhô 1.0	nh oo
+gói 1.0	g o iz
+ghém 1.0	g e mz
+quýnh 1.0	k w i ngz
+chềnh 1.0	ch ee ngz
+ềnh 1.0	ee ngz
+nút 1.0	n u tc
+trì 1.0	tr i
+bảng 1.0	b a ngz
+gay 1.0	g a iz
+gắt 1.0	g aw tc
+muôn 1.0	m uo nz
+thẫm 1.0	th aa mz
+quết 1.0	k w ee tc
+chứa 1.0	ch wa
+be 1.0	b e
+dạm 1.0	d a mz
+bẽn 1.0	b e nz
+lẽn 1.0	l e nz
+óe 1.0	w e
+gổ 1.0	g oo
+ì 1.0	i
+xèo 1.0	s e uz
+trặc 1.0	tr aw kc
+dử 1.0	d uw
+ghèn 1.0	g e nz
+vánh 1.0	v a ngz
+trưỡng 1.0	tr wa ngz
+trễ 1.0	tr ee
+cọn 1.0	k o nz
+rêu 1.0	r ee uz
+giua 1.0	d uo
+tý 1.0	t i
+nhót 1.0	nh o tc
+nhi 1.0	nh i
+dấn 1.0	d aa nz
+mụp 1.0	m u pc
+sịt 1.0	s i tc
+loé 1.0	l w e
+mẹt 1.0	m e tc
+ngưa 1.0	ng wa
+ngứa 1.0	ng wa
+vẹo 1.0	v e uz
+nhường 1.0	nh wa ngz
+nhuộm 1.0	nh uo mz
+bỡ 1.0	b ow
+ngỡ 1.0	ng ow
+miếng 1.0	m ie ngz
+vững 1.0	v uw ngz
+văng 1.0	v aw ngz
+tóe 1.0	t w e
+nè 1.0	n e
+nhạnh 1.0	nh a ngz
+súc 1.0	s u kc
+ngầy 1.0	ng aa iz
+ngà 1.0	ng a
+toái 1.0	t w a iz
+ché 1.0	ch e
+chũn 1.0	ch u nz
+chĩn 1.0	ch i nz
+khén 1.0	kh e nz
+cuông 1.0	k uo ngz
+sồi 1.0	s oo iz
+u 1.0	u
+phước 1.0	ph wa kc
+chánh 1.0	ch a ngz
+rạng 1.0	r a ngz
+rỡ 1.0	r ow
+nhẻm 1.0	nh e mz
+ỏng 1.0	o ngz
+đít 1.0	dd i tc
+ủi 1.0	u iz
+cấm 1.0	k aa mz
+tri 1.0	tr i
+đạch 1.0	dd a kc
+ghé 1.0	g e
+ngoáy 1.0	ng w a iz
+khịt 1.0	kh i tc
+núp 1.0	n u pc
+dế 1.0	d ee
+mèn 1.0	m e nz
+oách 1.0	w a kc
+lề 1.0	l ee
+bóc 1.0	b o kc
+dở 1.0	d ow
+mồm 1.0	m oo mz
+nhãi 1.0	nh a iz
+điếc 1.0	dd ie kc
+phàn 1.0	ph a nz
+láo 1.0	l a uz
+phây 1.0	ph aa iz
+muỗi 1.0	m uo iz
+muốt 1.0	m uo tc
+nhệu 1.0	nh ee uz
+nhạo 1.0	nh a uz
+sảng 1.0	s a ngz
+thạch 1.0	th a kc
+é 1.0	e
+tấp 1.0	t aa pc
+nập 1.0	n aa pc
+nan 1.0	n a nz
+bịt 1.0	b i tc
+lác 1.0	l a kc
+bợm 1.0	b ow mz
+thõng 1.0	th o ngz
+há 1.0	h a
+lẹm 1.0	l e mz
+èo 1.0	e uz
+uột 1.0	uo tc
+gô 1.0	g oo
+vẳng 1.0	v aw ngz
+hú 1.0	h u
+kỉ 1.0	k i
+phăng 1.0	ph aw ngz
+phắc 1.0	ph aw kc
+khẳng 1.0	kh aw ngz
+gỉ 1.0	g i
+sần 1.0	s aa nz
+sùi 1.0	s u iz
+hảm 1.0	h a mz
+đọ 1.0	dd o
+cất 1.0	k aa tc
+ảm 1.0	a mz
+khoèo 1.0	kh w e uz
+tiêm 1.0	t ie mz
+dại 1.0	d a iz
+mác 1.0	m a kc
+ệch 1.0	ee kc
+doãn 1.0	d w a nz
+thòi 1.0	th o iz
+lốm 1.0	l oo mz
+đốm 1.0	dd oo mz
+chửi 1.0	ch uw iz
+xạ 1.0	s a
+xềnh 1.0	s ee ngz
+xệch 1.0	s ee kc
+đổng 1.0	dd oo ngz
+uyển 1.0	w ie nz
+chấn 1.0	ch aa nz
+buýt 1.0	b w i tc
+ậm 1.0	aa mz
+ạch 1.0	a kc
+ừ 1.0	uw
+ngân 1.0	ng aa nz
+cúi 1.0	k u iz
+thán 1.0	th a nz
+rỡn 1.0	r ow nz
+riêu 1.0	r ie uz
+thẩm 1.0	th aa mz
+dỏng 1.0	d o ngz
+nín 1.0	n i nz
+khư 1.0	kh uw
+lờ 1.0	l ow
+thèm 1.0	th e mz
+vung 1.0	v u ngz
+nhoen 1.0	nh w e nz
+van 1.0	v a nz
+vát 1.0	v a tc
+mìn 1.0	m i nz
+quầng 1.0	k w aa ngz
+sưng 1.0	s uw ngz
+chơ 1.0	ch ow
+tút 1.0	t u tc
+ốc 1.0	oo kc
+xẩm 1.0	s aa mz
+vuông 1.0	v uo ngz
+trọn 1.0	tr o nz
+nham 1.0	nh a mz
+nhở 1.0	nh ow
+néo 1.0	n e uz
+tông 1.0	t oo ngz
+quăm 1.0	k w aw mz
+mào 1.0	m a uz
+dưng 1.0	d uw ngz
+chũi 1.0	ch u iz
+thập 1.0	th aa pc
+sọm 1.0	s o mz
+sẹm 1.0	s e mz
+lũng 1.0	l u ngz
+tồn 1.0	t oo nz
+song 1.0	s o ngz
+bưởi 1.0	b wa iz
+bung 1.0	b u ngz
+chưng 1.0	ch uw ngz
+rươi 1.0	r wa iz
+rật 1.0	r aa tc
+lụa 1.0	l w a
+dẹt 1.0	d e tc
+ngoặc 1.0	ng w aw kc
+giằm 1.0	d aw mz
+muộn 1.0	m uo nz
+nuông 1.0	n uo ngz
+ưng 1.0	uw ngz
+pho 1.0	ph o
+lòm 1.0	l o mz
+bôi 1.0	b oo iz
+ngoang 1.0	ng w a ngz
+nghếch 1.0	ng ee kc
+xoi 1.0	s o iz
+mói 1.0	m o iz
+sểnh 1.0	s ee ngz
+tuốt 1.0	t uo tc
+gập 1.0	g aa pc
+xoay 1.0	s w a iz
+nhấp 1.0	nh aa pc
+ngào 1.0	ng a uz
+trếch 1.0	tr ee kc
+hứa 1.0	h wa
+phảy 1.0	ph a iz
+ngàng 1.0	ng a ngz
+thắp 1.0	th aw pc
+nhang 1.0	nh a ngz
+khoe 1.0	kh w e
+khoang 1.0	kh w a ngz
+quệ 1.0	k w ee
+gú 1.0	g u
+tá 1.0	t a
+nãy 1.0	n a iz
+ngắm 1.0	ng aw mz
+lẩm 1.0	l aa mz
+xỏ 1.0	s o
+đinh 1.0	dd i ngz
+quặm 1.0	k w aw mz
+búa 1.0	b w a
+nĩa 1.0	n ie
+úa 1.0	w a
+re 1.0	r e
+mảng 1.0	m a ngz
+dán 1.0	d a nz
+lượm 1.0	l wa mz
+mót 1.0	m o tc
+gié 1.0	d e
+ngợp 1.0	ng ow pc
+đoài 1.0	dd w a iz
+héo 1.0	h e uz
+rốc 1.0	r oo kc
+vụng 1.0	v u ngz
+bộc 1.0	b oo kc
+tuệch 1.0	t w ee kc
+cúng 1.0	k u ngz
+mụ 1.0	m u
+ỏi 1.0	o iz
+lìm 1.0	l i mz
+quác 1.0	k w a kc
+mứt 1.0	m uw tc
+ạ 1.0	a
+thét 1.0	th e tc
+chói 1.0	ch o iz
+diệu 1.0	d ie uz
+cúm 1.0	k u mz
+bùa 1.0	b w a
+quỷ 1.0	k w i
+liễu 1.0	l ie uz
+khái 1.0	kh a iz
+đoạt 1.0	dd w a tc
+rét 1.0	r e tc
+cóng 1.0	k o ngz
+bờm 1.0	b ow mz
+ngấy 1.0	ng aa iz
+trài 1.0	tr a iz
+cù 1.0	k u
+nèo 1.0	n e uz
+nình 1.0	n i ngz
+nịch 1.0	n i kc
+nhòm 1.0	nh o mz
+trặn 1.0	tr aw nz
+tỏa 1.0	t w a
+huýt 1.0	h w i tc
+vằn 1.0	v aw nz
+vện 1.0	v ee nz
+xổ 1.0	s oo
+toẹt 1.0	t w e tc
+cọng 1.0	k o ngz
+chiêm 1.0	ch ie mz
+giần 1.0	d aa nz
+ngòi 1.0	ng o iz
+rệt 1.0	r ee tc
+nuối 1.0	n uo iz
+mùng 1.0	m u ngz
+phèn 1.0	ph e nz
+nho 1.0	nh o
+cừ 1.0	k uw
+tiếm 1.0	t ie mz
+ngổm 1.0	ng oo mz
+khương 1.0	kh wa ngz
+đuột 1.0	dd uo tc
+rày 1.0	r a iz
+diêu 1.0	d ie uz
+miêu 1.0	m ie uz
+thoa 1.0	th w a
+oanh 1.0	w a ngz
+gàn 1.0	g a nz
+đòng 1.0	dd o ngz
+trõn 1.0	tr o nz
+xôi 1.0	s oo iz
+quây 1.0	k w aa iz
+yếm 1.0	ie mz
+mớ 1.0	m ow
+ngâm 1.0	ng aa mz
+lẳm 1.0	l aw mz
+soạn 1.0	s w a nz
+vắt 1.0	v aw tc
+mún 1.0	m u nz
+rờn 1.0	r ow nz
+lược 1.0	l wa kc
+hổn 1.0	h oo nz
+hển 1.0	h ee nz
+ren 1.0	r e nz
+rua 1.0	r uo
+kền 1.0	k ee nz
+hổm 1.0	h oo mz
+quạc 1.0	k w a kc
+trúm 1.0	tr u mz
+lũi 1.0	l u iz
+nhài 1.0	nh a iz
+xỉ 1.0	s i
+đốn 1.0	dd oo nz
+phơn 1.0	ph ow nz
+phớt 1.0	ph ow tc
+nến 1.0	n ee nz
+chiêu 1.0	ch ie uz
+hạm 1.0	h a mz
+hường 1.0	h wa ngz
+ngảnh 1.0	ng a ngz
+méo 1.0	m e uz
+xẹo 1.0	s e uz
+gợt 1.0	g ow tc
+đế 1.0	dd ee
+ray 1.0	r a iz
+hoãn 1.0	h w a nz
+rết 1.0	r ee tc
+phơi 1.0	ph ow iz
+lức 1.0	l uw kc
+trút 1.0	tr u tc
+huyên 1.0	h w ie nz
+làu 1.0	l a uz
+thiếc 1.0	th ie kc
+bứt 1.0	b uw tc
+chéo 1.0	ch e uz
+chẹo 1.0	ch e uz
+chùm 1.0	ch u mz
+phướn 1.0	ph wa nz
+phình 1.0	ph i ngz
+ngoắt 1.0	ng w aw tc
+chửa 1.0	ch wa
+hò 1.0	h o
+hiệp 1.0	h ie pc
+trảu 1.0	tr a uz
+quận 1.0	k w aa nz
+nịnh 1.0	n i ngz
+nọt 1.0	n o tc
+đãng 1.0	dd a ngz
+ngoay 1.0	ng w a iz
+hất 1.0	h aa tc
+trát 1.0	tr a tc
+trỏ 1.0	tr o
+sếp 1.0	s ee pc
+quài 1.0	k w a iz
+xâu 1.0	s aa uz
+tét 1.0	t e tc
+nhăm 1.0	nh aw mz
+kìm 1.0	k i mz
+triết 1.0	tr ie tc
+nin 1.0	n i nz
+giáp 1.0	d a pc
+múi 1.0	m u iz
+bỗ 1.0	b oo
+míu 1.0	m i uz
+què 1.0	k w e
+quặt 1.0	k w aw tc
+liếm 1.0	l ie mz
+quờn 1.0	k w ow nz
+sạp 1.0	s a pc
+nhợt 1.0	nh ow tc
+xối 1.0	s oo iz
+măng 1.0	m aw ngz
+dầm 1.0	d aa mz
+tủy 1.0	t w i
+chuốc 1.0	ch uo kc
+nhện 1.0	nh ee nz
+túm 1.0	t u mz
+tho 1.0	th o
+ghìm 1.0	g i mz
+kiệm 1.0	k ie mz
+lảng 1.0	l a ngz
+vảng 1.0	v a ngz
+tếu 1.0	t ee uz
+phao 1.0	ph a uz
+tơi 1.0	t ow iz
+ri 1.0	r i
+mén 1.0	m e nz
+khâu 1.0	kh aa uz
+nhúng 1.0	nh u ngz
+chành 1.0	ch a ngz
+bành 1.0	b a ngz
+chằng 1.0	ch aw ngz
+chịt 1.0	ch i tc
+huân 1.0	h w aa nz
+sính 1.0	s i ngz
+xắt 1.0	s aw tc
+rửa 1.0	r wa
+dòi 1.0	d o iz
+tưa 1.0	t wa
+sứt 1.0	s uw tc
+chẻ 1.0	ch e
+vòm 1.0	v o mz
+xán 1.0	s a nz
+lạn 1.0	l a nz
+hến 1.0	h ee nz
+bâu 1.0	b aa uz
+lang 1.0	l a ngz
+chôn 1.0	ch oo nz
+kíp 1.0	k i pc
+viền 1.0	v ie nz
+sẫm 1.0	s aa mz
+tiềm 1.0	t ie mz
+cồn 1.0	k oo nz
+lộp 1.0	l oo pc
+độp 1.0	dd oo pc
+tựu 1.0	t uw uz
+sướt 1.0	s wa tc
+bầm 1.0	b aa mz
+giập 1.0	d aa pc
+trọc 1.0	tr o kc
+tỉa 1.0	t ie
+nả 1.0	n a
+thịnh 1.0	th i ngz
+giấu 1.0	d aa uz
+giếm 1.0	g ie mz
+mấn 1.0	m aa nz
+tẩy 1.0	t aa iz
+nhóp 1.0	nh o pc
+nhép 1.0	nh e pc
+ngãi 1.0	ng a iz
+cỏm 1.0	k o mz
+piêu 1.0	p ie uz
+giời 1.0	d ow iz
+khươm 1.0	kh wa mz
+bịch 1.0	b i kc
+téc 1.0	t e kc
+rủa 1.0	r w a
+bắng 1.0	b aw ngz
+đẽo 1.0	dd e uz
+chàm 1.0	ch a mz
+ngàm 1.0	ng a mz
+rói 1.0	r o iz
+tíu 1.0	t i uz
+tít 1.0	t i tc
+thon 1.0	th o nz
+lóc 1.0	l o kc
+bền 1.0	b ee nz
+luỗng 1.0	l uo ngz
+trĩ 1.0	tr i
+lu 1.0	l u
+thuế 1.0	th w ee
+chót 1.0	ch o tc
+nhờn 1.0	nh ow nz
+phều 1.0	ph ee uz
+phào 1.0	ph a uz
+chằm 1.0	ch aw mz
+sèo 1.0	s e uz
+típ 1.0	t i pc
+thạnh 1.0	th a ngz
+xốp 1.0	s oo pc
+mầu 1.0	m aa uz
+quãng 1.0	k w a ngz
+tấy 1.0	t aa iz
+đằm 1.0	dd aw mz
+ngóc 1.0	ng o kc
+ngách 1.0	ng a kc
+hiêng 1.0	h ie ngz
+thạo 1.0	th a uz
+hán 1.0	h a nz
+ghểnh 1.0	g ee ngz
+gặm 1.0	g aw mz
+nhấm 1.0	nh aa mz
+nép 1.0	n e pc
+sới 1.0	s ow iz
+oành 1.0	w a ngz
+bọp 1.0	b o pc
+quẫn 1.0	k w aa nz
+bách 1.0	b a kc
+lõi 1.0	l o iz
+gậy 1.0	g aa iz
+triệng 1.0	tr ie ngz
+sạo 1.0	s a uz
+húp 1.0	h u pc
+cháo 1.0	ch a uz
+sớ 1.0	s ow
+quăng 1.0	k w aw ngz
+ngúng 1.0	ng u ngz
+nguẩy 1.0	ng w aa iz
+quày 1.0	k w a iz
+nhẵn 1.0	nh aw nz
+thín 1.0	th i nz
+rệ 1.0	r ee
+nheo 1.0	nh e uz
+lứa 1.0	l wa
+lận 1.0	l aa nz
+đận 1.0	dd aa nz
+múa 1.0	m w a
+sênh 1.0	s ee ngz
+triều 1.0	tr ie uz
+lắp 1.0	l aw pc
+cóp 1.0	k o pc
+xồng 1.0	s oo ngz
+san 1.0	s a nz
+giạt 1.0	d a tc
+vách 1.0	v a kc
+khèo 1.0	kh e uz
+sêu 1.0	s ee uz
+tép 1.0	t e pc
+chẽn 1.0	ch e nz
+đũng 1.0	dd u ngz
+khơi 1.0	kh ow iz
+uyên 1.0	w ie nz
+rến 1.0	r ee nz
+gường 1.0	g wa ngz
+gượng 1.0	g wa ngz
+đặn 1.0	dd aw nz
+khiêng 1.0	kh ie ngz
+đú 1.0	dd u
+dậm 1.0	d aa mz
+ráng 1.0	r a ngz
+vưởng 1.0	v wa ngz
+mậu 1.0	m aa uz
+lụng 1.0	l u ngz
+trổ 1.0	tr oo
+nhím 1.0	nh i mz
+chạp 1.0	ch a pc
+ằng 1.0	aw ngz
+ặc 1.0	aw kc
+lẳn 1.0	l aw nz
+khảy 1.0	kh a iz
+núng 1.0	n u ngz
+nính 1.0	n i ngz
+mũ 1.0	m u
+miện 1.0	m ie nz
+hia 1.0	h ie
+ghềnh 1.0	g ee ngz
+mân 1.0	m aa nz
+nhồn 1.0	nh oo nz
+nhột 1.0	nh oo tc
+ngửng 1.0	ng uw ngz
+xỉn 1.0	s i nz
+diết 1.0	d ie tc
+sam 1.0	s a mz
+ngụa 1.0	ng w a
+nạt 1.0	n a tc
+úng 1.0	u ngz
+mần 1.0	m aa nz
+cội 1.0	k oo iz
+sầu 1.0	s aa uz
+hen 1.0	h e nz
+són 1.0	s o nz
+quặc 1.0	k w aw kc
+cự 1.0	k uw
+nự 1.0	n uw
+inh 1.0	i ngz
+hừ 1.0	h uw
+hự 1.0	h uw
+hớ 1.0	h ow
+hênh 1.0	h ee ngz
+đậm 1.0	dd aa mz
+thà 1.0	th a
+hắt 1.0	h aw tc
+rệu 1.0	r ee uz
+gằn 1.0	g aw nz
+khạc 1.0	kh a kc
+đàm 1.0	dd a mz
+găm 1.0	g aw mz
+dồi 1.0	d oo iz
+liếc 1.0	l ie kc
+măm 1.0	m aw mz
+mạp 1.0	m a pc
+xeo 1.0	s e uz
+quắn 1.0	k w aw nz
+ngúc 1.0	ng u kc
+nanh 1.0	n a ngz
+dạ 1.0	d a
+xốn 1.0	s oo nz
+tễ 1.0	t ee
+bo 1.0	b o
+mụn 1.0	m u nz
+kén 1.0	k e nz
+sẩn 1.0	s aa nz
+đắn 1.0	dd aw nz
+tanh 1.0	t a ngz
+nghẹt 1.0	ng e tc
+dỗ 1.0	d oo
+tróng 1.0	tr o ngz
+khuất 1.0	kh w aa tc
+ngáng 1.0	ng a ngz
+giắt 1.0	d aw tc
+chẵn 1.0	ch aw nz
+chợp 1.0	ch ow pc
+tủn 1.0	t u nz
+hoẳn 1.0	h w aw nz
+tầng 1.0	t aa ngz
+vên 1.0	v ee nz
+bửu 1.0	b uw uz
+nhẽo 1.0	nh e uz
+hụt 1.0	h u tc
+ngưu 1.0	ng uw uz
+tưởi 1.0	t wa iz
+lợm 1.0	l ow mz
+sấu 1.0	s aa uz
+xổng 1.0	s oo ngz
+ngước 1.0	ng wa kc
+sưa 1.0	s wa
+vẫy 1.0	v aa iz
+xóa 1.0	s w a
+cứa 1.0	k wa
+sắng 1.0	s aw ngz
+nạ 1.0	n a
+hươu 1.0	h wa uz
+gión 1.0	d o nz
+rười 1.0	r wa iz
+rượi 1.0	r wa iz
+bèn 1.0	b e nz
+hưu 1.0	h uw uz
+nơm 1.0	n ow mz
+nớp 1.0	n ow pc
+mủn 1.0	m u nz
+hu 1.0	h u
+tòng 1.0	t o ngz
+nhẫn 1.0	nh aa nz
+xoàn 1.0	s w a nz
+mị 1.0	m i
+kịt 1.0	k i tc
+ngụm 1.0	ng u mz
+khèn 1.0	kh e nz
+rủ 1.0	r u
+dôi 1.0	d oo iz
+lõm 1.0	l o mz
+dong 1.0	d o ngz
+mửa 1.0	m wa
+rẫy 1.0	r aa iz
+đẽ 1.0	dd e
+vấu 1.0	v aa uz
+sâm 1.0	s aa mz
+lõng 1.0	l o ngz
+bõng 1.0	b o ngz
+thâu 1.0	th aa uz
+tửa 1.0	t wa
+nhúc 1.0	nh u kc
+nhũ 1.0	nh u
+khét 1.0	kh e tc
+sừng 1.0	s uw ngz
+sỏ 1.0	s o
+nhoẻn 1.0	nh w e nz
+dăm 1.0	d aw mz
+chầu 1.0	ch aa uz
+mỉm 1.0	m i mz
+lít 1.0	l i tc
+bả 1.0	b a
+vồng 1.0	v oo ngz
+liếng 1.0	l ie ngz
+xảm 1.0	s a mz
+lộc 1.0	l oo kc
+vông 1.0	v oo ngz
+rầu 1.0	r aa uz
+vờn 1.0	v ow nz
+cọp 1.0	k o pc
+xoe 1.0	s w e
+điền 1.0	dd ie nz
+chẽ 1.0	ch e
+mếu 1.0	m ee uz
+vàn 1.0	v a nz
+xiêu 1.0	s ie uz
+dấy 1.0	d aa iz
+xõa 1.0	s w a
+nắn 1.0	n aw nz
+thóa 1.0	th w a
+uất 1.0	w aa tc
+dí 1.0	d i
+dóm 1.0	d o mz
+hước 1.0	h wa kc
+nhẹm 1.0	nh e mz
+úp 1.0	u pc
+chai 1.0	ch a iz
+ầu 1.0	aa uz
+ơ 1.0	ow
+ây 1.0	aa iz
+boa 1.0	b w a
+thệ 1.0	th ee
+sáp 1.0	s a pc
+cụm 1.0	k u mz
+rạp 1.0	r a pc
+kè 1.0	k e
+nống 1.0	n oo ngz
+lấn 1.0	l aa nz
+cạc 1.0	k a kc
+miệt 1.0	m ie tc
+khệ 1.0	kh ee
+nệ 1.0	n ee
+truy 1.0	tr w i
+cập 1.0	k aa pc
+vớ 1.0	v ow
+mè 1.0	m e
+phộng 1.0	ph oo ngz
+hèn 1.0	h e nz
+phính 1.0	ph i ngz
+đĩ 1.0	dd i
+bồng 1.0	b oo ngz
+choèn 1.0	ch w e nz
+bêu 1.0	b ee uz
+xon 1.0	s o nz
+gion 1.0	d o nz
+giỏn 1.0	d o nz
+xùm 1.0	s u mz
+tẳn 1.0	t aw nz
+lim 1.0	l i mz
+dim 1.0	d i mz
+nhèm 1.0	nh e mz
+quyện 1.0	k w ie nz
+gầu 1.0	g aa uz
+diệp 1.0	d ie pc
+yêng 1.0	ie ngz
+nhướng 1.0	nh wa ngz
+gianh 1.0	d a ngz
+xị 1.0	s i
+chư 1.0	ch uw
+truật 1.0	tr w aa tc
+hớp 1.0	h ow pc
+chồi 1.0	ch oo iz
+dứa 1.0	d wa
+sực 1.0	s uw kc
+liềm 1.0	l ie mz
+khuynh 1.0	kh w i ngz
+dực 1.0	d uw kc
+sể 1.0	s ee
+lãn 1.0	l a nz
+cửi 1.0	k uw iz
+điêu 1.0	dd ie uz
+xưng 1.0	s uw ngz
+tòm 1.0	t o mz
+dơi 1.0	d ow iz
+ruỗng 1.0	r uo ngz
+sớt 1.0	s ow tc
+miễn 1.0	m ie nz
+rề 1.0	r ee
+chỏn 1.0	ch o nz
+lỏn 1.0	l o nz
+gam 1.0	g a mz
+thỏi 1.0	th o iz
+đính 1.0	dd i ngz
+chừ 1.0	ch uw
+mủi 1.0	m u iz
+trờ 1.0	tr ow
+lừng 1.0	l uw ngz
+trơi 1.0	tr ow iz
+tần 1.0	t aa nz
+thênh 1.0	th ee ngz
+trịa 1.0	tr ie
+ròm 1.0	r o mz
+tiu 1.0	t i uz
+nghỉu 1.0	ng i uz
+ka 1.0	k a
+ki 1.0	k i
+kỵ 1.0	k i
+diếc 1.0	d ie kc
+thảy 1.0	th a iz
+xù 1.0	s u
+loàng 1.0	l w a ngz
+xoàng 1.0	s w a ngz
+lè 1.0	l e
+tè 1.0	t e
+vuột 1.0	v uo tc
+khệnh 1.0	kh ee ngz
+khạng 1.0	kh a ngz
+lỏng 1.0	l o ngz
+nhá 1.0	nh a
+nhem 1.0	nh e mz
+én 1.0	e nz
+móm 1.0	m o mz
+mém 1.0	m e mz
+hom 1.0	h o mz
+hem 1.0	h e mz
+chểnh 1.0	ch ee ngz
+rằm 1.0	r aw mz
+thiền 1.0	th ie nz
+lờm 1.0	l ow mz
+ỷ 1.0	i
+tọa 1.0	t w a
+rít 1.0	r i tc
+sứ 1.0	s uw
+xôm 1.0	s oo mz
+hẵng 1.0	h aw ngz
+đung 1.0	dd u ngz
+mo 1.0	m o
+xỉa 1.0	s ie
+trẹo 1.0	tr e uz
+phe 1.0	ph e
+giỗ 1.0	d oo
+quải 1.0	k w a iz
+dả 1.0	d a
+rai 1.0	r a iz
+dép 1.0	d e pc
+nhàn 1.0	nh a nz
+thó 1.0	th o
+diếu 1.0	d ie uz
+xóc 1.0	s o kc
+nhung 1.0	nh u ngz
+sền 1.0	s ee nz
+sệt 1.0	s ee tc
+lứt 1.0	l uw tc
+lụ 1.0	l u
+khụ 1.0	kh u
+mẽ 1.0	m e
+úy 1.0	w i
+vao 1.0	v a uz
+xó 1.0	s o
+xỉnh 1.0	s i ngz
+kiêm 1.0	k ie mz
+dà 1.0	d a
+nhượng 1.0	nh wa ngz
+xổm 1.0	s oo mz
+gảy 1.0	g a iz
+vạm 1.0	v a mz
+rịt 1.0	r i tc
+giầm 1.0	d aa mz
+giặm 1.0	d aw mz
+quai 1.0	k w a iz
+rạt 1.0	r a tc
+rễ 1.0	r ee
+bể 1.0	b ee
+nhói 1.0	nh o iz
+thài 1.0	th a iz
+lài 1.0	l a iz
+bẹt 1.0	b e tc
+hoắc 1.0	h w aw kc
+lém 1.0	l e mz
+lỉnh 1.0	l i ngz
+mó 1.0	m o
+ện 1.0	ee nz
+ộn 1.0	oo nz
+phễu 1.0	ph ee uz
+thiển 1.0	th ie nz
+trùi 1.0	tr u iz
+cẫng 1.0	k aa ngz
+núc 1.0	n u kc
+gỏng 1.0	g o ngz
+nhơi 1.0	nh ow iz
+cuống 1.0	k uo ngz
+chực 1.0	ch uw kc
+vày 1.0	v a iz
+giặc 1.0	d aw kc
+bủa 1.0	b w a
+bu 1.0	b u
+ghẹo 1.0	g e uz
+léng 1.0	l e ngz
+phéng 1.0	ph e ngz
+xông 1.0	s oo ngz
+lịa 1.0	l ie
+tóm 1.0	t o mz
+báng 1.0	b a ngz
+nồ 1.0	n oo
+toét 1.0	t w e tc
+quệnh 1.0	k w ee ngz
+quạng 1.0	k w a ngz
+dề 1.0	d ee
+khuây 1.0	kh w aa iz
+khỏa 1.0	kh w a
+bìu 1.0	b i uz
+táy 1.0	t a iz
+phiết 1.0	ph ie tc
+man 1.0	m a nz
+xới 1.0	s ow iz
+trám 1.0	tr a mz
+dăn 1.0	d aw nz
+liệng 1.0	l ie ngz
+bọng 1.0	b o ngz
+đái 1.0	dd a iz
+hoan 1.0	h w a nz
+nghênh 1.0	ng ee ngz
+mú 1.0	m u
+lử 1.0	l uw
+rãi 1.0	r a iz
+cằn 1.0	k aw nz
+nhằn 1.0	nh aw nz
+bưng 1.0	b uw ngz
+tẹo 1.0	t e uz
+dãng 1.0	d a ngz
+kháng 1.0	kh a ngz
+đác 1.0	dd a kc
+phiện 1.0	ph ie nz
+nhắt 1.0	nh aw tc
+phiếm 1.0	ph ie mz
+thong 1.0	th o ngz
+khật 1.0	kh aa tc
+khừ 1.0	kh uw
+cáu 1.0	k a uz
+ngẵng 1.0	ng aw ngz
+ọe 1.0	w e
+ngoảnh 1.0	ng w a ngz
+mõ 1.0	m o
+lặt 1.0	l aw tc
+thịch 1.0	th i kc
+cốm 1.0	k oo mz
+nghẹo 1.0	ng e uz
+lom 1.0	l o mz
+khom 1.0	kh o mz
+gộp 1.0	g oo pc
+két 1.0	k e tc
+thói 1.0	th o iz
+khóe 1.0	kh w e
+ngồm 1.0	ng oo mz
+ngoàm 1.0	ng w a mz
+xoạc 1.0	s w a kc
+lóe 1.0	l w e
+đố 1.0	dd oo
+kị 1.0	k i
+sấy 1.0	s aa iz
+ngót 1.0	ng o tc
+mả 1.0	m a
+đê 1.0	dd ee
+lún 1.0	l u nz
+rùm 1.0	r u mz
+beng 1.0	b e ngz
+nộn 1.0	n oo nz
+bù 1.0	b u
+đẫy 1.0	dd aa iz
+đêu 1.0	dd ee uz
+ròi 1.0	r o iz
+thủa 1.0	th w a
+gán 1.0	g a nz
+chem 1.0	ch e mz
+ngủi 1.0	ng u iz
+giủi 1.0	d u iz
+tuân 1.0	t w aa nz
+đệ 1.0	dd ee
+lũn 1.0	l u nz
+lớt 1.0	l ow tc
+đểnh 1.0	dd ee ngz
+đoảng 1.0	dd w a ngz
+réo 1.0	r e uz
+nằn 1.0	n aw nz
+nì 1.0	n i
+vấy 1.0	v aa iz
+năn 1.0	n aw nz
+nỉ 1.0	n i
+ván 1.0	v a nz
+hạp 1.0	h a pc
+toài 1.0	t w a iz
+lất 1.0	l aa tc
+nốc 1.0	n oo kc
+tảo 1.0	t a uz
+bấu 1.0	b aa uz
+rúng 1.0	r u ngz
+ruổi 1.0	r uo iz
+luống 1.0	l uo ngz
+chuồn 1.0	ch uo nz
+ngậu 1.0	ng aa uz
+lạm 1.0	l a mz
+suyển 1.0	s w ie nz
+dờn 1.0	d ow nz
+sõi 1.0	s o iz
+lạo 1.0	l a uz
+chặng 1.0	ch aw ngz
+lẽo 1.0	l e uz
+lủm 1.0	l u mz
+bủm 1.0	b u mz
+đước 1.0	dd wa kc
+sột 1.0	s oo tc
+soạt 1.0	s w a tc
+top 1.0	t o pc
+ten 1.0	t e nz
+sếu 1.0	s ee uz
+ẵm 1.0	aw mz
+xớt 1.0	s ow tc
+mỏm 1.0	m o mz
+úm 1.0	u mz
+lữ 1.0	l uw
+chẹn 1.0	ch e nz
+tễnh 1.0	t ee ngz
+thự 1.0	th uw
+lạng 1.0	l a ngz
+tợp 1.0	t ow pc
+đênh 1.0	dd ee ngz
+xửng 1.0	s uw ngz
+vửng 1.0	v uw ngz
+rổ 1.0	r oo
+khế 1.0	kh ee
+trịt 1.0	tr i tc
+đểu 1.0	dd ee uz
+bom 1.0	b o mz
+ngục 1.0	ng u kc
+chày 1.0	ch a iz
+vua 1.0	v uo
+dẫy 1.0	d aa iz
+ngoi 1.0	ng o iz
+thồn 1.0	th oo nz
+chằn 1.0	ch aw nz
+nhôm 1.0	nh oo mz
+hổi 1.0	h oo iz
+đới 1.0	dd ow iz
+nom 1.0	n o mz
+sẩy 1.0	s aa iz
+tuột 1.0	t uo tc
+cộp 1.0	k oo pc
+tụm 1.0	t u mz
+giú 1.0	d u
+nùn 1.0	n u nz
+hoắt 1.0	h w aw tc
+sũng 1.0	s u ngz
+bon 1.0	b o nz
+nọ 1.0	n o
+loạng 1.0	l w a ngz
+choạng 1.0	ch w a ngz
+lúi 1.0	l u iz
+xiêm 1.0	s ie mz
+suyễn 1.0	s w ie nz
+đoan 1.0	dd w a nz
+trãi 1.0	tr a iz
+chuôi 1.0	ch uo iz
+lấm 1.0	l aa mz
+trẽn 1.0	tr e nz
+nhong 1.0	nh o ngz
+nhóng 1.0	nh o ngz
+choảng 1.0	ch w a ngz
+nê 1.0	n ee
+chước 1.0	ch wa kc
+xô 1.0	s oo
+hộc 1.0	h oo kc
+vái 1.0	v a iz
+lạy 1.0	l a iz
+ấu 1.0	aa uz
+êm 1.0	ee mz
+đềm 1.0	dd ee mz
+lố 1.0	l oo
+nhố 1.0	nh oo
+sập 1.0	s aa pc
+chườm 1.0	ch wa mz
+nhứ 1.0	nh uw
+tréo 1.0	tr e uz
+ngoe 1.0	ng w e
+ngáu 1.0	ng a uz
+cảo 1.0	k a uz
+lòi 1.0	l o iz
+phòi 1.0	ph o iz
+xuể 1.0	s w ee
+rầy 1.0	r aa iz
+khoác 1.0	kh w a kc
+thuồng 1.0	th uo ngz
+doi 1.0	d o iz
+thoi 1.0	th o iz
+loi 1.0	l o iz
+háng 1.0	h a ngz
+khươn 1.0	kh wa nz
+núm 1.0	n u mz
+thụt 1.0	th u tc
+biêng 1.0	b ie ngz
+biếc 1.0	b ie kc
+xụ 1.0	s u
+bói 1.0	b o iz
+khăm 1.0	kh aw mz
+thiệp 1.0	th ie pc
+tráp 1.0	tr a pc
+kiền 1.0	k ie nz
+trịch 1.0	tr i kc
+húy 1.0	h w i
+tánh 1.0	t a ngz
+bĩnh 1.0	b i ngz
+cùn 1.0	k u nz
+nhú 1.0	nh u
+chét 1.0	ch e tc
+khuẩn 1.0	kh w aa nz
+ỉu 1.0	i uz
+xìu 1.0	s i uz
+nhôn 1.0	nh oo nz
+nhao 1.0	nh a uz
+ngồn 1.0	ng oo nz
+ngộn 1.0	ng oo nz
+phì 1.0	ph i
+kiêng 1.0	k ie ngz
+cữ 1.0	k uw
+hói 1.0	h o iz
+hặc 1.0	h aw kc
+lìa 1.0	l ie
+đắc 1.0	dd aw kc
+tuỳ 1.0	t w i
+niệu 1.0	n ie uz
+lôm 1.0	l oo mz
+côm 1.0	k oo mz
+trộ 1.0	tr oo
+thồi 1.0	th oo iz
+nhặm 1.0	nh aw mz
+thồ 1.0	th oo
+chuỗi 1.0	ch uo iz
+vanh 1.0	v a ngz
+ách 1.0	a kc
+ngậy 1.0	ng aa iz
+hợm 1.0	h ow mz
+hĩnh 1.0	h i ngz
+tì 1.0	t i
+tũm 1.0	t u mz
+khú 1.0	kh u
+phệnh 1.0	ph ee ngz
+quỉ 1.0	k w i
+riếp 1.0	r ie pc
+rầm 1.0	r aa mz
+rộ 1.0	r oo
+ngộ 1.0	ng oo
+nháng 1.0	nh a ngz
+yểm 1.0	ie mz
+kít 1.0	k i tc
+ghim 1.0	g i mz
+òng 1.0	o ngz
+viển 1.0	v ie nz
+dìu 1.0	d i uz
+ỏn 1.0	o nz
+ẻn 1.0	e nz
+mồi 1.0	m oo iz
+oe 1.0	w e
+ú 1.0	u
+nể 1.0	n ee
+khải 1.0	kh a iz
+diêm 1.0	d ie mz
+cớ 1.0	k ow
+tào 1.0	t a uz
+chìu 1.0	ch i uz
+đúp 1.0	dd u pc
+niết 1.0	n ie tc
+sồ 1.0	s oo
+gạn 1.0	g a nz
+ức 1.0	uw kc
+gặng 1.0	g aw ngz
+đói 1.0	dd o iz
+nỏ 1.0	n o
+khiếp 1.0	kh ie pc
+rèo 1.0	r e uz
+chộp 1.0	ch oo pc
+tởm 1.0	t ow mz
+sặc 1.0	s aw kc
+sụa 1.0	s w a
+e 1.0	e
+ngợm 1.0	ng ow mz
+chiếng 1.0	ch ie ngz
+ùn 1.0	u nz
+triềng 1.0	tr ie ngz
+hập 1.0	h aa pc
+muông 1.0	m uo ngz
+gầm 1.0	g aa mz
+xoăn 1.0	s w aw nz
+trữ 1.0	tr uw
+veo 1.0	v e uz
+cõng 1.0	k o ngz
+sắn 1.0	s aw nz
+rưới 1.0	r wa iz
+bộng 1.0	b oo ngz
+đẩu 1.0	dd aa uz
+bội 1.0	b oo iz
+dua 1.0	d uo
+nhoai 1.0	nh w a iz
+vò 1.0	v o
+nớ 1.0	n ow
+chẩn 1.0	ch aa nz
+phạc 1.0	ph a kc
+phếch 1.0	ph ee kc
+ỉa 1.0	ie
+xâm 1.0	s aa mz
+khấn 1.0	kh aa nz
+vót 1.0	v o tc
+bịu 1.0	b i uz
+gài 1.0	g a iz
+cống 1.0	k oo ngz
+khước 1.0	kh wa kc
+phuy 1.0	ph w i
+ang 1.0	a ngz
+nhẫy 1.0	nh aa iz
+chêm 1.0	ch ee mz
+bằm 1.0	b aw mz
+xoen 1.0	s w e nz
+xoét 1.0	s w e tc
+tam 1.0	t a mz
+quắc 1.0	k w aw kc
+lốp 1.0	l oo pc
+ngai 1.0	ng a iz
+bưu 1.0	b uw uz
+nhâm 1.0	nh aa mz
+tèn 1.0	t e nz
+tén 1.0	t e nz
+loắt 1.0	l w aw tc
+choắt 1.0	ch w aw tc
+nhom 1.0	nh o mz
+vắc 1.0	v aw kc
+hớn 1.0	h ow nz
+tựa 1.0	t wa
+cay 1.0	k a iz
+xè 1.0	s e
+vế 1.0	v ee
+gu 1.0	g u
+phúng 1.0	ph u ngz
+ngoẵng 1.0	ng w aw ngz
+chuồi 1.0	ch uo iz
+ngỗ 1.0	ng oo
+lũm 1.0	l u mz
+bũm 1.0	b u mz
+ga 1.0	g a
+ngưỡng 1.0	ng wa ngz
+thíp 1.0	th i pc
+xàm 1.0	s a mz
+xạp 1.0	s a pc
+trư 1.0	tr uw
+tầy 1.0	t aa iz
+mằn 1.0	m aw nz
+rèm 1.0	r e mz
+thin 1.0	th i nz
+thít 1.0	th i tc
+chẩm 1.0	ch aa mz
+cọt 1.0	k o tc
+dạn 1.0	d a nz
+nhỏm 1.0	nh o mz
+sớn 1.0	s ow nz
+ẩu 1.0	aa uz
+nguyệt 1.0	ng w ie tc
+ghen 1.0	g e nz
+tỵ 1.0	t i
+phốc 1.0	ph oo kc
+nháo 1.0	nh a uz
+nhác 1.0	nh a kc
+đợp 1.0	dd ow pc
+tườu 1.0	t wa uz
+tày 1.0	t a iz
+nùng 1.0	n u ngz
+xợt 1.0	s ow tc
+địu 1.0	dd i uz
+đéc 1.0	dd e kc
+chò 1.0	ch o
+rợi 1.0	r ow iz
+cuỗm 1.0	k uo mz
+ngửi 1.0	ng uw iz
+nghẻo 1.0	ng e uz
+biếu 1.0	b ie uz
+khơ 1.0	kh ow
+khớ 1.0	kh ow
+ứ 1.0	uw
+nót 1.0	n o tc
+khoảnh 1.0	kh w a ngz
+ớ 1.0	ow
+béng 1.0	b e ngz
+giẹo 1.0	d e uz
+giọ 1.0	d o
+cưa 1.0	k wa
+đản 1.0	dd a nz
+giằng 1.0	d aw ngz
+tặc 1.0	t aw kc
+lởn 1.0	l ow nz
+vởn 1.0	v ow nz
+oắt 1.0	w aw tc
+phung 1.0	ph u ngz
+nộc 1.0	n oo kc
+hãn 1.0	h a nz
+khắm 1.0	kh aw mz
+đụn 1.0	dd u nz
+đanh 1.0	dd a ngz
+xọc 1.0	s o kc
+thẳm 1.0	th aw mz
+rế 1.0	r ee
+cụp 1.0	k u pc
+cun 1.0	k u nz
+tẩm 1.0	t aa mz
+hẫng 1.0	h aa ngz
+củng 1.0	k u ngz
+nốt 1.0	n oo tc
+buốt 1.0	b uo tc
+lơn 1.0	l ow nz
+vuốt 1.0	v uo tc
+loay 1.0	l w a iz
+hoay 1.0	h w a iz
+va 1.0	v a
+nghẹn 1.0	ng e nz
+dặn 1.0	d aw nz
+rúc 1.0	r u kc
+liều 1.0	l ie uz
+vặn 1.0	v aw nz
+khoai 1.0	kh w a iz
+khất 1.0	kh aa tc
+khanh 1.0	kh a ngz
+súy 1.0	s w i
+nong 1.0	n o ngz
+lộng 1.0	l oo ngz
+lẫy 1.0	l aa iz
+chủng 1.0	ch u ngz
+rón 1.0	r o nz
+rén 1.0	r e nz
+thào 1.0	th a uz
+cắm 1.0	k aw mz
+lắt 1.0	l aw tc
+giun 1.0	d u nz
+ráy 1.0	r a iz
+chích 1.0	ch i kc
+thắc 1.0	th aw kc
+rèn 1.0	r e nz
+huỷ 1.0	h w i
+toà 1.0	t w a
+phụng 1.0	ph u ngz
+bênh 1.0	b ee ngz
+chỏm 1.0	ch o mz
+thiêm 1.0	th ie mz
+máo 1.0	m a uz
+ắp 1.0	aw pc
+đệm 1.0	dd ee mz
+đơ 1.0	dd ow
+khoẻ 1.0	kh w e
+xoá 1.0	s w a
+nhàm 1.0	nh a mz
+mịn 1.0	m i nz
+trợn 1.0	tr ow nz
+cuốc 1.0	k uo kc
+chới 1.0	ch ow iz
+băn 1.0	b aw nz
+khoăn 1.0	kh w aw nz
+hể 1.0	h ee
+phan 1.0	ph a nz
+toả 1.0	t w a
+xít 1.0	s i tc
+khiêm 1.0	kh ie mz
+tột 1.0	t oo tc
+tủi 1.0	t u iz
+mỏ 1.0	m o
+triệt 1.0	tr ie tc
+giã 1.0	d a
+nẵng 1.0	n aw ngz
+huyệt 1.0	h w ie tc
+dằn 1.0	d aw nz
+khò 1.0	kh o
+khè 1.0	kh e
+bở 1.0	b ow
+duỗi 1.0	d uo iz
+ru 1.0	r u
+rú 1.0	r u
+nhốt 1.0	nh oo tc
+tụng 1.0	t u ngz
+tốp 1.0	t oo pc
+cũi 1.0	k u iz
+thót 1.0	th o tc
+thiều 1.0	th ie uz
+nem 1.0	n e mz
+ngóng 1.0	ng o ngz
+bừa 1.0	b wa
+ong 1.0	o ngz
+von 1.0	v o nz
+gom 1.0	g o mz
+thêu 1.0	th ee uz
+mẻ 1.0	m e
+ngoa 1.0	ng w a
+bồn 1.0	b oo nz
+kiêu 1.0	k ie uz
+mẩn 1.0	m aa nz
+dẳng 1.0	d aw ngz
+giậm 1.0	d aa mz
+nhậm 1.0	nh aa mz
+ướp 1.0	wa pc
+dải 1.0	d a iz
+xưởng 1.0	s wa ngz
+nẻo 1.0	n e uz
+tạt 1.0	t a tc
+xoáy 1.0	s w a iz
+kha 1.0	kh a
+ngưởng 1.0	ng wa ngz
+oăm 1.0	w aw mz
+quì 1.0	k w i
+mi 1.0	m i
+khoét 1.0	kh w e tc
+xốc 1.0	s oo kc
+hám 1.0	h a mz
+tụy 1.0	t w i
+lúng 1.0	l u ngz
+túng 1.0	t u ngz
+xoè 1.0	s w e
+giấm 1.0	d aa mz
+gội 1.0	g oo iz
+nếp 1.0	n ee pc
+trầu 1.0	tr aa uz
+muống 1.0	m uo ngz
+gieo 1.0	d e uz
+mồng 1.0	m oo ngz
+thỏm 1.0	th o mz
+luồn 1.0	l uo nz
+gởi 1.0	g ow iz
+gôn 1.0	g oo nz
+gốm 1.0	g oo mz
+lanh 1.0	l a ngz
+nghĩnh 1.0	ng i ngz
+vừng 1.0	v uw ngz
+ngặt 1.0	ng aw tc
+tát 1.0	t a tc
+gàu 1.0	g a uz
+liêm 1.0	l ie mz
+rắm 1.0	r aw mz
+rảo 1.0	r a uz
+vịn 1.0	v i nz
+bang 1.0	b a ngz
+lí 1.0	l i
+xát 1.0	s a tc
+nghẽn 1.0	ng e nz
+ớn 1.0	ow nz
+vành 1.0	v a ngz
+rành 1.0	r a ngz
+the 1.0	th e
+đu 1.0	dd u
+rưởi 1.0	r wa iz
+dềnh 1.0	d ee ngz
+bợ 1.0	b ow
+chinh 1.0	ch i ngz
+gãy 1.0	g a iz
+he 1.0	h e
+chấu 1.0	ch aa uz
+nhỉnh 1.0	nh i ngz
+búng 1.0	b u ngz
+nguyền 1.0	ng w ie nz
+tuồng 1.0	t uo ngz
+ngan 1.0	ng a nz
+bẵng 1.0	b aw ngz
+mượn 1.0	m wa nz
+then 1.0	th e nz
+cạy 1.0	k a iz
+ngùi 1.0	ng u iz
+tước 1.0	t wa kc
+hăng 1.0	h aw ngz
+vấp 1.0	v aa pc
+giếng 1.0	g ie ngz
+niêm 1.0	n ie mz
+bạ 1.0	b a
+ốp 1.0	oo pc
+ghiền 1.0	g ie nz
+thửa 1.0	th wa
+vít 1.0	v i tc
+chải 1.0	ch a iz
+đùm 1.0	dd u mz
+xiết 1.0	s ie tc
+phồng 1.0	ph oo ngz
+thều 1.0	th ee uz
+thía 1.0	th ie
+vẹt 1.0	v e tc
+dời 1.0	d ow iz
+vờ 1.0	v ow
+chiền 1.0	ch ie nz
+miếu 1.0	m ie uz
+nhiếc 1.0	nh ie kc
+rẩy 1.0	r aa iz
+thùng 1.0	th u ngz
+cưng 1.0	k uw ngz
+dửng 1.0	d uw ngz
+xào 1.0	s a uz
+lầu 1.0	l aa uz
+dột 1.0	d oo tc
+nhút 1.0	nh u tc
+gáo 1.0	g a uz
+nhộn 1.0	nh oo nz
+diệm 1.0	d ie mz
+ngoác 1.0	ng w a kc
+bổn 1.0	b oo nz
+cắc 1.0	k aw kc
+toản 1.0	t w a nz
+bềnh 1.0	b ee ngz
+cê 1.0	k ee
+hỗn 1.0	h oo nz
+giùm 1.0	d u mz
+nớt 1.0	n ow tc
+hợi 1.0	h ow iz
+quị 1.0	k w i
+sững 1.0	s uw ngz
+đờ 1.0	dd ow
+phủi 1.0	ph u iz
+dặm 1.0	d aw mz
+sim 1.0	s i mz
+đôn 1.0	dd oo nz
+hâm 1.0	h aa mz
+gành 1.0	g a ngz
+súp 1.0	s u pc
+rê 1.0	r ee
+mầm 1.0	m aa mz
+côn 1.0	k oo nz
+kếch 1.0	k ee kc
+lâng 1.0	l aa ngz
+ùa 1.0	w a
+bừng 1.0	b uw ngz
+hởi 1.0	h ow iz
+mướp 1.0	m wa pc
+thảnh 1.0	th a ngz
+thơi 1.0	th ow iz
+đom 1.0	dd o mz
+đóm 1.0	dd o mz
+bái 1.0	b a iz
+chiểu 1.0	ch ie uz
+khép 1.0	kh e pc
+bự 1.0	b uw
+giồng 1.0	d oo ngz
+trôm 1.0	tr oo mz
+ruốc 1.0	r uo kc
+tạng 1.0	t a ngz
+trứ 1.0	tr uw
+hao 1.0	h a uz
+trằn 1.0	tr aw nz
+hốc 1.0	h oo kc
+thấu 1.0	th aa uz
+xịt 1.0	s i tc
+xí 1.0	s i
+cặm 1.0	k aw mz
+cụi 1.0	k u iz
+chạnh 1.0	ch a ngz
+ngấu 1.0	ng aa uz
+nghiến 1.0	ng ie nz
+my 1.0	m i
+mé 1.0	m e
+se 1.0	s e
+bén 1.0	b e nz
+nhị 1.0	nh i
+xơ 1.0	s ow
+cồng 1.0	k oo ngz
+kềnh 1.0	k ee ngz
+trớ 1.0	tr ow
+trêu 1.0	tr ee uz
+gáp 1.0	g a pc
+thuở 1.0	th w ow
+mẩu 1.0	m aa uz
+nhún 1.0	nh u nz
+sộ 1.0	s oo
+gươm 1.0	g wa mz
+gả 1.0	g a
+thoăn 1.0	th w aw nz
+thoắt 1.0	th w aw tc
+sanh 1.0	s a ngz
+ngạn 1.0	ng a nz
+nhại 1.0	nh a iz
+diên 1.0	d ie nz
+khố 1.0	kh oo
+lững 1.0	l uw ngz
+thững 1.0	th uw ngz
+quằn 1.0	k w aw nz
+quại 1.0	k w a iz
+lịm 1.0	l i mz
+sửng 1.0	s uw ngz
+cồ 1.0	k oo
+giũa 1.0	d w a
+thảng 1.0	th a ngz
+thốt 1.0	th oo tc
+ngạo 1.0	ng a uz
+mẫn 1.0	m aa nz
+lẻn 1.0	l e nz
+phổi 1.0	ph oo iz
+đờm 1.0	dd ow mz
+kỉnh 1.0	k i ngz
+mãnh 1.0	m a ngz
+rịa 1.0	r ie
+nám 1.0	n a mz
+áy 1.0	a iz
+náy 1.0	n a iz
+vùi 1.0	v u iz
+sầm 1.0	s aa mz
+thới 1.0	th ow iz
+xuyến 1.0	s w ie nz
+rán 1.0	r a nz
+vỉ 1.0	v i
+bới 1.0	b ow iz
+quỳ 1.0	k w i
+dạt 1.0	d a tc
+diều 1.0	d ie uz
+nần 1.0	n aa nz
+sòng 1.0	s o ngz
+giương 1.0	d wa ngz
+ớt 1.0	ow tc
+trèo 1.0	tr e uz
+trọt 1.0	tr o tc
+chồn 1.0	ch oo nz
+mỉa 1.0	m ie
+ngẫu 1.0	ng aa uz
+khều 1.0	kh ee uz
+mận 1.0	m aa nz
+vẩy 1.0	v aa iz
+mền 1.0	m ee nz
+cằm 1.0	k aw mz
+vo 1.0	v o
+quỵ 1.0	k w i
+rọi 1.0	r o iz
+tẩn 1.0	t aa nz
+thãi 1.0	th a iz
+độn 1.0	dd oo nz
+lẹ 1.0	l e
+quờ 1.0	k w ow
+sàm 1.0	s a mz
+ngơ 1.0	ng ow
+ky 1.0	k i
+rát 1.0	r a tc
+tưng 1.0	t uw ngz
+mòn 1.0	m o nz
+mu 1.0	m u
+thoạt 1.0	th w a tc
+bính 1.0	b i ngz
+trề 1.0	tr ee
+vun 1.0	v u nz
+gặt 1.0	g aw tc
+lỵ 1.0	l i
+tịnh 1.0	t i ngz
+uể 1.0	w ee
+oải 1.0	w a iz
+mọn 1.0	m o nz
+sun 1.0	s u nz
+ầm 1.0	aa mz
+hão 1.0	h a uz
+tụt 1.0	t u tc
+tong 1.0	t o ngz
+nhục 1.0	nh u kc
+xẹp 1.0	s e pc
+am 1.0	a mz
+miều 1.0	m ie uz
+lồi 1.0	l oo iz
+toe 1.0	t w e
+vê 1.0	v ee
+tửu 1.0	t uw uz
+nhụy 1.0	nh w i
+trìu 1.0	tr i uz
+mướt 1.0	m wa tc
+xiếc 1.0	s ie kc
+cưu 1.0	k uw uz
+giềng 1.0	g ie ngz
+hăm 1.0	h aw mz
+mọ 1.0	m o
+đun 1.0	dd u nz
+gọt 1.0	g o tc
+xoan 1.0	s w a nz
+khàn 1.0	kh a nz
+xở 1.0	s ow
+tuế 1.0	t w ee
+náu 1.0	n a uz
+khuấy 1.0	kh w aa iz
+xẻng 1.0	s e ngz
+diễm 1.0	d ie mz
+bống 1.0	b oo ngz
+ngươi 1.0	ng wa iz
+bĩu 1.0	b i uz
+bời 1.0	b ow iz
+nương 1.0	n wa ngz
+nhọc 1.0	nh o kc
+lơi 1.0	l ow iz
+lạp 1.0	l a pc
+sú 1.0	s u
+sủa 1.0	s w a
+oi 1.0	o iz
+nôm 1.0	n oo mz
+lép 1.0	l e pc
+truân 1.0	tr w aa nz
+vắn 1.0	v aw nz
+luẩn 1.0	l w aa nz
+quới 1.0	k w ow iz
+phô 1.0	ph oo
+bế 1.0	b ee
+rĩ 1.0	r i
+khoá 1.0	kh w a
+bấp 1.0	b aa pc
+nấng 1.0	n aa ngz
+hóm 1.0	h o mz
+hỉnh 1.0	h i ngz
+bịa 1.0	b ie
+điềm 1.0	dd ie mz
+phẫn 1.0	ph aa nz
+nộ 1.0	n oo
+gườm 1.0	g wa mz
+rồ 1.0	r oo
+cặn 1.0	k aw nz
+loanh 1.0	l w a ngz
+tà 1.0	t a
+lọ 1.0	l o
+giỏ 1.0	d o
+nhành 1.0	nh a ngz
+mợ 1.0	m ow
+ngẩng 1.0	ng aa ngz
+khâm 1.0	kh aa mz
+bươu 1.0	b wa uz
+nhõm 1.0	nh o mz
+tằm 1.0	t aw mz
+sờn 1.0	s ow nz
+chiên 1.0	ch ie nz
+vần 1.0	v aa nz
+xuẩn 1.0	s w aa nz
+tồi 1.0	t oo iz
+lốt 1.0	l oo tc
+quĩ 1.0	k w i
+giêng 1.0	g ie ngz
+ù 1.0	u
+huê 1.0	h w ee
+mút 1.0	m u tc
+ná 1.0	n a
+phịch 1.0	ph i kc
+vy 1.0	v i
+hũ 1.0	h u
+chảo 1.0	ch a uz
+tòi 1.0	t o iz
+rặng 1.0	r aw ngz
+láu 1.0	l a uz
+liến 1.0	l ie nz
+mánh 1.0	m a ngz
+thẫn 1.0	th aa nz
+cẳng 1.0	k aw ngz
+cộ 1.0	k oo
+ngải 1.0	ng a iz
+sỏi 1.0	s o iz
+ngoãn 1.0	ng w a nz
+vù 1.0	v u
+sảo 1.0	s a uz
+cùi 1.0	k u iz
+phới 1.0	ph ow iz
+nấc 1.0	n aa kc
+hỉ 1.0	h i
+hựu 1.0	h uw uz
+nhưỡng 1.0	nh wa ngz
+dấp 1.0	d aa pc
+giẫm 1.0	d aa mz
+thũng 1.0	th u ngz
+bện 1.0	b ee nz
+nực 1.0	n uw kc
+nạc 1.0	n a kc
+quẹo 1.0	k w e uz
+toát 1.0	t w a tc
+ĩ 1.0	i
+sẻn 1.0	s e nz
+ứa 1.0	wa
+mương 1.0	m wa ngz
+nồm 1.0	n oo mz
+lú 1.0	l u
+go 1.0	g o
+nhủ 1.0	nh u
+cúp 1.0	k u pc
+rợ 1.0	r ow
+rứt 1.0	r uw tc
+oạp 1.0	w a pc
+lể 1.0	l ee
+ngông 1.0	ng oo ngz
+thoả 1.0	th w a
+lúm 1.0	l u mz
+kháo 1.0	kh a uz
+gai 1.0	g a iz
+dòm 1.0	d o mz
+choang 1.0	ch w a ngz
+chiêng 1.0	ch ie ngz
+nhuệ 1.0	nh w ee
+rỏi 1.0	r o iz
+nhíu 1.0	nh i uz
+gàng 1.0	g a ngz
+thố 1.0	th oo
+hấu 1.0	h aa uz
+rưỡi 1.0	r wa iz
+trệt 1.0	tr ee tc
+mỗ 1.0	m oo
+rìa 1.0	r ie
+tuông 1.0	t uo ngz
+loét 1.0	l w e tc
+vía 1.0	v ie
+quặn 1.0	k w aw nz
+gắp 1.0	g aw pc
+oai 1.0	w a iz
+giông 1.0	d oo ngz
+trướng 1.0	tr wa ngz
+gỏi 1.0	g o iz
+kình 1.0	k i ngz
+oán 1.0	w a nz
+chỏ 1.0	ch o
+cót 1.0	k o tc
+mẹo 1.0	m e uz
+nắc 1.0	n aw kc
+ghì 1.0	g i
+rộp 1.0	r oo pc
+giở 1.0	d ow
+nhõng 1.0	nh o ngz
+lem 1.0	l e mz
+hụ 1.0	h u
+me 1.0	m e
+nghè 1.0	ng e
+rơ 1.0	r ow
+láp 1.0	l a pc
+mành 1.0	m a ngz
+hằn 1.0	h aw nz
+trùn 1.0	tr u nz
+hoà 1.0	h w a
+thím 1.0	th i mz
+dậu 1.0	d aa uz
+bòn 1.0	b o nz
+khoáng 1.0	kh w a ngz
+bỏng 1.0	b o ngz
+vè 1.0	v e
+nhái 1.0	nh a iz
+gừng 1.0	g uw ngz
+ngửa 1.0	ng wa
+vãn 1.0	v a nz
+phập 1.0	ph aa pc
+lợt 1.0	l ow tc
+hãm 1.0	h a mz
+giòi 1.0	d o iz
+đỉa 1.0	dd ie
+rây 1.0	r aa iz
+miến 1.0	m ie nz
+moi 1.0	m o iz
+gọng 1.0	g o ngz
+bộn 1.0	b oo nz
+găng 1.0	g aw ngz
+ruồng 1.0	r uo ngz
+yểu 1.0	ie uz
+ngạnh 1.0	ng a ngz
+nghen 1.0	ng e nz
+gằm 1.0	g aw mz
+ễnh 1.0	ee ngz
+ngấm 1.0	ng aa mz
+lẻo 1.0	l e uz
+khuếch 1.0	kh w ee kc
+gấc 1.0	g aa kc
+chĩnh 1.0	ch i ngz
+gien 1.0	d e nz
+sùng 1.0	s u ngz
+sởi 1.0	s ow iz
+rùng 1.0	r u ngz
+nài 1.0	n a iz
+bẻ 1.0	b e
+đớt 1.0	dd ow tc
+xước 1.0	s wa kc
+bướu 1.0	b wa uz
+bĩ 1.0	b i
+ngụy 1.0	ng w i
+đót 1.0	dd o tc
+chột 1.0	ch oo tc
+mống 1.0	m oo ngz
+tạnh 1.0	t a ngz
+rụt 1.0	r u tc
+rè 1.0	r e
+khem 1.0	kh e mz
+khản 1.0	kh a nz
+hù 1.0	h u
+hong 1.0	h o ngz
+hách 1.0	h a kc
+nặn 1.0	n aw nz
+ối 1.0	oo iz
+nhẹn 1.0	nh e nz
+nhọ 1.0	nh o
+lụy 1.0	l w i
+thắm 1.0	th aw mz
+đấng 1.0	dd aa ngz
+chần 1.0	ch aa nz
+tẩu 1.0	t aa uz
+băm 1.0	b aw mz
+phiến 1.0	ph ie nz
+quệt 1.0	k w ee tc
+bít 1.0	b i tc
+rông 1.0	r oo ngz
+day 1.0	d a iz
+kiết 1.0	k ie tc
+dụm 1.0	d u mz
+lị 1.0	l i
+quẻ 1.0	k w e
+chặc 1.0	ch aw kc
+đần 1.0	dd aa nz
+chường 1.0	ch wa ngz
+dơ 1.0	d ow
+bơn 1.0	b ow nz
+noãn 1.0	n w a nz
+cộm 1.0	k oo mz
+dụi 1.0	d u iz
+chõ 1.0	ch o
+lùn 1.0	l u nz
+bẹn 1.0	b e nz
+nhổ 1.0	nh oo
+nhíp 1.0	nh i pc
+ướm 1.0	wa mz
+thớ 1.0	th ow
+săm 1.0	s aw mz
+nhớt 1.0	nh ow tc
+tạc 1.0	t a kc
+gấm 1.0	g aa mz
+khứa 1.0	kh wa
+dộng 1.0	d oo ngz
+ải 1.0	a iz
+sẩm 1.0	s aa mz
+khay 1.0	kh a iz
+sấp 1.0	s aa pc
+nứa 1.0	n wa
+buột 1.0	b uo tc
+hoán 1.0	h w a nz
+chếch 1.0	ch ee kc
+hơ 1.0	h ow
+nhỡ 1.0	nh ow
+noi 1.0	n o iz
+cau 1.0	k a uz
+chừa 1.0	ch wa
+hoai 1.0	h w a iz
+lon 1.0	l o nz
+sải 1.0	s a iz
+túa 1.0	t w a
+sả 1.0	s a
+sệ 1.0	s ee
+tùm 1.0	t u mz
+nhoi 1.0	nh o iz
+chụt 1.0	ch u tc
+liệm 1.0	l ie mz
+đực 1.0	dd uw kc
+hững 1.0	h uw ngz
+hờ 1.0	h ow
+buồm 1.0	b uo mz
+trội 1.0	tr oo iz
+chẹt 1.0	ch e tc
+bướm 1.0	b wa mz
+khóm 1.0	kh o mz
+quơ 1.0	k w ow
+rò 1.0	r o
+bụ 1.0	b u
+bẫm 1.0	b aa mz
+hủi 1.0	h u iz
+dền 1.0	d ee nz
+chạng 1.0	ch a ngz
+kháu 1.0	kh a uz
+khêu 1.0	kh ee uz
+khảm 1.0	kh a mz
+sin 1.0	s i nz
+bôm 1.0	b oo mz
+vựa 1.0	v wa
+quắp 1.0	k w aw pc
+bòng 1.0	b o ngz
+khử 1.0	kh uw
+nơ 1.0	n ow
+chau 1.0	ch a uz
+trói 1.0	tr o iz
+ló 1.0	l o
+hõm 1.0	h o mz
+rá 1.0	r a
+thau 1.0	th a uz
+chớm 1.0	ch ow mz
+xấc 1.0	s aa kc
+rẻo 1.0	r e uz
+đày 1.0	dd a iz
+suông 1.0	s uo ngz
+cộc 1.0	k oo kc
+rậm 1.0	r aa mz
+sỉ 1.0	s i
+nhời 1.0	nh ow iz
+giầu 1.0	d aa uz
+giãi 1.0	d a iz
+keng 1.0	k e ngz
+suôn 1.0	s uo nz
+nhộng 1.0	nh oo ngz
+siêng 1.0	s ie ngz
+xiên 1.0	s ie nz
+bõ 1.0	b o
+sậm 1.0	s aa mz
+diếp 1.0	d ie pc
+xén 1.0	s e nz
+tịt 1.0	t i tc
+dẻ 1.0	d e
+choán 1.0	ch w a nz
+de 1.0	d e
+rệp 1.0	r ee pc
+đừ 1.0	dd uw
+mớm 1.0	m ow mz
+chìa 1.0	ch ie
+hỡi 1.0	h ow iz
+sọc 1.0	s o kc
+ngốn 1.0	ng oo nz
+dướng 1.0	d wa ngz
+hê 1.0	h ee
+nháp 1.0	nh a pc
+gờ 1.0	g ow
+đốp 1.0	dd oo pc
+nựng 1.0	n uw ngz
+kham 1.0	kh a mz
+đùn 1.0	dd u nz
+sồng 1.0	s oo ngz
+nòi 1.0	n o iz
+vốc 1.0	v oo kc
+nhẩy 1.0	nh aa iz
+gùi 1.0	g u iz
+quở 1.0	k w ow
+nẩy 1.0	n aa iz
+díu 1.0	d i uz
+hòm 1.0	h o mz
+rão 1.0	r a uz
+rạc 1.0	r a kc
+huých 1.0	h w i kc
+cấn 1.0	k aa nz
+hanh 1.0	h a ngz
+hệch 1.0	h ee kc
+xòe 1.0	s w e
+chấy 1.0	ch aa iz
+răm 1.0	r aw mz
+nộm 1.0	n oo mz
+hỏn 1.0	h o nz
+bai 1.0	b a iz
+rỗ 1.0	r oo
+chây 1.0	ch aa iz
+ngái 1.0	ng a iz
+chùng 1.0	ch u ngz
+phang 1.0	ph a ngz
+khảnh 1.0	kh a ngz
+lẹo 1.0	l e uz
+hấn 1.0	h aa nz
+thiêu 1.0	th ie uz
+nuột 1.0	n uo tc
+riềng 1.0	r ie ngz
+yết 1.0	ie tc
+mím 1.0	m i mz
+ngạch 1.0	ng a kc
+bươn 1.0	b wa nz
+bẳn 1.0	b aw nz
+hoe 1.0	h w e
+gột 1.0	g oo tc
+nhứt 1.0	nh uw tc
+nhám 1.0	nh a mz
+đọt 1.0	dd o tc
+híp 1.0	h i pc
+nhẽ 1.0	nh e
+hòe 1.0	h w e
+khẩy 1.0	kh aa iz
+nải 1.0	n a iz
+phùn 1.0	ph u nz
+hời 1.0	h ow iz
+nấp 1.0	n aa pc
+hích 1.0	h i kc
+rám 1.0	r a mz
+bẽ 1.0	b e
+gở 1.0	g ow
+nhắng 1.0	nh aw ngz
+ngầu 1.0	ng aa uz
+chùn 1.0	ch u nz
+xéo 1.0	s e uz
+úc 1.0	u kc
+rớ 1.0	r ow
+rườm 1.0	r wa mz
+càn 1.0	k a nz
+hùm 1.0	h u mz
+thiến 1.0	th ie nz
+quặng 1.0	k w aw ngz
+phông 1.0	ph oo ngz
+khểnh 1.0	kh ee ngz
+ị 1.0	i
+thiu 1.0	th i uz
+rim 1.0	r i mz
+nã 1.0	n a
+phũ 1.0	ph u
+hòng 1.0	h o ngz
+bậu 1.0	b aa uz
+rích 1.0	r i kc
+lụi 1.0	l u iz
+oặt 1.0	w aw tc
+trườn 1.0	tr wa nz
+nái 1.0	n a iz
+nạng 1.0	n a ngz
+ó 1.0	o
+khùng 1.0	kh u ngz
+khục 1.0	kh u kc
+toi 1.0	t o iz
+ngòm 1.0	ng o mz
+giong 1.0	d o ngz
+gio 1.0	d o
+gioi 1.0	d o iz
+khoáy 1.0	kh w a iz
+nu 1.0	n u
+guồng 1.0	g uo ngz
+đượm 1.0	dd wa mz
+ke 1.0	k e
+nghịt 1.0	ng i tc
+múc 1.0	m u kc
+nhử 1.0	nh uw
+phau 1.0	ph a uz
+nhạn 1.0	nh a nz
+oát 1.0	w a tc
+phin 1.0	ph i nz
+giậu 1.0	d aa uz
+nhón 1.0	nh o nz
+hiếng 1.0	h ie ngz
+khăng 1.0	kh aw ngz
+ươn 1.0	wa nz
+thẹn 1.0	th e nz
+quặp 1.0	k w aw pc
+nhũn 1.0	nh u nz
+rãnh 1.0	r a ngz
+khì 1.0	kh i
+ực 1.0	uw kc
+lọn 1.0	l o nz
+chòi 1.0	ch o iz
+đẵn 1.0	dd aw nz
+đĩnh 1.0	dd i ngz
+phắt 1.0	ph aw tc
+ẹo 1.0	e uz
+ne 1.0	n e
+nẹt 1.0	n e tc
+nòng 1.0	n o ngz
+bớ 1.0	b ow
+loang 1.0	l w a ngz
+chặp 1.0	ch aw pc
+khiễng 1.0	kh ie ngz
+tẹt 1.0	t e tc
+đợ 1.0	dd ow
+rặn 1.0	r aw nz
+muội 1.0	m uo iz
+beo 1.0	b e uz
+rứa 1.0	r wa
+thẹo 1.0	th e uz
+rủn 1.0	r u nz
+phốp 1.0	ph oo pc
+gậm 1.0	g aa mz
+nhụt 1.0	nh u tc
+ngấn 1.0	ng aa nz
+sình 1.0	s i ngz
+dòn 1.0	d o nz
+mứa 1.0	m wa
+nhậy 1.0	nh aa iz
+dượng 1.0	d wa ngz
+trét 1.0	tr e tc
+cứt 1.0	k uw tc
+nhớn 1.0	nh ow nz
+chun 1.0	ch u nz
+hóp 1.0	h o pc
+đăm 1.0	dd aw mz
+rắp 1.0	r aw pc
+tọt 1.0	t o tc
+hiềm 1.0	h ie mz
+nhể 1.0	nh ee
+rởm 1.0	r ow mz
+bô 1.0	b oo
+bấn 1.0	b aa nz
+khấc 1.0	kh aa kc
+tậu 1.0	t aa uz
+mui 1.0	m u iz
+nghẽo 1.0	ng e uz
+quăn 1.0	k w aw nz
+bộp 1.0	b oo pc
+ké 1.0	k e
+loe 1.0	l w e
+nhuốc 1.0	nh uo kc
+choai 1.0	ch w a iz
+khau 1.0	kh a uz
+nghét 1.0	ng e tc
+gộc 1.0	g oo kc
+bụm 1.0	b u mz
+hử 1.0	h uw
+lự 1.0	l uw
+vàm 1.0	v a mz
+đớp 1.0	dd ow pc
+bẩy 1.0	b aa iz
+bụp 1.0	b u pc
+bìm 1.0	b i mz
+bịp 1.0	b i pc
+nện 1.0	n ee nz
+khướu 1.0	kh wa uz
+ngủm 1.0	ng u mz
+sởn 1.0	s ow nz
+hửng 1.0	h uw ngz
+ót 1.0	o tc
+quẩy 1.0	k w aa iz
+diễu 1.0	d ie uz
+khướt 1.0	kh wa tc
+khui 1.0	kh u iz
+chóp 1.0	ch o pc
+sượng 1.0	s wa ngz
+ngâu 1.0	ng aa uz
+chình 1.0	ch i ngz
+seo 1.0	s e uz
+sạ 1.0	s a
+sộp 1.0	s oo pc
+chíp 1.0	ch i pc
+sấn 1.0	s aa nz
+cùm 1.0	k u mz
+quạ 1.0	k w a
+sém 1.0	s e mz
+nhợ 1.0	nh ow
+xuýt 1.0	s w i tc
+díp 1.0	d i pc
+quẹt 1.0	k w e tc
+khoắng 1.0	kh w aw ngz
+nịt 1.0	n i tc
+vẩu 1.0	v aa uz
+bốt 1.0	b oo tc
+phà 1.0	ph a
+oang 1.0	w a ngz
+sụ 1.0	s u
+mủng 1.0	m u ngz
+ẹp 1.0	e pc
+xo 1.0	s o
+nạm 1.0	n a mz
+dìm 1.0	d i mz
+nhởn 1.0	nh ow nz
+nhơ 1.0	nh ow
+mom 1.0	m o mz
+bốp 1.0	b oo pc
+bớp 1.0	b ow pc
+ruộm 1.0	r uo mz
+đỏm 1.0	dd o mz
+ngăm 1.0	ng aw mz
+mưng 1.0	m uw ngz
+đét 1.0	dd e tc
+đụp 1.0	dd u pc
+rấm 1.0	r aa mz
+rộm 1.0	r oo mz
+chậc 1.0	ch aa kc
+dởm 1.0	d ow mz
+sến 1.0	s ee nz
+câng 1.0	k aa ngz
+dái 1.0	d a iz
+nhây 1.0	nh aa iz
+kệch 1.0	k ee kc
+dom 1.0	d o mz
+lủn 1.0	l u nz
+khủy 1.0	kh w i
+chạ 1.0	ch a
+véo 1.0	v e uz
+pi 1.0	p i
+dằm 1.0	d aw mz
+dớp 1.0	d ow pc
+bợt 1.0	b ow tc
+nghển 1.0	ng ee nz
+dúng 1.0	d u ngz
+trảm 1.0	tr a mz
+chạc 1.0	ch a kc
+hếch 1.0	h ee kc
+triện 1.0	tr ie nz
+nhèo 1.0	nh e uz
+chầy 1.0	ch aa iz
+khoeo 1.0	kh w e uz
+phạn 1.0	ph a nz
+ràn 1.0	r a nz
+tênh 1.0	t ee ngz
+rướn 1.0	r wa nz
+dật 1.0	d aa tc
+lườm 1.0	l wa mz
+chĩa 1.0	ch ie
+kẹ 1.0	k e
+nhách 1.0	nh a kc
+ré 1.0	r e
+khiền 1.0	kh ie nz
+dô 1.0	d oo
+sui 1.0	s u iz
+vểnh 1.0	v ee ngz
+cồi 1.0	k oo iz
+kềm 1.0	k ee mz
+đon 1.0	dd o nz
+hoắm 1.0	h w aw mz
+hoen 1.0	h w e nz
+khuyển 1.0	kh w ie nz
+muồng 1.0	m uo ngz
+thết 1.0	th ee tc
+quèo 1.0	k w e uz
+đẹt 1.0	dd e tc
+dứ 1.0	d uw
+giẻ 1.0	d e
+sề 1.0	s ee
+luốc 1.0	l uo kc
+nưa 1.0	n wa
+kiếng 1.0	k ie ngz
+pô 1.0	p oo
+háu 1.0	h a uz
+chổng 1.0	ch oo ngz
+duối 1.0	d uo iz
+đoản 1.0	dd w a nz
+bôn 1.0	b oo nz
+phịu 1.0	ph i uz
+hèm 1.0	h e mz
+chũm 1.0	ch u mz
+rằn 1.0	r aw nz
+boong 1.0	b w o ngz
+vượn 1.0	v wa nz
+rù 1.0	r u
+nhoè 1.0	nh w e
+chạo 1.0	ch a uz
+ngố 1.0	ng oo
+tợn 1.0	t ow nz
+chùy 1.0	ch w i
+rum 1.0	r u mz
+khoé 1.0	kh w e
+gồi 1.0	g oo iz
+đì 1.0	dd i
+bương 1.0	b wa ngz
+rư 1.0	r uw
+nghệch 1.0	ng ee kc
+săng 1.0	s aw ngz
+rìu 1.0	r i uz
+nhiễn 1.0	nh ie nz
+duốc 1.0	d uo kc
+nghỉm 1.0	ng i mz
+dợ 1.0	d ow
+bem 1.0	b e mz
+sổng 1.0	s oo ngz
+rui 1.0	r u iz
+meo 1.0	m e uz
+pan 1.0	p a nz
+xờ 1.0	s ow
+phứa 1.0	ph wa
+nhẳng 1.0	nh aw ngz
+cấc 1.0	k aa kc
+sổi 1.0	s oo iz
+nậng 1.0	n aa ngz
+phệt 1.0	ph ee tc
+nẫu 1.0	n aa uz
+nứng 1.0	n uw ngz
+nẫng 1.0	n aa ngz
+gôm 1.0	g oo mz
+hẩu 1.0	h aa uz
+bứ 1.0	b uw
+ruối 1.0	r uo iz
+thè 1.0	th e
+ất 1.0	aa tc
+bứng 1.0	b uw ngz
+khằng 1.0	kh aw ngz
+rền 1.0	r ee nz
+mụi 1.0	m u iz
+chúm 1.0	ch u mz
+bựa 1.0	b wa
+bổi 1.0	b oo iz
+nục 1.0	n u kc
+úi 1.0	u iz
+lườn 1.0	l wa nz
+lèn 1.0	l e nz
+buồi 1.0	b uo iz
+doa 1.0	d w a
+vống 1.0	v oo ngz
+ém 1.0	e mz
+quắm 1.0	k w aw mz
+niệt 1.0	n ie tc
+phẩn 1.0	ph aa nz
+rều 1.0	r ee uz
+mụt 1.0	m u tc
+pao 1.0	p a uz
+giộp 1.0	d oo pc
+thủm 1.0	th u mz
+hoảnh 1.0	h w a ngz
+phụt 1.0	ph u tc
+bịnh 1.0	b i ngz
+quện 1.0	k w ee nz
+muôi 1.0	m uo iz
+huỵch 1.0	h w i kc
+gừ 1.0	g uw
+phềnh 1.0	ph ee ngz
+chảu 1.0	ch a uz
+phom 1.0	ph o mz
+kiễng 1.0	k ie ngz
+rúp 1.0	r u pc
+nọn 1.0	n o nz
+bồm 1.0	b oo mz
+khạp 1.0	kh a pc
+cạ 1.0	k a
+giào 1.0	d a uz
+lẵng 1.0	l aw ngz
+sat 1.0	s a tc
+oạch 1.0	w a kc
+hụp 1.0	h u pc
+chận 1.0	ch aa nz
+bủng 1.0	b u ngz
+rí 1.0	r i
+đứ 1.0	dd uw
+hèo 1.0	h e uz
+giâm 1.0	d aa mz
+sặt 1.0	s aw tc
+sậy 1.0	s aa iz
+ngoạm 1.0	ng w a mz
+ếm 1.0	ee mz
+diềm 1.0	d ie mz
+gon 1.0	g o nz
+giội 1.0	d oo iz
+lựng 1.0	l uw ngz
+bím 1.0	b i mz
+hứ 1.0	h uw
+dừ 1.0	d uw
+bễ 1.0	b ee
+ợt 1.0	ow tc
+rường 1.0	r wa ngz
+dảnh 1.0	d a ngz
+khoằm 1.0	kh w aw mz
+phịa 1.0	ph ie
+rương 1.0	r wa ngz
+kễnh 1.0	k ee ngz
+hụm 1.0	h u mz
+têm 1.0	t ee mz
+rũa 1.0	r w a
+tếch 1.0	t ee kc
+ẳng 1.0	aw ngz
+luốt 1.0	l uo tc
+đoi 1.0	dd o iz
+nân 1.0	n aa nz
+ề 1.0	ee
+chuội 1.0	ch uo iz
+lụn 1.0	l u nz
+nỡm 1.0	n ow mz
+liếp 1.0	l ie pc
+khẹc 1.0	kh e kc
+dận 1.0	d aa nz
+bạnh 1.0	b a ngz
+nhẳn 1.0	nh aw nz
+kiếu 1.0	k ie uz
+sè 1.0	s e
+rặt 1.0	r aw tc
+tẽ 1.0	t e
+nhòng 1.0	nh o ngz
+nhỡn 1.0	nh ow nz
+đũi 1.0	dd u iz
+sị 1.0	s i
+hoẵng 1.0	h w aw ngz
+quành 1.0	k w a ngz
+sịch 1.0	s i kc
+hoái 1.0	h w a iz
+ngòn 1.0	ng o nz
+choẹt 1.0	ch w e tc
+khòm 1.0	kh o mz
+bẻm 1.0	b e mz
+ngù 1.0	ng u
+giát 1.0	d a tc
+nánh 1.0	n a ngz
+sít 1.0	s i tc
+bỏi 1.0	b o iz
+phị 1.0	ph i
+hoả 1.0	h w a
+choái 1.0	ch w a iz
