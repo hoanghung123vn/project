@@ -1,24 +1,21 @@
 #!/usr/bin/env bash
 
-# Copyright 2015  University of Sheffield (Author: Ning Ma)
-# Apache 2.0.
-#
-# Scripts for preparing grammar for the GRID corpus (or CHiME 1)
-
 echo "Preparing grammar for test"
 
 . ./config.sh # Needed for REC_ROOT and WAV_ROOT
 
 # Setup relevant folders
+localdir="$REC_ROOT/data/local"
+input="$REC_ROOT/input"
 lang="$REC_ROOT/data/lang"
-utils="utils"
+mkdir $localdir/tmp
 
 # Create FST grammar for the GRID
-grammar_cmd="local/create_chime1_grammar.pl"
+echo "Make lm.arpa"
+ngram-count -order 4 -write-vocab $input/vocab.txt -wbdiscount -text $input/corpus.txt -lm $localdir/tmp/lm.arpa
 
-fstcompile --isymbols=$lang/words.txt --osymbols=$lang/words.txt \
-  --keep_isymbols=false --keep_osymbols=false | fstarcsort --sort_type=ilabel \
-  > $lang/G.fst || exit 1
+echo "Make G.fst"
+arpa2fst --disambig-symbol=#0 --read-symbol-table=$lang/words.txt $localdir/tmp/lm.arpa $lang/G.fst || exit 1
 
 # Draw the FST
 #echo "fstdraw --isymbols=$lang/words.txt --osymbols=$lang/words.txt $lang/G.fst | dot -Tps > local/G.ps"

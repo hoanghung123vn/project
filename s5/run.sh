@@ -16,7 +16,7 @@ stage=0
 . parse_options.sh || exit 1;
 
 # Define number of parallel jobs
-njobs=20
+njobs=8
 
 # Silence boost factor
 boost_silence=1.0

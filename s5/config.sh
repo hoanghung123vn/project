@@ -1,6 +1,6 @@
 case "$USER" in
 "")
-  # CHiME Challenge wav root (after unzipping)...
+  # Wav root (after unzipping)...
   export WAV_ROOT="/opt/data" 
 
   # Used by the recogniser for storing data/ exp/ mfcc/ etc

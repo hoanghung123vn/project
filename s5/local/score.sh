@@ -1,12 +1,4 @@
 #!/usr/bin/env bash
-# Copyright 2012  Johns Hopkins University (Author: Daniel Povey)
-# Apache 2.0
-
-# Copyright 2015  University of Sheffield (Author: Ning Ma)
-# Apache 2.0.
-#
-# This script computes keyword (letter+digit) recognition accuracies across 
-# SNRs for the 1st CHiME challenge
 
 cmd=run.pl
 
@@ -39,7 +31,7 @@ $cmd $dir/scoring/log/best_path.log \
 cat $dir/scoring/trans.int | utils/int2sym.pl -f 2- $symtab \
   | sed 's:\<UNK\>::g;s:<SIL>::g' > $dir/scoring/trans.txt
 
-local/compute_chime1_scores.pl $dir/scoring/trans.txt > $dir/keyword_scores.txt
+local/compute_vn_scores.pl $dir/scoring/trans.txt > $dir/keyword_scores.txt
 
 echo "Scores are available in $dir/keyword_scores.txt"
 cat $dir/keyword_scores.txt
