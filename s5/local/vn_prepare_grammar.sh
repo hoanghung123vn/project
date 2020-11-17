@@ -3,11 +3,13 @@
 echo "Preparing grammar for test"
 
 . ./config.sh # Needed for REC_ROOT and WAV_ROOT
+. $KALDI_ROOT/tools/env.sh
 
 # Setup relevant folders
 localdir="$REC_ROOT/data/local"
 input="$REC_ROOT/input"
 lang="$REC_ROOT/data/lang"
+rm -rf $localdir/tmp
 mkdir $localdir/tmp
 
 # Create FST grammar for the GRID
