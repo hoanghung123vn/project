@@ -1,7 +1,7 @@
 case "$USER" in
 "")
   # Wav root (after unzipping)...
-  export WAV_ROOT="/opt/data" 
+  export WAV_ROOT="./wav" 
 
   # Used by the recogniser for storing data/ exp/ mfcc/ etc
   export REC_ROOT="." 

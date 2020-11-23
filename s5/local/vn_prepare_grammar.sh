@@ -14,7 +14,7 @@ mkdir $localdir/tmp
 
 # Create FST grammar for the GRID
 echo "Make lm.arpa"
-ngram-count -order 4 -write-vocab $input/vocab.txt -wbdiscount -text $input/corpus.txt -lm $localdir/tmp/lm.arpa
+ngram-count -order 4 -write-vocab $input/vocab.txt -wbdiscount -text $input/corpus.txt -lm $localdir/tmp/lm.arpa sort
 
 echo "Make G.fst"
 arpa2fst --disambig-symbol=#0 --read-symbol-table=$lang/words.txt $localdir/tmp/lm.arpa $lang/G.fst || exit 1

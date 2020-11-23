@@ -290,7 +290,7 @@ if [ -f $data/cmvn.scp ]; then
   fi
 fi
 
-#if [ -f $data/spk2gender ]; then
+# if [ -f $data/spk2gender ]; then
 #  check_sorted_and_uniq $data/spk2gender
 #  ! cat $data/spk2gender | awk '{if (!((NF == 2 && ($2 == "m" || $2 == "f")))) exit 1; }' && \
 #     echo "$0: Mal-formed spk2gender file" && exit 1;
@@ -302,12 +302,12 @@ fi
 #    partial_diff $tmpdir/speakers{,.spk2gender}
 #    exit 1;
 #  fi
-#fi
+# fi
 
 if [ -f $data/spk2warp ]; then
   check_sorted_and_uniq $data/spk2warp
   ! cat $data/spk2warp | awk '{if (!((NF == 2 && ($2 > 0.5 && $2 < 1.5)))){ print; exit 1; }}' && \
-     echo "$0: Mal-formed spk2warp file" && exit 1;
+     echo "$0: Mal-formed spk2warp file - number" && exit 1;
   cat $data/spk2warp | awk '{print $1}' > $tmpdir/speakers.spk2warp
   cat $data/spk2utt | awk '{print $1}' > $tmpdir/speakers
   if ! cmp -s $tmpdir/speakers{,.spk2warp}; then

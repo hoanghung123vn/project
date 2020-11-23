@@ -120,8 +120,8 @@ silprob=false
 
 [ -f path.sh ] && . ./path.sh
 
-#! utils/validate_dict_dir.pl $srcdir && \
-#  echo "*Error validating directory $srcdir*" && exit 1;
+! utils/validate_dict_dir.pl $srcdir && \
+ echo "*Error validating directory $srcdir*" && exit 1;
 
 if [[ ! -f $srcdir/lexicon.txt ]]; then
   echo "**Creating $srcdir/lexicon.txt from $srcdir/lexiconp.txt"
@@ -137,11 +137,11 @@ if [ ! -z "$unk_fst" ] && [ ! -f "$unk_fst" ]; then
   exit 1
 fi
 
-#if ! utils/validate_dict_dir.pl $srcdir >&/dev/null; then
-#  utils/validate_dict_dir.pl $srcdir  # show the output.
-#  echo "Validation failed (second time)"
-#  exit 1;
-#fi
+if ! utils/validate_dict_dir.pl $srcdir >&/dev/null; then
+ utils/validate_dict_dir.pl $srcdir  # show the output.
+ echo "Validation failed (second time)"
+ exit 1;
+fi
 
 # phones.txt file provided, we will do some sanity check here.
 if [[ ! -z $phone_symbol_table ]]; then

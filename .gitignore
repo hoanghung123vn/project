@@ -2,6 +2,7 @@ s5/data/lang/
 s5/data/local/lang
 s5/mfcc/
 s5/exp/
+s5/wav/
 s5/data/local/tmp/
 s5/data/train/conf/
 s5/data/test/conf/
