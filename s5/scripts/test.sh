@@ -1,0 +1,1 @@
+awk '{ if (NR <= 9) { print "XHUSTSPK01_R00" NR " " $0 } else if (NR <= 99) { print "XHUSTSPK01_R0" NR " " $0 } else if (NR <= 250) { print "XHUSTSPK01_R" NR " " $0 } else if (NR <= 500) { print "XHUSTSPK02_R" NR " " $0 } else if (NR <= 750) { print "XHUSTSPK03_R" NR " " $0 } else { print "XHUSTSPK04_R" NR " " $0 } }' train.txt > textnew.txt

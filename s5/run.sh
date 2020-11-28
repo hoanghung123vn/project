@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+date --date "7 hour"
+
 . ./cmd.sh
 . ./path.sh # Needed for KALDI_ROOT
 . ./config.sh # Needed for REC_ROOT and WAV_ROOT
@@ -12,7 +14,7 @@ if [ ! -d $WAV_ROOT ]; then
 fi
 
 # Define stage (useful for skipping some stagess)
-stage=0
+stage=4
 . parse_options.sh || exit 1;
 
 # Define number of parallel jobs
@@ -117,10 +119,10 @@ if [ $stage -le 4 ]; then
 
   for x in $set_list; do
     if [ -d "$data/$x" ]; then
-      $steps/decode.sh --nj $njobs --cmd "$decode_cmd" \
+      $steps/decode.sh --config conf/decode.config --nj $njobs --cmd "$decode_cmd" \
         $exp/tri2b/graph $data/$x $exp/tri2b/decode_$x || exit 1
     fi
   done
 fi
 
-
+date --date "7 hour"

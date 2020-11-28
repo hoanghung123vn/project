@@ -44,3 +44,7 @@ VIVOSSPK43 /opt/kaldi/egs/vietnamese2/s5/./mfcc/cmvn_train.ark:10511
 VIVOSSPK44 /opt/kaldi/egs/vietnamese2/s5/./mfcc/cmvn_train.ark:10761
 VIVOSSPK45 /opt/kaldi/egs/vietnamese2/s5/./mfcc/cmvn_train.ark:11011
 VIVOSSPK46 /opt/kaldi/egs/vietnamese2/s5/./mfcc/cmvn_train.ark:11261
+XHUSTSPK01 /opt/kaldi/egs/vietnamese2/s5/./mfcc/cmvn_train.ark:11511
+XHUSTSPK02 /opt/kaldi/egs/vietnamese2/s5/./mfcc/cmvn_train.ark:11761
+XHUSTSPK03 /opt/kaldi/egs/vietnamese2/s5/./mfcc/cmvn_train.ark:12011
+XHUSTSPK04 /opt/kaldi/egs/vietnamese2/s5/./mfcc/cmvn_train.ark:12261
