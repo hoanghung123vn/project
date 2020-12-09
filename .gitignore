@@ -8,3 +8,9 @@ s5/data/train/conf/
 s5/data/test/conf/
 s5/data/train/split*/
 s5/data/test/split*/
+s5/transcriptions/*.ark
+s5/transcriptions/cmvn.scp
+s5/transcriptions/*feats.scp
+s5/transcriptions/lda*.scp
+s5/transcriptions/*.txt
+s5/transcriptions/*.tra
