@@ -13,7 +13,7 @@ compute-cmvn-stats \
     scp:transcriptions/feats.scp \
     ark,scp:transcriptions/cmvn.ark,transcriptions/cmvn.scp
 
-# LATTICE
+# FEATURE VECTORS + CMVN --> LATTICE
 gmm-latgen-faster \
     --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true \
     --word-symbol-table=./exp/tri2b/graph/words.txt ./exp/tri2b/final.mdl ./exp/tri2b/graph/HCLG.fst \
